@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是对用户指南的描述，将显示在登陆页面上。
-source-git-commit: 5d57d42623343ef5b968a4dc4368cc9ea4932d9d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 39%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 39%
    + [参与](/help/opportunity-types/engagement.md)
    + [网站健康](/help/opportunity-types/site-health.md)
    + [安全态势](/help/opportunity-types/security-posture.md)
-   + [表单优化](/help/opportunity-types/form-optimization.md)
 + 文档{#documentation}
    + [概述](/help/documentation/overview.md)
    + [基本信息](/help/documentation/basics.md)
@@ -35,8 +34,6 @@ ht-degree: 39%
       + [元数据无效或缺失](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [结构化数据缺失或无效](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [缺少替换文字](/help/documentation/opportunities/missing-alt-text.md)
-      + [低转化](/help/documentation/opportunities/low-conversions.md)
-      + [低视图](/help/documentation/opportunities/low-views.md)
       + [网站地图问题](/help/documentation/opportunities/sitemap-issues.md)
       + [网站权限](/help/documentation/opportunities/website-permissions.md)
       + [网站漏洞](/help/documentation/opportunities/website-vulnerabilities.md)
