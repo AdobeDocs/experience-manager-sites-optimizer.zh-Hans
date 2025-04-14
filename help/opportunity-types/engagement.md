@@ -1,19 +1,19 @@
 ---
-title: 使用Sites Optimizer优化参与
-description: 了解如何改进与Sites Optimizer的互动。
+title: 使用 Sites Optimizer 优化参与度
+description: 了解如何使用 Sites Optimizer 提高参与度。
 source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 参与机会
+# 参与度机会
 
-![参与机会](./assets/engagement/hero.png){align="center"}
+![参与度机会](./assets/engagement/hero.png){align="center"}
 
-AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进行交互的可操作见解来增强数字体验至关重要。 通过确定需要改进的方面 — 例如无障碍问题、内部链接损坏、高跳出率和缺少替换文本 — 营销人员和内容作者可以优化其站点以提高性能和用户参与。 这些机会有助于确保内容有效、可发现且引人注目，最终推动更高转化率以及更顺畅的客户历程。 利用AEM Sites Optimizer的建议，团队可以不断优化其数字策略并大规模提供高影响力的体验。
+AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，因为它可以提供有关用户如何与网页交互的可操作分析。通过识别需要改进的领域（例如无障碍问题、中断的内部链接、高跳出率和缺少替代文本），营销人员和内容作者可以优化他们的网站，以获得更好的性能和用户参与度。这些机会有助于确保内容有效、易于发现且引人注目，最终推动更高的转化和更无缝的客户历程。利用 AEM Sites Optimizer 的推荐，团队可以不断完善其数字策略，并大规模提供高影响力的体验。
 
 
 ## 机会
@@ -41,8 +41,8 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/accessibility-issues.md" title="辅助功能问题" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="辅助功能问题"
+                    <a href="../documentation/opportunities/accessibility-issues.md" title="无障碍问题" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-puzzle.png" alt="无障碍问题"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -50,9 +50,9 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="辅助功能问题">辅助功能问题</a>
+                        <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="无障碍问题">无障碍问题</a>
                     </p>
-                    <p class="is-size-6">了解无障碍问题机会以及如何使用它提高网站上的安全性。</p>
+                    <p class="is-size-6">了解无障碍问题机会，以及如何使用它来提高您网站的安全性。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -73,9 +73,9 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="中断的内部链接">内部链接已断开</a>
+                        <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" title="中断的内部链接">中断的内部链接</a>
                     </p>
-                    <p class="is-size-6">了解断开链接的机会，以及如何使用它来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解中断的链接机会，以及如何使用它来提高您网站的参与度。</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -98,7 +98,7 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="高跳出率">高跳出率</a>
                     </p>
-                    <p class="is-size-6">了解低查看次数机会以及如何使用它来提高您网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低浏览量机会，以及如何使用它来提高您网站的表单参与度。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -110,8 +110,8 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/missing-alt-text.md" title="缺少替换文字" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="缺少替换文字"
+                    <a href="../documentation/opportunities/missing-alt-text.md" title="缺少替代文本" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="缺少替代文本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,9 +119,9 @@ AEM Sites Optimizer中的参与机会对于通过提供用户如何与网页进�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="缺少替换文字">缺少替换文字</a>
+                        <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" title="缺少替代文本">缺少替代文本</a>
                     </p>
-                    <p class="is-size-6">了解错失的替换文字机会以及如何使用它来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解缺少替代文本机会，以及如何使用它来提高您网站上的参与度。</p>
                 </div>
                 <a href="../documentation/opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

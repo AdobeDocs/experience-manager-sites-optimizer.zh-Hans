@@ -1,23 +1,23 @@
 ---
-title: Sites Optimizer文档
-description: Experience Manager Sites Optimizer文档
+title: Sites Optimizer 文档
+description: Experience Manager Sites Optimizer 文档。
 source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Sites Optimizer文档
+# Sites Optimizer 文档
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-欢迎访问Sites Optimizer文档。 您将在此处找到有关如何使用Sites Optimizer优化AEM网站的信息。
+欢迎访问 Sites Optimizer 文档。您将在这里找到有关如何使用 Sites Optimizer 优化 AEM Sites 的信息。
 
-## Site Optimizer基础
+## Site Optimizer 基础知识
 
-浏览AEM Sites Optimizer文档，了解关键UI组件，包括主页功能板、设置配置和优化见解的机会列表。
+浏览 AEM Sites Optimizer 文档以了解关键 UI 组件，包括主页仪表板、设置配置和优化洞察的机会列表。
 
 <!-- CARDS 
 
@@ -45,9 +45,9 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="基本信息">基本信息</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="基础知识">基础知识</a>
                     </p>
-                    <p class="is-size-6">了解Sites Optimizer的基础知识以及如何导航它。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 的基础知识和导航方法。</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -68,9 +68,9 @@ ht-degree: 8%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/overview.md" target="_blank" rel="referrer" title="机会">个机会</a>
+                        <a href="./opportunities/overview.md" target="_blank" rel="referrer" title="机会">机会</a>
                     </p>
-                    <p class="is-size-6">了解所有可用的Site Optimizer机会以及如何使用它们提高站点的性能。</p>
+                    <p class="is-size-6">了解所有可用的 Site Optimizer 机会，以及如何使用它们来提高您网站的性能。</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -93,7 +93,7 @@ ht-degree: 8%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./settings.md" target="_blank" rel="referrer" title="设置">设置</a>
                     </p>
-                    <p class="is-size-6">了解如何配置Sites Optimizer设置以及与其他工具集成。</p>
+                    <p class="is-size-6">了解如何配置 Sites Optimizer 设置，并与其他工具集成。</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
