@@ -3,9 +3,9 @@ title: 网站漏洞机会文档
 description: 了解网站漏洞机会，以及如何使用它来提高您网站的安全性。
 badgeSecurityPosture: label="安全态势" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全态势"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

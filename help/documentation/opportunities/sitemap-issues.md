@@ -3,9 +3,9 @@ title: Sitemap 问题机会文档
 description: 了解 Sitemap 问题机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '486'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

@@ -3,9 +3,9 @@ title: 高跳出率机会文档
 description: 了解低浏览量机会，以及如何使用它来提高您网站的表单参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

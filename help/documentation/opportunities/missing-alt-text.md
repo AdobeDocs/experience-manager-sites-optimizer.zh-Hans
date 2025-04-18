@@ -3,9 +3,9 @@ title: 缺少替代文本文档
 description: 了解缺少替代文本机会，以及如何使用它来提高您网站上的参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '461'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

@@ -3,9 +3,9 @@ title: 无障碍问题机会文档
 description: 了解无障碍问题机会，以及如何使用它来提高您网站的安全性。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 96%
 
 **无障碍问题机会**&#x200B;可以识别您网站上的无障碍问题，包括以下内容：
 
-* **问题** — 发现特定的辅助功能问题。
+* **问题**——发现的特定的无障碍问题。
 * **指南**——该问题所违反的 [WCAG 准则 ID](https://www.w3.org/TR/WCAG21/)。
 * **用户影响**——评估对残障用户的影响。
 * **失败元素**——受该问题影响的网页上的 HTML 元素。

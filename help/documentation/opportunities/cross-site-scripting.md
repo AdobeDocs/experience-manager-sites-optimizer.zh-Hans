@@ -3,9 +3,9 @@ title: 跨站点脚本机会文档
 description: 了解跨站点脚本机会，并识别和修复网站安全漏洞。
 badgeSecurityPosture: label="安全态势" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全态势"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
