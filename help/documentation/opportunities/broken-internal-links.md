@@ -3,9 +3,9 @@ title: 中断的内部链接机会文档
 description: 了解中断的链接机会，以及如何使用它来提高您网站的参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
