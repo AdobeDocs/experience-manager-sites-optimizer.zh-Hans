@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 文档
 description: Experience Manager Sites Optimizer 文档。
-source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 87%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-欢迎访问 Sites Optimizer 文档。您将在这里找到有关如何使用 Sites Optimizer 优化 AEM Sites 的信息。
+欢迎访问 Sites Optimizer 文档。在这里，您可以找到有关如何使用Sites Optimizer优化AEM网站的信息。
 
 ## Site Optimizer 基础知识
 

@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 机会文档
 description: 了解所有可用的 Site Optimizer 机会，以及如何使用它们来提高您网站的性能。
-source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: ht
-source-wordcount: '758'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '756'
+ht-degree: 92%
 
 ---
 
@@ -20,7 +20,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
 
 ## 机会状态
 
-使用位于顶部的选项卡可以按状态组织和筛选机会：
+使用顶部的选项卡按状态组织和筛选机会。
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
 
 ## 机会
 
-选择[机会状态](#opportunity-status)后，您可以查看机会列表。机会列表可以通过以下方式进一步筛选：
+选择[机会状态](#opportunity-status)后，您可以查看机会列表。您可以通过以下方式筛选机会列表：
 
 * **搜索**——通过&#x200B;**关键字、标记或 URL** 搜索机会。
 * **机会类型**——使用&#x200B;**类型**&#x200B;下拉菜单按[机会类型](/help/opportunity-types/overview.md)筛选机会。
@@ -56,9 +56,10 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
 每个机会都提供了问题的简要描述、其对您网站的潜在影响以及关于完整详细信息的链接。您还可以查看它的状态，表明它是否已优化或仍处于待处理状态。
 
 * **机会标题**——问题的简要描述及其对您网站性能的潜在影响。
-* **上次更新**——Sites Optimizer 上次使用新数据更新该机会的日期。
+* **上次更新时间** - Sites Optimizer上次更新此日期的新数据的商机。
+
 * **问题计数**——在您的网站上识别的该问题实例数。
-* **机会类型**——此机会所属的[机会类型](/help/opportunity-types/overview.md)，例如流量获取、参与度或网站健康状况。
+* **机会类型** — 此机会所属的[机会类型](/help/opportunity-types/overview.md) — 如流量获取、参与或网站运行状况。
 
 每个机会的摘要信息因类型而异，可能包括有关收入影响、流量、用户参与度或安全威胁的详细信息。
 

@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 优化流量获取
 description: 了解如何使用 Sites Optimizer 提高流量获取。
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: ht
-source-wordcount: '237'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '233'
+ht-degree: 63%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![流量获取机会](./assets/traffic-acquisition/hero.png){align="center"}
 
-流量获取对于吸引潜在客户访问您的网站至关重要，并创造销售或商机开发机会。通过利用搜索引擎优化（SEO）等策略，企业可以提高搜索可见性，并让用户更容易发现他们的内容。稳定的访客流不仅可以提升品牌意识和信任度，还可以提供对用户行为的宝贵洞察，帮助团队完善产品或服务，并提升整体体验。利用 AEM Sites Optimizer 的洞察，可以进行持续优化，确保长期持续增长，并提高转化率。
+流量获取将推动潜在客户访问您的网站，并创造销售或潜在商机。 通过使用搜索引擎优化(SEO)等策略，企业可以提高搜索可见性，使用户更容易发现其内容。 稳定的访客流量可提升品牌知名度并建立信任。 此外，它还可生成关于用户行为的宝贵洞察。 这些见解可帮助团队完善其产品并提升整体体验。 使用AEM Sites Optimizer的见解可实现持续优化，确保持续增长并随着时间的推移提高转化率。
 
 ## 机会
 

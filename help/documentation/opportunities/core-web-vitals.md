@@ -2,10 +2,10 @@
 title: Core Web Vitals 机会文档
 description: 了解 Core Web Vitals 机会，以及如何使用它来提高流量获取。
 badgeSiteHealth: label="网站健康" type="Caution" url="../../opportunity-types/site-health.md" tooltip="网站健康"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '376'
+ht-degree: 86%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![Core Web Vitals 机会](./assets/core-web-vitals/hero.png){align="center"}
 
-Core Web Vitals 机会可以识别可能降低网页用户体验和自然搜索性能的问题。这些问题由多种因素引起，例如：自定义字体、未优化的 javascript 依赖项、第三方脚本等等。Core Web Vitals 机会指出这些错误元素，并建议可以提高网页性能的修复方法。请注意，只有浏览量至少为 1000 次的页面才可以进行分析。
+Core Web Vitals 机会可以识别可能降低网页用户体验和自然搜索性能的问题。这些问题由一系列因素引起，例如：自定义字体、未优化的JavaScript依赖项、第三方脚本等。 Core Web Vitals 机会指出这些错误元素，并建议可以提高网页性能的修复方法。请注意，只有浏览量至少为 1000 次的页面才可以进行分析。
 
 首先，Core Web Vital 机会在页面顶部显示摘要，包括故障总结及其对您的网站和业务的影响。
 
@@ -32,7 +32,11 @@ Core Web Vitals 机会可以识别可能降低网页用户体验和自然搜索�
 
 每个问题都显示在一张表中，其中&#x200B;**页面**&#x200B;列显示受影响的页面条目。
 
-此外，这些问题还根据 Core Web Vital 报告的标准性能量度进行分组：最大内容绘制 **LCP**、交互到下一次绘制 **INP** 和累计布局偏移 **CLS**。
+系统会按照核心Web虚拟报表中的标准性能量度对这些问题进行分组：
+
+* 最大内容绘制&#x200B;**LCP**
+* 与下一个绘制&#x200B;**INP**&#x200B;的交互
+* 累积布局偏移&#x200B;**CLS**
 
 ## 自动建议
 

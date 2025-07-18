@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 优化参与度
 description: 了解如何使用 Sites Optimizer 提高参与度。
-source-git-commit: 62909a9c65a62beb202896d98bb9ab058bcd984a
-workflow-type: ht
-source-wordcount: '238'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '237'
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![参与度机会](./assets/engagement/hero.png){align="center"}
 
-AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，因为它可以提供有关用户如何与网页交互的可操作分析。通过识别需要改进的领域（例如无障碍问题、中断的内部链接、高跳出率和缺少替代文本），营销人员和内容作者可以优化他们的网站，以获得更好的性能和用户参与度。这些机会有助于确保内容有效、易于发现且引人注目，最终推动更高的转化和更无缝的客户历程。利用 AEM Sites Optimizer 的推荐，团队可以不断完善其数字策略，并大规模提供高影响力的体验。
+AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，因为它可以提供有关用户如何与网页交互的可操作分析。通过识别需要改进的领域（例如无障碍问题、中断的内部链接、高跳出率和缺少替代文本），营销人员和内容作者可以优化他们的网站，以获得更好的性能和用户参与度。这些机会有助于确保内容有效、易于发现且引人注目，最终推动更高的转化和更无缝的客户历程。使用AEM Sites Optimizer的建议，团队可以不断优化其数字策略并大规模提供高影响力的体验。
 
 
 ## 机会

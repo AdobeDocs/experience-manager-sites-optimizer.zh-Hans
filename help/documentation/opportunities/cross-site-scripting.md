@@ -2,10 +2,10 @@
 title: 跨站点脚本机会文档
 description: 了解跨站点脚本机会，并识别和修复网站安全漏洞。
 badgeSecurityPosture: label="安全态势" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全态势"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![跨站点机会](./assets/cross-site-scripting/hero.png){align="center"}
 
-跨站点脚本机会可以识别并修复您网站代码中的漏洞，这些漏洞可能被攻击者利用，将恶意脚本注入其他用户查看的网页中。这些脚本可能窃取敏感信息，例如会话 Cookie；或者代表用户执行操作，例如更改用户的密码。
+跨站点脚本机会可识别网站代码中的漏洞。 然后，它修复了攻击者可能利用漏洞将恶意脚本插入其他用户查看的网页中的问题。 这些脚本可能窃取敏感信息，例如会话 Cookie；或者代表用户执行操作，例如更改用户的密码。
 
 ## 自动识别
 

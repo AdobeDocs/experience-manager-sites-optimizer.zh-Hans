@@ -1,10 +1,10 @@
 ---
 title: 使用 Sites Optimizer 优化安全态势
 description: 了解如何使用 Sites Optimizer 提高您网站的安全性。
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: ht
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![安全态势机会](./assets/security-posture/hero.png){align="center"}
 
-在 AEM Sites Optimizer 中保持强大的安全态势对于保护数字体验和用户数据至关重要。通过识别改进机会（例如 CORS 配置、跨站点脚本、网站权限和网站漏洞），团队可以主动应对潜在的安全风险，并确保能够符合最佳实践。加强安全措施不仅可以保护敏感信息，还可以增强用户信任和网站可靠性。利用 AEM Sites Optimizer 的洞察，帮助组织持续监测和改善其安全状况，降低风险并维护安全的数字环境。
+在 AEM Sites Optimizer 中保持强大的安全态势对于保护数字体验和用户数据至关重要。通过识别改进机会（例如 CORS 配置、跨站点脚本、网站权限和网站漏洞），团队可以主动应对潜在的安全风险，并确保能够符合最佳实践。加强安全措施不仅可以保护敏感信息，还可以增强用户信任和网站可靠性。使用AEM Sites Optimizer的见解可帮助组织持续监控和改进其安全立场，减少风险并维护安全的数字环境。
 
 ## 机会
 

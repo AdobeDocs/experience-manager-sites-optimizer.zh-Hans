@@ -2,10 +2,10 @@
 title: 无障碍问题机会文档
 description: 了解无障碍问题机会，以及如何使用它来提高您网站的安全性。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: ht
-source-wordcount: '253'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![无障碍问题机会](./assets/accessibility-issues/hero.png){align="center"}
 
-无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。评估您的网站在多大程度上符合 WCAG，可以帮助您创建包容性的在线体验，让有视觉、听觉、认知和行动障碍的个体能够导航、与您的内容互动并从中受益。这不仅是出于道德原因，而且还能促进遵守法律要求、改善 SEO，并能扩大受众范围，从而提升用户体验和经营业绩。
+无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。通过评估您的站点与WCAG的符合程度，您可以帮助创建包容性的在线体验。 反过来，它又让患有视觉、听觉、认知和运动障碍的用户能够导航、与内容交互并从内容中受益。 此功能不仅出于道德原因而不可或缺，它还能够促进对法律要求的遵守、提高SEO，并会增加受众覆盖面，从而提高用户体验和业务绩效。
 
 ## 自动识别
 
