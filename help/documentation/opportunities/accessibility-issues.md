@@ -2,7 +2,7 @@
 title: 无障碍问题机会文档
 description: 了解无障碍问题机会，以及如何使用它来提高您网站的安全性。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 73%

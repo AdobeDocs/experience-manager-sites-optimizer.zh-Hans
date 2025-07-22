@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 机会类型
 description: 了解 Sites Optimizer 中的关键机会类型，以及它们如何帮助您提高网站的性能。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 62%
