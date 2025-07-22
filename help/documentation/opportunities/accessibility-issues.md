@@ -2,10 +2,10 @@
 title: 无障碍问题机会文档
 description: 了解无障碍问题机会，以及如何使用它来提高您网站的安全性。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 73%
+source-wordcount: '263'
+ht-degree: 71%
 
 ---
 
@@ -53,3 +53,7 @@ Sites Optimizer Ultimate 添加了针对发现的漏洞部署自动优化的功�
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+## 另请参阅
+
+[Forms无障碍问题机会](/help/documentation/opportunities/forms-accessibility-issues.md)

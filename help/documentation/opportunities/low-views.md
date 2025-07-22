@@ -1,32 +1,36 @@
 ---
 title: 低浏览量机会文档
-description: 了解低浏览量机会，以及如何使用它来提高您网站的表单参与度。
-badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+description: 了解低查看次数机会以及如何使用它来提高您网站上的表单参与度。
+badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 32%
 
 ---
 
 
-# 低浏览量机会
+# Forms低视图机会
+
+<span class="preview"> Forms Optimizer功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
 
 ![低浏览量机会](./assets/low-views/hero.png){align="center"}
 
-低浏览量机会可以识别您网站上浏览量较低的表单。这个机会有助于您了解哪些表单表现不佳，并就如何提高其参与率提出建议。通过优化表单浏览量，您可以增加表单提交的数量，并提高网站的整体性能。
+低浏览量机会可以识别您网站上浏览量较低的表单。此机会类型可帮助您了解哪些表单的效果不佳，并提供有关如何提高参与率的建议。
 
 ## 自动识别
 
 ![自动识别低浏览量](./assets/low-views/auto-identify.png){align="center"}
 
-每个包含低浏览量表单的网页都会被列为自己的&#x200B;**低浏览量**&#x200B;机会。机会页面的顶部显示了该机会的简短摘要和 AI 原理。
+每个具有低查看次数的表单的网页都作为自己的&#x200B;**低查看次数**&#x200B;机会列出。 业务机会页顶部显示了业务机会和理由的简要摘要。
 
 ## 自动建议
 
 ![自动建议低浏览量](./assets/low-views/auto-suggest.png){align="center"}
 
-自动建议提供了 AI 生成的网页变体，旨在提高您表单的浏览量。每个变体都会根据其提高表单参与度的潜力显示&#x200B;**预计转化率增加**，帮助您优先选择最有效的建议。
+自动建议提供AI生成的表单变体，这些变体旨在提高表单的查看次数。 每个变体都会根据其改善表单参与度的潜力显示&#x200B;**预计转化率提升**，从而帮助您优先处理最有效的建议。
 
 >[!BEGINTABS]
 
@@ -34,41 +38,46 @@ ht-degree: 100%
 
 ![对照变体](./assets/low-views/control-variation.png){align="center"}
 
-对照变体是您网站上当前存在的原始表单。此变体可作为基准，用于比较建议变体的性能。
+控制变量是网站上当前提供的原始表单。 此变体可作为基准，用于比较建议变体的性能。
 
 >[!TAB 建议的变体]
 
 ![建议的变体](./assets/low-views/suggested-variations.png){align="center"}
 
-建议的变体是 AI 生成的网页变体，旨在提高您表单的浏览量。每个变体都会根据其提高表单参与度的潜力显示&#x200B;**预计的转化率增加**，帮助您优先选择最有效的建议。
+建议的变体是人工智能生成的表单变体，旨在提高表单的查看次数。 每个变体都会根据其改善表单参与度的潜力显示&#x200B;**预计转化率提升**，从而帮助您优先处理最有效的建议。
 
 单击每个变体，即可在屏幕右侧进行预览。在预览顶部提供以下操作和信息：
 
 * **更改**——此变体与&#x200B;**控制**&#x200B;变体相比有哪些更改的简短摘要。
-* **预计的转化率增加**——如果实施此变体，预计表单参与度将会增加。
+* **预计转化率增长** — 如果实施此变量，则预计表单参与度将增长。
 * **编辑**——单击即可在 AEM 创作中编辑此变体。
 
 >[!ENDTABS]
 
-## 自动优化
+<!-- 
+
+## Auto-optimize
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![自动优化低浏览量](./assets/low-views/auto-optimize.png){align="center"}
+![Auto-optimize low views](./assets/low-views/auto-optimize.png){align="center"}
 
-Sites Optimizer Ultimate 添加了针对低浏览量机会发现的问题部署自动优化的功能。
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low views opportunity.
 
 >[!BEGINTABS]
 
->[!TAB 测试多个]
+>[!TAB Test multiple]
 
 
->[!TAB 发布所选项]
+>[!TAB Publish selected]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB 请求审批]
+>[!TAB Request approval]
 
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+-->
+
