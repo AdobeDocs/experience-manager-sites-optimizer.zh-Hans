@@ -5,7 +5,7 @@ badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/e
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 71%
+ht-degree: 97%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 71%
 
 ![无障碍问题机会](./assets/accessibility-issues/hero.png){align="center"}
 
-无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。通过评估您的站点与WCAG的符合程度，您可以帮助创建包容性的在线体验。 反过来，它又让患有视觉、听觉、认知和运动障碍的用户能够导航、与内容交互并从内容中受益。 此功能不仅出于道德原因而不可或缺，它还能够促进对法律要求的遵守、提高SEO，并会增加受众覆盖面，从而提高用户体验和业务绩效。
+无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。通过评估您的网站在多大程度上符合《网页内容无障碍指南（WCAG）》，您将有助于打造具有包容性的在线体验。如此一来，视力、听力、认知和行动能力受限的用户也能够浏览、互动并受益于您的内容。这一功能不仅在道义上至关重要，还有助于满足法律合规要求、提升搜索引擎优化效果，并拓展受众覆盖范围，从而优化用户体验并提升业务表现。
 
 ## 自动识别
 

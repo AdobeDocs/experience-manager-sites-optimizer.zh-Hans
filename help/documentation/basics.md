@@ -4,7 +4,7 @@ description: 了解 Sites Optimizer 的基础知识和导航方法。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '511'
-ht-degree: 85%
+ht-degree: 95%
 
 ---
 
@@ -28,7 +28,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 通过导航部分，可以从 Sites Optimizer 中的任何位置快速、持续访问 Sites Optimizer 的关键区域，其中包括：
 
 * **主页**——主仪表板，提供了网站性能和改进机会的高级概述。
-* **Opportunities** — 查看和管理Sites Optimizer识别的机会，包括已优化或仍未优化的机会。
+* **优化机会**——查看并管理由 Sites Optimizer 识别的优化机会，包括已完成优化和尚未优化的项目。
 * **设置**——配置您的 Sites Optimizer 设置，包括正在监控的网站和收到的通知。
 
 ## 网站摘要
@@ -50,7 +50,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 
 “高影响力机会”部分根据对您网站性能的潜在影响，突出显示了最重要的待改进机会。这些机会按类型分类，让您可以轻松地确定优化工作的优先顺序。
 
-按关键字、标记、URL或[机会类型](../opportunity-types/overview.md)筛选机会以关注最关键的改进领域。
+可通过关键词、标记、URL 或[机会类型](../opportunity-types/overview.md)筛选优化项，从而聚焦于最关键的改进领域。
 
 
 ### 机会详细信息
@@ -60,7 +60,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 每个机会都提供了问题的简要描述、其对您网站的潜在影响以及关于完整详细信息的链接。您还可以查看它的状态，表明它是否已优化或仍处于待处理状态。
 
 * **机会标题**——问题的简要描述及其对您网站性能的潜在影响。
-* **上次更新时间** - Sites Optimizer上次更新此日期的新数据的商机。
+* **上次更新**——Sites Optimizer 于此日期使用最新数据更新了该优化机会。
 * **问题计数**——在您的网站上识别的该问题实例数。
 * **机会类型** — 此机会所属的[机会类型](../opportunity-types/overview.md) — 如流量获取、参与、转化或网站运行状况。
 
