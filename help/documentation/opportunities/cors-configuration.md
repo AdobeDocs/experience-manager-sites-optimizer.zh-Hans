@@ -3,9 +3,9 @@ title: CORS 配置机会文档
 description: 了解 CORS 配置机会，并识别和修复网站安全漏洞。
 badgeSecurityPosture: label="安全态势" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全态势"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 ![CORS 配置机会](./assets/cors-configuration/hero.png){align="center"}
 
-正确配置跨源资源共享（CORS）对于保护 Web 应用程序免受未经授权的数据访问至关重要。如果 `Access-Control-Allow-Origin` 标头设置为 `*`，那么任何域都可以请求和接收响应，从而可能将敏感信息暴露给攻击者。此功能提供了一个机会，可以通过实施受信任域的受控允许列表或在不需要时禁用CORS来加强安全性。 确保 CORS 设置的安全性有助于保护私人内容，同时保持授权用户的无缝访问。
+正确配置跨源资源共享（CORS）对于保护 Web 应用程序免受未经授权的数据访问至关重要。如果 `Access-Control-Allow-Origin` 标头设置为 `*`，那么任何域都可以请求和接收响应，从而可能将敏感信息暴露给攻击者。该功能提供了一个机会，通过实施一个可控的信任域允许列表或者在不需要 CORS 时将其禁用来加强安全性。确保 CORS 设置的安全性有助于保护私人内容，同时保持授权用户的无缝访问。
 
 ## 自动识别
 

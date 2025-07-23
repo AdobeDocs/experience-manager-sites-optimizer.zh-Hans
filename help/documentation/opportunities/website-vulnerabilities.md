@@ -3,9 +3,9 @@ title: 网站漏洞机会文档
 description: 了解网站漏洞机会，以及如何使用它来提高您网站的安全性。
 badgeSecurityPosture: label="安全态势" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="安全态势"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '366'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 77%
 
 ![网站漏洞机会](./assets/website-vulnerabilities/hero.png){align="center"}
 
-网站漏洞机会可识别应用程序代码使用的第三方库中的安全漏洞。 恶意攻击者利用此类漏洞，会增加风险并降低网站的安全状态。
+网站漏洞机会可以识别您的应用程序代码使用的第三方库中的安全漏洞。恶意攻击者会利用此类漏洞，从而提高风险并削弱您网站的整体安全防护能力。
 
 网站漏洞机会在页面顶部显示摘要，其中包括以下内容：
 
@@ -37,17 +37,17 @@ ht-degree: 77%
 
 ![自动建议网站漏洞](./assets/website-vulnerabilities/auto-suggest.png){align="center"}
 
-自动建议为您应升级到的易受攻击的库的&#x200B;**推荐版本**&#x200B;提供AI生成的建议。 每个条目都有一个&#x200B;**分数**，表示其总体严重性，有助于确定最关键漏洞的优先级。
+自动建议提供了 AI 生成的建议，帮助您升级到易受攻击库的&#x200B;**推荐版本**。每个条目都有一个&#x200B;**分数**，表示其总体严重性，有助于确定最关键漏洞的优先级。
 
 >[!BEGINTABS]
 
 >[!TAB 漏洞详细信息]
 
-每个漏洞都包含一个连接到[国家漏洞数据库（NVD）](https://nvd.nist.gov/)中详细信息的链接。单击该漏洞标识符或说明右侧的链接项，将转到该漏洞的NVD页面。
+每个漏洞都包含一个连接到[国家漏洞数据库（NVD）](https://nvd.nist.gov/)中详细信息的链接。单击漏洞标识符或描述右侧的链接项，即可进入该漏洞的 NVD 页面。
 
 >[!TAB 忽略条目]
 
-您可以选择忽略漏洞列表中的条目。选择![删除图标](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg)会从列表中删除条目。 从机会页面顶部的&#x200B;**已忽略**&#x200B;选项卡中可以重新启动已忽略的条目。<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+您可以选择忽略漏洞列表中的条目。选择![删除图标](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg)，从列表中移除该条目。从机会页面顶部的&#x200B;**已忽略**&#x200B;选项卡中可以重新启动已忽略的条目。<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 

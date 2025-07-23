@@ -3,9 +3,9 @@ title: 结构化数据缺失或无效文档
 description: 了解结构化数据缺失或无效机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 结构化数据缺失或无效机会列出了在您的网页上检测到的所有问题，包含以下类别：
 
-* **有问题的页面** — 包含无效或缺少结构化数据的页面。
+* **有问题的页面**——结构化数据无效或缺失的页面。
 * **问题和 AI 建议的修复方案**——表示影响页面的结构化数据问题的类型。
 * **建议**——AI 生成的适合结构化数据更新的建议。更多详细信息，请参阅以下部分。
 

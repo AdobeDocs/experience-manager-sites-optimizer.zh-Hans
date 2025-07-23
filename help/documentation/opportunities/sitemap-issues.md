@@ -3,9 +3,9 @@ title: Sitemap 问题机会文档
 description: 了解 Sitemap 问题机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 88%
 
 ![Sitemap 问题机会](./assets/sitemap-issues/hero.png){align="center"}
 
-完整准确的 Sitemap 有助于搜索引擎高效地抓取网站页面并编制索引，确保在搜索结果中达到更好的可见性。Sitemap 机会可以识别您 Sitemap 中存在的潜在问题。修复这些问题可以显着改善搜索引擎索引和您网站上的内容可发现性。
+完整准确的 Sitemap 有助于搜索引擎高效地抓取网站页面并编制索引，确保在搜索结果中达到更好的可见性。Sitemap 机会可以识别您 Sitemap 中存在的潜在问题。修复这些问题可以极大地提高搜索引擎对您网站的索引编制和网站内容可发现性。
 
 摘要显示在页面顶部，包括故障总结及其对您的网站和业务的影响。
 
@@ -36,11 +36,11 @@ ht-degree: 88%
 
 ![自动识别 Sitemap 客户端错误](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
-如果站点地图中的URL返回这些错误，则搜索引擎可能会假定您的站点地图已过期或页面被错误地删除。 客户端表示来自客户端（浏览器或者爬网程序）的请求无效。常见的有：
+如果您 Sitemap 中的 URL 返回这些错误，搜索引擎可能会认为您的 Sitemap 已过时或页面被错误移除。客户端表示来自客户端（浏览器或者爬网程序）的请求无效。常见的有：
 
-* **404未找到** — 请求的页面不存在。
+* **404 未找到**——请求的页面不存在。
 * **403 禁止**——服务器拒绝访问请求的页面。
-* **410不存在** — 该页面已被刻意删除，未返回。
+* **410 不存在**——页面被故意移除，并且不会返回。
 * **401 未授权**——需要身份验证但未提供。
 
 这些错误可能会损害 SEO，尤其是当重要页面返回 **404 或 410** 时，因为搜索引擎可能会取消对它们的索引。
