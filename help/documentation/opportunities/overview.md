@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer 机会文档
 description: 了解所有可用的 Site Optimizer 机会，以及如何使用它们来提高您网站的性能。
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 82%
@@ -310,7 +310,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-conversions.md" title="Forms低转化率" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms低转化率"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms低转化率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-views.md" title="Forms低视图" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="低浏览量"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="低浏览量"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-navigation.md" title="Forms低导航" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms低导航"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms低导航"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./forms-accessibility-issues.md" title="Forms辅助功能问题" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Forms辅助功能问题"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Forms辅助功能问题"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

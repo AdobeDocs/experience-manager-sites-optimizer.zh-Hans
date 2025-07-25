@@ -1,11 +1,11 @@
 ---
-title: Forms Optimizer与Sites Optimizer
-description: 了解带有Sites Optimizer的Forms Optimizer。
+title: 使用Sites Optimizer进行Forms优化
+description: 了解使用Sites Optimizer进行Forms优化。
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 11%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 11%
 
 # Forms优化机会
 
-<span class="preview"> Forms Optimizer功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
+<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
 
->[!VIDEO](https://video.tv.adobe.com/v/3469472/)
+<!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-<!-- ![Forms Optimization opportunities](./assets/form-optimization/hero.png){align="center"} -->
+![Forms优化机会](./assets/form-optimization/hero.png){align="center"}
 
-Forms优化机会使组织能够系统地改善用户交互并提高表单转化。 通过检测低查看次数、低转化率和低导航率等问题，团队可以对表单设计、版面和内容进行数据驱动调整。 这些优化有助于简化用户体验，使访客更容易完成表单并实现预期结果。 利用Forms Optimizer提供的洞察信息，可支持持续识别和解决性能差距，从而实现更有效的表单和改进的业务成果。
+Forms优化机会使组织能够系统地改善用户交互并提高表单转化。 通过检测低查看次数、低转化率和低导航率等问题，团队可以对表单设计、版面和内容进行数据驱动调整。 这些优化有助于简化用户体验，使访客更容易完成表单并实现预期结果。 利用Forms Optimization提供的见解可支持持续识别和解决性能差距，从而实现更有效的表单和改进的业务成果。
 
 ## 机会
 
@@ -40,7 +40,7 @@ Forms优化机会使组织能够系统地改善用户交互并提高表单转化
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-views.md" title="低浏览量" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低浏览量"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="低浏览量"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +63,7 @@ Forms优化机会使组织能够系统地改善用户交互并提高表单转化
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-conversions.md" title="低转化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-bag.png" alt="低转化"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="低转化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +86,7 @@ Forms优化机会使组织能够系统地改善用户交互并提高表单转化
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="../documentation/opportunities/low-navigation.md" title="低导航" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-arrows.png" alt="低导航"
+                        <img class="is-bordered-r-small" src="../assets/common/card-conversion.png" alt="低导航"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

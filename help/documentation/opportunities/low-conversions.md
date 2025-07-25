@@ -1,10 +1,10 @@
 ---
 title: 低转化机会文档
 description: 了解低转化率机会以及如何使用它来提高您网站上的表单参与度。
-badgeFormOptimization: label="Forms Optimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Optimizer"
+badgeFormOptimization: label="Forms优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms优化"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 27%
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 # Forms低转化率机会
 
-<span class="preview"> Forms Optimizer功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
+<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
 
 ![低转化机会](./assets/low-conversions/hero.png){align="center"}
 

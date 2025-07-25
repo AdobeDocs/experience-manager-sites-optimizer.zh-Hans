@@ -1,9 +1,9 @@
 ---
-title: Forms Optimizer与Sites Optimizer
-description: 了解带有Sites Optimizer的Forms Optimizer。
+title: 使用Sites Optimizer进行Forms优化
+description: 了解使用Sites Optimizer进行Forms优化。
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Forms辅助功能机会
 
-<span class="preview"> Forms Optimizer功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
+<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
 
 ![Forms辅助功能机会](./assets/form-accesibility/hero.png){align="center"}
 
