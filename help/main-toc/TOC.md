@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 83%
    + [参与度](/help/opportunity-types/engagement.md)
    + [网站健康](/help/opportunity-types/site-health.md)
    + [安全态势](/help/opportunity-types/security-posture.md)
-   + [Forms优化](/help/opportunity-types/form-optimization.md)
-   + [Forms辅助功能](/help/opportunity-types/form-accesibility.md)
+   + [表单优化](/help/opportunity-types/form-optimization.md)
+   + [表单无障碍可访问性](/help/opportunity-types/form-accesibility.md)
 + 文档{#documentation}
    + [概述](/help/documentation/overview.md)
    + [基础知识](/help/documentation/basics.md)
@@ -36,10 +36,10 @@ ht-degree: 83%
       + [元数据无效或缺失](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [结构化数据缺失或无效](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [缺少替代文本](/help/documentation/opportunities/missing-alt-text.md)
-      + [Forms低转化率](/help/documentation/opportunities/low-conversions.md)
-      + [Forms低视图](/help/documentation/opportunities/low-views.md)
-      + [Forms低导航](/help/documentation/opportunities/low-navigation.md)
-      + [Forms辅助功能问题](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + [表单低转化](/help/documentation/opportunities/low-conversions.md)
+      + [表单低浏览量](/help/documentation/opportunities/low-views.md)
+      + [表单低导航](/help/documentation/opportunities/low-navigation.md)
+      + [表单无障碍可访问性问题](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Sitemap 问题](/help/documentation/opportunities/sitemap-issues.md)
       + [网站权限](/help/documentation/opportunities/website-permissions.md)
       + [网站漏洞](/help/documentation/opportunities/website-vulnerabilities.md)

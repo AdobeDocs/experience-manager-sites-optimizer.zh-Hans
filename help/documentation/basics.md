@@ -2,9 +2,9 @@
 title: Sites Optimizer 基础知识
 description: 了解 Sites Optimizer 的基础知识和导航方法。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '511'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 * **机会标题**——问题的简要描述及其对您网站性能的潜在影响。
 * **上次更新**——Sites Optimizer 于此日期使用最新数据更新了该优化机会。
 * **问题计数**——在您的网站上识别的该问题实例数。
-* **机会类型** — 此机会所属的[机会类型](../opportunity-types/overview.md) — 如流量获取、参与、转化或网站运行状况。
+* **机会类型**——此机会所属的[机会类型](../opportunity-types/overview.md)，例如流量获取、参与度、转化或网站健康状况。
 
 每个机会的摘要信息因类型而异，可能包括有关收入影响、流量、用户参与度或安全威胁的详细信息。
 

@@ -2,9 +2,9 @@
 title: 使用 Sites Optimizer 优化参与度
 description: 了解如何使用 Sites Optimizer 提高参与度。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -98,7 +98,7 @@ AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="高跳出率">高跳出率</a>
                     </p>
-                    <p class="is-size-6">了解低查看次数机会以及如何使用它来提高您网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低浏览量机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
