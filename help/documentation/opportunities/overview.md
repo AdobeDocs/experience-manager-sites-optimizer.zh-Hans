@@ -4,7 +4,7 @@ description: 了解所有可用的 Site Optimizer 机会，以及如何使用它
 source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -58,7 +58,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
 * **机会标题**——问题的简要描述及其对您网站性能的潜在影响。
 * **上次更新**——Sites Optimizer 于此日期使用最新数据更新了该优化机会。
 * **问题计数**——在您的网站上识别的该问题实例数。
-* **机会类型** — 此机会所属的[机会类型](/help/opportunity-types/overview.md) — 如流量获取、参与、转化或网站运行状况。
+* **机会类型**——此机会所属的[机会类型](/help/opportunity-types/overview.md)，例如流量获取、参与度、转化或网站健康状况。
 
 每个机会的摘要信息因类型而异，可能包括有关收入影响、流量、用户参与度或安全威胁的详细信息。
 
@@ -274,7 +274,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="高跳出率">高跳出率</a>
                     </p>
-                    <p class="is-size-6">了解低查看次数机会以及如何使用它来提高您网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低浏览量机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -309,8 +309,8 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./low-conversions.md" title="Forms低转化率" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms低转化率"
+                    <a href="./low-conversions.md" title="表单低转化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="表单低转化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -318,9 +318,9 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Forms低转化率">Forms低转化率</a>
+                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="表单低转化">表单低转化</a>
                     </p>
-                    <p class="is-size-6">了解低转化率机会以及如何使用它来提高您网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低转化机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -332,7 +332,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./low-views.md" title="Forms低视图" target="_blank" rel="referrer">
+                    <a href="./low-views.md" title="表单低浏览量" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="低浏览量"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -341,9 +341,9 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-views.md" target="_blank" rel="referrer" title="低浏览量">Forms低查看次数</a>
+                        <a href="./low-views.md" target="_blank" rel="referrer" title="低浏览量">表单低浏览量</a>
                     </p>
-                    <p class="is-size-6">了解表单低查看次数机会以及如何使用它来提高网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低浏览量机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -355,8 +355,8 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./low-navigation.md" title="Forms低导航" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Forms低导航"
+                    <a href="./low-navigation.md" title="表单低导航" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="表单低导航"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -364,9 +364,9 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="Forms低导航">Forms低导航</a>
+                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="表单低导航">表单低导航</a>
                     </p>
-                    <p class="is-size-6">了解表单低导航机会以及如何使用它来提高网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低导航机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -378,8 +378,8 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./forms-accessibility-issues.md" title="Forms辅助功能问题" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Forms辅助功能问题"
+                    <a href="./forms-accessibility-issues.md" title="表单无障碍可访问性问题" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="表单无障碍可访问性问题"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -387,9 +387,9 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Forms辅助功能问题">Forms辅助功能问题</a>
+                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表单无障碍可访问性问题">表单无障碍可访问性问题</a>
                     </p>
-                    <p class="is-size-6">了解表单辅助功能问题机会以及如何使用它来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解无障碍可访问性问题机会，以及如何利用这种机会来提高您网站上的参与度。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

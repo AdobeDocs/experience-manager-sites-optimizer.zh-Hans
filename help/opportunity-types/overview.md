@@ -4,7 +4,7 @@ description: 了解 Sites Optimizer 中的关键机会类型，以及它们如�
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
-ht-degree: 75%
+ht-degree: 92%
 
 ---
 
@@ -139,8 +139,8 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Forms优化" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms优化"
+                    <a href="./form-optimization.md" title="表单优化" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="表单优化"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -148,7 +148,7 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms优化">Forms优化</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表单优化">表单优化</a>
                     </p>
                     <p class="is-size-6">了解如何使用Forms优化提高表单转化率。</p>
                 </div>
@@ -162,8 +162,8 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Forms辅助功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Forms辅助功能"
+                    <a href="./form-optimization.md" title="表单无障碍可访问性" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="表单无障碍可访问性"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -171,7 +171,7 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Forms辅助功能">Forms辅助功能</a>
+                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="表单无障碍可访问性">表单无障碍可访问性</a>
                     </p>
                     <p class="is-size-6">了解如何使用Forms优化提高表单辅助功能。</p>
                 </div>
@@ -185,4 +185,4 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview">在早期访问计划下提供了Forms优化和Forms辅助功能。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
+<span class="preview"> 表单优化和表单无障碍可访问性功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>

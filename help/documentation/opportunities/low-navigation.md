@@ -1,36 +1,36 @@
 ---
 title: 低导航机会文档
-description: 了解导航机会较少以及如何使用它来提高网站上的表单参与度。
-badgeFormOptimization: label="Forms优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms优化"
+description: 了解低导航机会，以及如何利用这种机会来提高您网站上的表单参与度。
+badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
 hidefromtoc: true
 source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 23%
+ht-degree: 96%
 
 ---
 
 
-# Forms低导航机会
+# 表单低导航机会
 
-<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以从官方电子邮件ID写信到aem-forms-ea@adobe.com ，以加入提前访问计划并请求访问功能。</span>
+<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
-![导航机会不足](./assets/low-navigation/hero.png){align="center"}
+![低导航机会](./assets/low-navigation/hero.png){align="center"}
 
-导航机会较少会识别您网站上导航率较低的表单。 此机会类型可帮助您了解用户不会发现或访问哪些表单，并提供有关如何改进其可发现性的建议。
+低导航机会可以识别您网站上导航率较低的表单。这种机会类型可以帮助您了解哪些表单未被用户发现或访问，并提供有关如何提高表单可见性的建议。
 
 ## 自动识别
 
 ![自动识别低导航](./assets/low-navigation/auto-identify.png){align="center"}
 
-每个具有低导航率的表单的网页都作为自己的&#x200B;**低导航率**&#x200B;机会列出。 业务机会页顶部显示了业务机会和理由的简要摘要。
+每个包含低导航表单的网页都会被列为自己的&#x200B;**低导航**&#x200B;机会。机会页面的顶部显示了该机会的简短摘要和原理。
 
 ## 自动建议
 
 ![自动建议低导航](./assets/low-navigation/auto-suggest.png)
 
-自动建议提供AI生成的表单变量，这些变量旨在增加表单的导航次数。 每个变体都会显示&#x200B;**预计转化率提升**，这是基于其提高表单可发现性和可访问性的潜力，可帮助您优先处理最有效的建议。
+自动建议会提供 AI 生成的表单变体，旨在提高您表单的导航。每个变体都会根据其提高表单可见性和无障碍性的潜力显示&#x200B;**预计的转化率增加**，帮助您优先选择最有效的建议。
 
 >[!BEGINTABS]
 
@@ -38,18 +38,18 @@ ht-degree: 23%
 
 ![对照变体](./assets/low-navigation/control-variation.png){align="center"}
 
-控制变量是网站上当前提供的原始表单。 此变体可作为基准，用于比较建议变体的性能。
+对照变体是您网站上当前存在的原始表单。此变体可作为基准，用于比较建议变体的性能。
 
 >[!TAB 建议的变体]
 
 ![建议的变体](./assets/low-navigation/suggested-variations.png){align="center"}
 
-建议的变体是人工智能生成的表单变体，旨在增加表单的导航次数。 每个变体都会显示&#x200B;**预计转化率提升**，这是基于其提高表单可发现性和可访问性的潜力，可帮助您优先处理最有效的建议。
+建议的变体是 AI 生成的表单变体，旨在提高您表单的导航。每个变体都会根据其提高表单可见性和无障碍性的潜力显示&#x200B;**预计的转化率增加**，帮助您优先选择最有效的建议。
 
 单击每个变体，即可在屏幕右侧进行预览。在预览顶部提供以下操作和信息：
 
 * **更改**——此变体与&#x200B;**控制**&#x200B;变体相比有哪些更改的简短摘要。
-* **预计转化率增长** — 如果实施此变量，则预计表单参与度将增长。
+* **预计的转化率增加**——实施此变体后预计的表单参与度增加量。
 * **编辑**——单击即可在 AEM 创作中编辑此变体。
 
 >[!ENDTABS]
