@@ -4,17 +4,15 @@ description: 了解低导航机会，以及如何利用这种机会来提高您�
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
 hidefromtoc: true
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
+source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
 workflow-type: ht
-source-wordcount: '330'
+source-wordcount: '298'
 ht-degree: 100%
 
 ---
 
 
 # 表单低导航机会
-
-<span class="preview"> 表单优化功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
 ![低导航机会](./assets/low-navigation/hero.png){align="center"}
 
