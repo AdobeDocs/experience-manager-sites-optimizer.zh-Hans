@@ -4,15 +4,17 @@ description: 了解低转化机会，以及如何利用这种机会来提高您�
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
 hidefromtoc: true
-source-git-commit: ccabd2c9d0c08dbbb7872be7bf1232661ca17bd9
-workflow-type: tm+mt
-source-wordcount: '291'
+source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+workflow-type: ht
+source-wordcount: '323'
 ht-degree: 100%
 
 ---
 
 
 # 表单低转化机会
+
+<span class="preview"> 表单优化功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
 ![低转化机会](./assets/low-conversions/hero.png){align="center"}
 
