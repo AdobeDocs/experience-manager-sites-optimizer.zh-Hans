@@ -1,19 +1,19 @@
 ---
-title: AEM Sites Optimizer — 预检入门指南
-description: 了解印前检查机会以及如何在AEM Sites Optimizer中设置印前检查分析。
+title: AEM Sites Optimizer - 预检入门指南
+description: 了解预检机会以及如何在 AEM Sites Optimizer 中设置预检分析。
 source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# 印前检查机会
+# 预检机会
 
 ![预检机会](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer Preflight会分析页面的技术和性能数据，并在发布之前预测和检测机会。 它使用创作AI来建议优化。</span>
+<span class="preview">AEM Sites Optimizer 预检功能会分析页面的技术和性能数据，并在发布之前预测和检测机会。它使用生成式 AI 来提出优化建议。</span>
 
 ## 机会
 
@@ -53,7 +53,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="规范">规范</a>
                     </p>
-                    <p class="is-size-6">了解标准机会以及如何使用它来改进SEO和防止重复内容问题。</p>
+                    <p class="is-size-6">了解规范机会以及如何使用它来提升 SEO 并防止重复内容问题。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -74,9 +74,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="中断的内部链接">内部链接已断开</a>
+                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="中断的内部链接">中断的内部链接</a>
                     </p>
-                    <p class="is-size-6">了解断开的内部链接机会以及如何使用它来识别和修复网站上的断开或问题链接。</p>
+                    <p class="is-size-6">了解中断的内部链接机会以及如何使用它来识别和修复网站上中断或有问题的链接。</p>
                 </div>
                 <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -99,7 +99,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="元标记">元标记</a>
                     </p>
-                    <p class="is-size-6">了解元标记机会以及如何使用它来优化页面的元数据以实现更好的SEO性能。</p>
+                    <p class="is-size-6">了解元标记机会以及如何使用它来优化页面的元数据以获得更好的 SEO 性能。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -111,8 +111,8 @@ ht-degree: 6%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1计数" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1计数"
+                    <a href="../documentation/opportunities/invalid-or-missing-metadata.md" title="H1 计数" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-code.png" alt="H1 计数"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1计数">H1计数</a>
+                        <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="H1 计数">H1 计数</a>
                     </p>
-                    <p class="is-size-6">了解H1计数机会以及如何使用它来确保正确的标题结构和SEO优化。</p>
+                    <p class="is-size-6">了解 H1 计数机会以及如何使用它来确保正确的标题结构和 SEO 优化。</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -145,7 +145,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="辅助功能">辅助功能</a>
                     </p>
-                    <p class="is-size-6">了解无障碍机会以及如何使用它确保您的网站可供所有用户访问。</p>
+                    <p class="is-size-6">了解辅助功能机会以及如何使用它来确保所有用户都可以访问您的网站。</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -159,20 +159,20 @@ ht-degree: 6%
 
 ## 如何设置
 
-### 通用编辑器设置
+### Universal Editor 设置
 
-1. 从URL转到Extension Manager： https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. 选择AEM Sites Optimizer Preflight扩展并请求启用
-3. AEM团队将为您的组织启用扩展
-4. 完成后，在通用编辑器中打开一个页面，例如：https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
-5. Preflight扩展将显示在侧边栏中
-6. 单击侧边栏中的Preflight扩展将启动当前页面的Preflight审核
+1. 从以下 URL 转到 Extension Manager：https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
+2. 选择 AEM Sites Optimizer 预检扩展并请求启用
+3. AEM 团队将为您的组织启用此扩展
+4. 完成后，在 Universal Editor 中打开一个页面，例如：https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
+5. 预检扩展功能将显示在侧边栏中
+6. 从侧边栏单击“预检扩展”将启动当前页面的“预检审核”
 
 ### 基于文档的预览设置
 
-#### 步骤1：使用“印前检查”按钮启用Sidekick
+#### 步骤 1：使用预检按钮启用 Sidekick
 
-将以下配置添加到GitHub存储库中的`/tools/sidekick/config.json`：
+将以下配置添加到 GitHub 存储库中的 `/tools/sidekick/config.json`：
 
 ```json
 {
@@ -189,9 +189,9 @@ ht-degree: 6%
 }
 ```
 
-#### 步骤2：创建Sidekick集成脚本
+#### 步骤 2：创建 Sidekick 集成脚本
 
-创建包含以下内容的`/tools/sidekick/aem-sites-optimizer-preflight.js`：
+使用以下内容创建 `/tools/sidekick/aem-sites-optimizer-preflight.js`：
 
 ```javascript
 (function () {
@@ -238,9 +238,9 @@ ht-degree: 6%
 }());
 ```
 
-#### 步骤3：更新脚本文件
+#### 步骤 3：更新脚本文件
 
-将以下import语句添加到预览URL的`loadLazy()`中的`/scripts/scripts.js`函数，如下所示：
+将以下导入语句添加到预览 URLs `/scripts/scripts.js` 中的 `loadLazy()` 函数，如下所示：
 
 ```javascript
 if (window.location.href.includes('.aem.page')) {
@@ -248,19 +248,19 @@ if (window.location.href.includes('.aem.page')) {
 }
 ```
 
-现在，“预检”按钮应在Sidekick中可见。
+现在，预检按钮应该显示在 Sidekick 中。
 
-#### 步骤4：运行审核
+#### 步骤 4：运行审核
 
-打开已审核页面的预览URL (*.aem.page)。 单击Sidekick中的“印前检查”按钮。
+打开审核页面的预览 URL (*.aem.page)。单击 Sidekick 上的“预检”按钮。
 
-### AEM Cloud Service设置
+### AEM Cloud Service 设置
 
-您可以使用小书签选项在AEM Cloud Service页面编辑器和沙盒环境中测试预检。
+可以使用书签选项在 AEM Cloud Service 页面编辑器和沙盒环境上测试预检。
 
 <!-- Drag the button below to your Bookmarks Bar to get started. -->
 
-按&#x200B;**Ctrl+Shift+B** (Windows)或&#x200B;**Cmd+Shift+B** (Mac)以显示书签栏。 右键单击书签栏并选择“新建页面”或“添加书签”。 在地址字段中，复制以下代码。
+按 **Ctrl+Shift+B**（Windows）或 **Cmd+Shift+B**（Mac）显示书签栏。右键单击书签栏并选择“新页面”或“添加书签”。在地址字段中复制以下代码。
 
 <!-- **Drag this link to your Bookmarks Bar:**
 
@@ -272,13 +272,13 @@ if (window.location.href.includes('.aem.page')) {
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-添加书签后，打开已审核页面的预览URL (*.aem.page)。 单击Preflight书签以开始Preflight审核。
+添加书签后，打开审核页面的预览 URL (*.aem.page)。单击“预检”书签即可开始预检审核。
 
 ## 最佳实践
 
-使用Preflight时，请注意以下事项：
+使用预检功能时，请注意以下：
 
-* 在发布之前，对所有暂存/预览页面运行印前检查审核。
-* 首先解决高影响问题（链接损坏、缺少H1标记、链接不安全）。
+* 发布之前，对所有暂存/预览页面运行预检审核。
+* 首先解决影响较大的问题（中断的链接、缺少 H1 标记、不安全的链接）。
 * 为受保护的暂存环境启用身份验证。
-* 查看并实施Meta标记建议以提高SEO性能。
+* 审阅并实施元标记建议以获得更好的 SEO 性能。

@@ -2,9 +2,9 @@
 title: Sites Optimizer 机会类型
 description: 了解 Sites Optimizer 中的关键机会类型，以及它们如何帮助您提高网站的性能。
 source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
 * 网站健康
 * 预检
 
-每个类别都强调了一种提升网站表现的方式。某一类别可能有助于提升访客互动。另一个类别则可能有助于提升网站的可发现性。其他则侧重于加强安全或维护站点稳定。 Preflight可帮助您在发布页面之前分析和优化页面。
+每个类别都强调了一种提升网站表现的方式。某一类别可能有助于提升访客互动。另一个类别则可能有助于提升网站的可发现性。其他类别则侧重于增强安全性或维持网站稳定性。预检可帮助您在发布页面之前对其进行分析和优化。
 
-利用这些机会可以改善用户体验，吸引合适的受众，并确保您的网站安全可靠。增强参与和流量获取可促进交互和可见性，而强大的安全态势和站点运行状况有助于确保信任和稳定。 印前检查分析可确保您的内容在投入使用之前得到优化。 浏览下面的链接，查看按类别组织的机会，并找到改进网站的方法。
+利用这些机会可以改善用户体验，吸引合适的受众，并确保您的网站安全可靠。增强参与度和流量获取可以推动网站的互动和可见性，而强大的安全态势和网站健康有助于确保对网站的信任并使其保持稳定。预检分析可确保您的内容在发布之前得到优化。浏览下面的链接，查看按类别组织的机会，并找到改进网站的方法。
 
 ## 机会类型
 
@@ -199,7 +199,7 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./preflight.md" target="_blank" rel="referrer" title="预检">预检</a>
                     </p>
-                    <p class="is-size-6">了解印前检查分析以及如何在Sites Optimizer中设置印前检查机会。</p>
+                    <p class="is-size-6">了解预检分析以及如何在 Sites Optimizer 中设置预检机会。</p>
                 </div>
                 <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
