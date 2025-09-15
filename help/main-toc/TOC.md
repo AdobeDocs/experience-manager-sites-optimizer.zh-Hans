@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
       + [CORS 配置](/help/documentation/opportunities/cors-configuration.md)
       + [跨站点脚本](/help/documentation/opportunities/cross-site-scripting.md)
       + [高跳出率](/help/documentation/opportunities/high-bounce-rate.md)
-      + [高流量页面具有低CTR](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
+      + [高流量页面存在低点击率](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [元数据无效或缺失](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [结构化数据缺失或无效](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [缺少替代文本](/help/documentation/opportunities/missing-alt-text.md)

@@ -2,9 +2,9 @@
 title: 使用 Sites Optimizer 优化参与度
 description: 了解如何使用 Sites Optimizer 提高参与度。
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -111,8 +111,8 @@ AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="高流量页面具有低CTR" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="高流量页面具有低CTR"
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="高流量页面存在低点击率" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="高流量页面存在低点击率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ AEM Sites Optimizer 中的参与度机会对于增强数字体验至关重要，
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高流量页面具有低CTR">高流量页面具有低CTR</a>
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="高流量页面存在低点击率">高流量页面存在低点击率</a>
                     </p>
-                    <p class="is-size-6">了解高流量页面的CTR机会较少，以及如何使用它来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解高流量页面存在低点击率的优化机会以及如何利用它来增加您网站的参与度。</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
