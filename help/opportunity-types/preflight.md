@@ -180,7 +180,7 @@ AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Ba
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到&#x200B;**AEM Sites Optimizer预检扩展**&#x200B;并提交请求以启用它。
 1. **Adobe AEM团队**&#x200B;将审核并为您的组织启用该扩展。
-1. 启用该扩展后，在&#x200B;**通用编辑器**中打开一个页面，例如：
+1. 启用该扩展后，在&#x200B;**通用编辑器**&#x200B;中打开一个页面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **预检扩展**&#x200B;将显示在&#x200B;**侧边栏**&#x200B;中。
 1. 从侧边栏选择&#x200B;**Preflight扩展**&#x200B;以启动当前页面的&#x200B;**Preflight审核**。
