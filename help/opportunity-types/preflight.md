@@ -1,10 +1,10 @@
 ---
-title: AEM Sites Optimizer - 预检入门指南
-description: 了解预检机会以及如何在 AEM Sites Optimizer 中设置预检分析。
-source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: ht
-source-wordcount: '488'
-ht-degree: 100%
+title: 使用AEM Sites Optimizer预检优化
+description: 了解AEM Sites Optimizer的预检机会。
+source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+workflow-type: tm+mt
+source-wordcount: '659'
+ht-degree: 23%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![预检机会](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">AEM Sites Optimizer 预检功能会分析页面的技术和性能数据，并在发布之前预测和检测机会。它使用生成式 AI 来提出优化建议。</span>
+AEM Sites Optimizer预检机会有助于确保您的网页在投入使用之前针对性能、SEO和用户体验进行了优化。 通过识别潜在问题，例如链接损坏、缺少元标记和辅助功能问题，预检检查允许内容作者和营销人员在发布过程的早期解决这些问题。 这种主动预防性的方法最大限度地降低了发布次优内容的风险，提高了网站质量，并改善了总体数字效果。 利用印前检查机会支持更流畅的工作流程，减少发布后修复，并有助于提高搜索引擎排名和用户满意度。
 
 ## 机会
 
@@ -157,128 +157,141 @@ ht-degree: 100%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 如何设置
+## 设置
 
-### Universal Editor 设置
+AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Based Preview或AEM Cloud Service中设置Preflight扩展，以便在发布页面之前在您的页面上运行Preflight审核。
 
-1. 从以下 URL 转到 Extension Manager：https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. 选择 AEM Sites Optimizer 预检扩展并请求启用
-3. AEM 团队将为您的组织启用此扩展
-4. 完成后，在 Universal Editor 中打开一个页面，例如：https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
-5. 预检扩展功能将显示在侧边栏中
-6. 从侧边栏单击“预检扩展”将启动当前页面的“预检审核”
+## 启用用户访问权限
 
-### 基于文档的预览设置
+要使用Preflight扩展，请确保您的用户在[Adobe Admin Console](https://adminconsole.adobe.com)中至少被分配到以下AEM Sites Optimizer产品配置文件之一：
 
-#### 步骤 1：使用预检按钮启用 Sidekick
+* AEM Sites Optimizer — 自动建议用户
+* AEM Sites Optimizer — 自动优化用户
 
-将以下配置添加到 GitHub 存储库中的 `/tools/sidekick/config.json`：
+## 启用Preflight扩展
 
-```json
-{
-  "plugins": [
-    {
-      "id": "preflight",
-      "titleI18n": {
-        "en": "Preflight"
-      },
-      "environments": ["preview"],
-      "event": "preflight"
-    }
-  ]
-}
-```
+>[!BEGINTABS]
 
-#### 步骤 2：创建 Sidekick 集成脚本
+>[!TAB 通用编辑器]
 
-使用以下内容创建 `/tools/sidekick/aem-sites-optimizer-preflight.js`：
+要在通用编辑器中设置Preflight，请执行以下步骤：
+
+1. 打开&#x200B;**Extension Manager**：
+   [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
+1. 找到&#x200B;**AEM Sites Optimizer预检扩展**&#x200B;并提交请求以启用它。
+1. **Adobe AEM团队**&#x200B;将审核并为您的组织启用该扩展。
+1. 启用该扩展后，在&#x200B;**通用编辑器**中打开一个页面，例如：
+   `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
+1. **预检扩展**&#x200B;将显示在&#x200B;**侧边栏**&#x200B;中。
+1. 从侧边栏选择&#x200B;**Preflight扩展**&#x200B;以启动当前页面的&#x200B;**Preflight审核**。
+
+>[!TAB 基于文档的创作]
+
+要为基于文档的创作设置Preflight，请执行以下步骤：
+
+1. 将以下配置添加到Edge Delivery Services项目的GitHub存储库中的`/tools/sidekick/config.json`：
+
+   ```json
+   {
+     "plugins": [
+       {
+         "id": "preflight",
+         "titleI18n": {
+           "en": "Preflight"
+         },
+         "environments": ["preview"],
+         "event": "preflight"
+       }
+     ]
+   }
+   ```
+
+1. 创建新文件`/tools/sidekick/aem-sites-optimizer-preflight.js`并添加以下内容：
+
+   ```javascript
+   (function () {
+     let isAEMSitesOptimizerPreflightAppLoaded = false;
+     function loadAEMSitesOptimizerPreflightApp() {
+       const script = document.createElement('script');
+       script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
+       script.onload = function () {
+         isAEMSitesOptimizerPreflightAppLoaded = true;
+       };
+       script.onerror = function () {
+         console.error('Error loading AEMSitesOptimizerPreflightApp.');
+       };
+       document.head.appendChild(script);
+     }
+   
+     function handlePluginButtonClick() {
+       if (!isAEMSitesOptimizerPreflightAppLoaded) {
+         loadAEMSitesOptimizerPreflightApp();
+       }
+     }
+   
+     // Sidekick V1 extension support
+     const sidekick = document.querySelector('helix-sidekick');
+     if (sidekick) {
+       sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('helix-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   
+     // Sidekick V2 extension support
+     const sidekickV2 = document.querySelector('aem-sidekick');
+     if (sidekickV2) {
+       sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
+     } else {
+       document.addEventListener('sidekick-ready', () => {
+         document.querySelector('aem-sidekick')
+           .addEventListener('custom:preflight', handlePluginButtonClick);
+       }, { once: true });
+     }
+   }());
+   ```
+
+1. 更新`loadLazy()`中的`/scripts/scripts.js`函数以导入预览URL的Preflight脚本：
+
+   ```javascript
+   if (window.location.href.includes('.aem.page')) {
+      import('../tools/sidekick/aem-sites-optimizer-preflight.js');
+   }
+   ```
+
+1. 打开要审核的页面的预览URL (`*.aem.page`)。
+1. 在&#x200B;**Sidekick**&#x200B;中，单击&#x200B;**预检**&#x200B;按钮以开始审核当前页面。
+
+>[!TAB AEM Sites页面编辑器]
+
+要在AEM Sites页面编辑器中使用Preflight，您可以在Web浏览器中创建小书签。 请按照以下步骤操作：
+
+1. 在Web浏览器中显示&#x200B;**书签栏**：
+
+   * 按&#x200B;**Ctrl+Shift+B** (Windows)或&#x200B;**Cmd+Shift+B** (Mac)。
+
+！。 在浏览器中创建新书签：
+
+* 右键单击书签栏并选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
+* 在&#x200B;**地址(URL)**&#x200B;字段中，粘贴以下代码：
 
 ```javascript
-(function () {
-  let isAEMSitesOptimizerPreflightAppLoaded = false;
-  function loadAEMSitesOptimizerPreflightApp() {
-    const script = document.createElement('script');
-    script.src = 'https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=plugin';
-    script.onload = function () {
-      isAEMSitesOptimizerPreflightAppLoaded = true;
-    };
-    script.onerror = function () {
-      console.error('Error loading AEMSitesOptimizerPreflightApp.');
-    };
-    document.head.appendChild(script);
-  }
-
-  function handlePluginButtonClick() {
-    if (!isAEMSitesOptimizerPreflightAppLoaded) {
-      loadAEMSitesOptimizerPreflightApp();
-    }
-  }
-
-  // Sidekick V1 extension support
-  const sidekick = document.querySelector('helix-sidekick');
-  if (sidekick) {
-    sidekick.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('helix-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-
-  // Sidekick V2 extension support
-  const sidekickV2 = document.querySelector('aem-sidekick');
-  if (sidekickV2) {
-    sidekickV2.addEventListener('custom:preflight', handlePluginButtonClick);
-  } else {
-    document.addEventListener('sidekick-ready', () => {
-      document.querySelector('aem-sidekick')
-        .addEventListener('custom:preflight', handlePluginButtonClick);
-    }, { once: true });
-  }
-}());
-```
-
-#### 步骤 3：更新脚本文件
-
-将以下导入语句添加到预览 URLs `/scripts/scripts.js` 中的 `loadLazy()` 函数，如下所示：
-
-```javascript
-if (window.location.href.includes('.aem.page')) {
-   import('../tools/sidekick/aem-sites-optimizer-preflight.js');
-}
-```
-
-现在，预检按钮应该显示在 Sidekick 中。
-
-#### 步骤 4：运行审核
-
-打开审核页面的预览 URL (*.aem.page)。单击 Sidekick 上的“预检”按钮。
-
-### AEM Cloud Service 设置
-
-可以使用书签选项在 AEM Cloud Service 页面编辑器和沙盒环境上测试预检。
-
-<!-- Drag the button below to your Bookmarks Bar to get started. -->
-
-按 **Ctrl+Shift+B**（Windows）或 **Cmd+Shift+B**（Mac）显示书签栏。右键单击书签栏并选择“新页面”或“添加书签”。在地址字段中复制以下代码。
-
-<!-- **Drag this link to your Bookmarks Bar:**
-
-<a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
-
-**复制此代码并创建新书签：**
-
-```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-添加书签后，打开审核页面的预览 URL (*.aem.page)。单击“预检”书签即可开始预检审核。
+1. 将书签命名为&#x200B;**Preflight**（或您喜欢的任何名称）。
+1. 在`*.aem.page`AEM Sites页面编辑器&#x200B;**中打开要审核的页面的预览URL (**)。
+1. 单击书签栏中的&#x200B;**Preflight**&#x200B;书签以开始审核当前页面。
+
+>[!ENDTABS]
 
 ## 最佳实践
 
-使用预检功能时，请注意以下：
+运行Preflight审核时，请牢记以下准则：
 
-* 发布之前，对所有暂存/预览页面运行预检审核。
-* 首先解决影响较大的问题（中断的链接、缺少 H1 标记、不安全的链接）。
-* 为受保护的暂存环境启用身份验证。
-* 审阅并实施元标记建议以获得更好的 SEO 性能。
+* 在发布到生产环境之前，始终对&#x200B;**暂存或预览页面**&#x200B;运行审核。
+* 优先解决&#x200B;**影响严重的问题**，例如链接损坏、缺少H1标记或不安全的链接。
+* 在运行审核之前，请确保为受保护的暂存环境启用了&#x200B;**身份验证**。
+* 查看并应用&#x200B;**meta标记建议**&#x200B;以提高SEO性能。
