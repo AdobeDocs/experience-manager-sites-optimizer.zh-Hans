@@ -1,7 +1,7 @@
 ---
 title: 使用AEM Sites Optimizer预检优化
 description: 了解AEM Sites Optimizer的预检机会。
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 23%
@@ -161,14 +161,14 @@ AEM Sites Optimizer预检机会有助于确保您的网页在投入使用之前�
 
 AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Based Preview或AEM Cloud Service中设置Preflight扩展，以便在发布页面之前在您的页面上运行Preflight审核。
 
-## 启用用户访问权限
+### 启用用户访问权限
 
 要使用Preflight扩展，请确保您的用户在[Adobe Admin Console](https://adminconsole.adobe.com)中至少被分配到以下AEM Sites Optimizer产品配置文件之一：
 
 * AEM Sites Optimizer — 自动建议用户
 * AEM Sites Optimizer — 自动优化用户
 
-## 启用Preflight扩展
+### 启用Preflight扩展
 
 >[!BEGINTABS]
 
@@ -180,7 +180,7 @@ AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Ba
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到&#x200B;**AEM Sites Optimizer预检扩展**&#x200B;并提交请求以启用它。
 1. **Adobe AEM团队**&#x200B;将审核并为您的组织启用该扩展。
-1. 启用该扩展后，在&#x200B;**通用编辑器**&#x200B;中打开一个页面，例如：
+1. 启用该扩展后，在&#x200B;**通用编辑器**中打开一个页面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **预检扩展**&#x200B;将显示在&#x200B;**侧边栏**&#x200B;中。
 1. 从侧边栏选择&#x200B;**Preflight扩展**&#x200B;以启动当前页面的&#x200B;**Preflight审核**。
