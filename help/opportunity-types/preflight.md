@@ -1,10 +1,10 @@
 ---
-title: 使用AEM Sites Optimizer预检优化
-description: 了解AEM Sites Optimizer的预检机会。
+title: 使用 AEM Sites Optimizer 进行预检优化
+description: 了解 AEM Sites Optimizer 提供的预检机会。
 source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 23%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 23%
 
 ![预检机会](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer预检机会有助于确保您的网页在投入使用之前针对性能、SEO和用户体验进行了优化。 通过识别潜在问题，例如链接损坏、缺少元标记和辅助功能问题，预检检查允许内容作者和营销人员在发布过程的早期解决这些问题。 这种主动预防性的方法最大限度地降低了发布次优内容的风险，提高了网站质量，并改善了总体数字效果。 利用印前检查机会支持更流畅的工作流程，减少发布后修复，并有助于提高搜索引擎排名和用户满意度。
+AEM Sites Optimizer 的预检功能可帮助确保您的网页在上线前已针对性能、SEO 和用户体验完成优化。通过识别潜在问题（如链接失效、缺少元标记和可访问性隐患），预检检查使内容作者和营销人员能够在发布流程早期解决这些问题。这种积极主动的方式可降低发布不佳内容的风险，提升网站质量，并增强整体数字形象。充分利用预检机会不仅能优化工作流程、减少发布后的修复工作，还能提升搜索引擎排名和用户满意度。
 
 ## 机会
 
@@ -159,37 +159,37 @@ AEM Sites Optimizer预检机会有助于确保您的网页在投入使用之前�
 
 ## 设置
 
-AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Based Preview或AEM Cloud Service中设置Preflight扩展，以便在发布页面之前在您的页面上运行Preflight审核。
+要启用 AEM Sites Optimizer 的预检功能，需要在通用编辑器、基于文档的预览，或 AEM Cloud Service 中设置预检功能扩展，以便在页面发布前执行预检审计。
 
 ### 启用用户访问权限
 
-要使用Preflight扩展，请确保您的用户在[Adobe Admin Console](https://adminconsole.adobe.com)中至少被分配到以下AEM Sites Optimizer产品配置文件之一：
+要使用预检扩展，请确保您的用户在 [Adobe Admin Console](https://adminconsole.adobe.com) 中被分配到以下 AEM Sites Optimizer 产品轮廓中的至少一个：
 
-* AEM Sites Optimizer — 自动建议用户
-* AEM Sites Optimizer — 自动优化用户
+* AEM Sites Optimizer - 自动建议用户
+* AEM Sites Optimizer - 自动优化用户
 
-### 启用Preflight扩展
+### 启用预检功能扩展
 
 >[!BEGINTABS]
 
 >[!TAB 通用编辑器]
 
-要在通用编辑器中设置Preflight，请执行以下步骤：
+若要在通用编辑器中设置预检功能，请执行以下步骤：
 
-1. 打开&#x200B;**Extension Manager**：
+1. 打开 **Extension Manager**：
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. 找到&#x200B;**AEM Sites Optimizer预检扩展**&#x200B;并提交请求以启用它。
-1. **Adobe AEM团队**&#x200B;将审核并为您的组织启用该扩展。
-1. 启用该扩展后，在&#x200B;**通用编辑器**&#x200B;中打开一个页面，例如：
+1. 找到 **AEM Sites Optimizer** 预检功能扩展，并提交启用请求。
+1. **Adobe AEM 团队**&#x200B;将会审核并为您的组织启用该扩展。
+1. 扩展启用后，在 **通用编辑器** 中打开某个页面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **预检扩展**&#x200B;将显示在&#x200B;**侧边栏**&#x200B;中。
-1. 从侧边栏选择&#x200B;**Preflight扩展**&#x200B;以启动当前页面的&#x200B;**Preflight审核**。
+1. **预检功能扩展**&#x200B;将在&#x200B;**侧边栏**&#x200B;中显示。
+1. 从侧边栏中选择&#x200B;**预检功能扩展**，即可开始对当前页面执行&#x200B;**预检审计**。
 
 >[!TAB 基于文档的创作]
 
-要为基于文档的创作设置Preflight，请执行以下步骤：
+要为基于文档的创作设置预检功能，请执行以下步骤：
 
-1. 将以下配置添加到Edge Delivery Services项目的GitHub存储库中的`/tools/sidekick/config.json`：
+1. 在 Edge Delivery Services 项目的 GitHub 存储库中，将以下配置添加到 `/tools/sidekick/config.json` 文件：
 
    ```json
    {
@@ -206,7 +206,7 @@ AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Ba
    }
    ```
 
-1. 创建新文件`/tools/sidekick/aem-sites-optimizer-preflight.js`并添加以下内容：
+1. 新建文件 `/tools/sidekick/aem-sites-optimizer-preflight.js`，并添加以下内容：
 
    ```javascript
    (function () {
@@ -253,7 +253,7 @@ AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Ba
    }());
    ```
 
-1. 更新`loadLazy()`中的`/scripts/scripts.js`函数以导入预览URL的Preflight脚本：
+1. 在 `/scripts/scripts.js` 文件中更新 `loadLazy()` 函数，以导入适用于预览 URL 的预检功能脚本：
 
    ```javascript
    if (window.location.href.includes('.aem.page')) {
@@ -261,37 +261,37 @@ AEM Sites Optimizer Preflight机会识别要求在Universal Editor、Document-Ba
    }
    ```
 
-1. 打开要审核的页面的预览URL (`*.aem.page`)。
-1. 在&#x200B;**Sidekick**&#x200B;中，单击&#x200B;**预检**&#x200B;按钮以开始审核当前页面。
+1. 打开需要审计页面的预览 URL（`*.aem.page`）。
+1. 在 **Sidekick** 中点击&#x200B;**预检**&#x200B;功能按钮，即可开始对当前页面进行审计。
 
->[!TAB AEM Sites页面编辑器]
+>[!TAB AEM Sites 页面编辑器]
 
-要在AEM Sites页面编辑器中使用Preflight，您可以在Web浏览器中创建小书签。 请按照以下步骤操作：
+要在 AEM Sites 页面编辑器中使用预检功能，您可以在 Web 浏览器中创建一个书签小程序。执行以下步骤：
 
-1. 在Web浏览器中显示&#x200B;**书签栏**：
+1. 在 Web 浏览器中显示&#x200B;**书签栏**：
 
-   * 按&#x200B;**Ctrl+Shift+B** (Windows)或&#x200B;**Cmd+Shift+B** (Mac)。
+   * 在 Windows 上按 **Ctrl+Shift+B**，或在 Mac 上按 **Cmd+Shift+B**。
 
-！。 在浏览器中创建新书签：
+!. 在浏览器中创建一个新书签：
 
-* 右键单击书签栏并选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
-* 在&#x200B;**地址(URL)**&#x200B;字段中，粘贴以下代码：
+* 右键单击书签栏，选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
+* 在&#x200B;**地址（URL）**&#x200B;字段中粘贴以下代码：
 
 ```javascript
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-1. 将书签命名为&#x200B;**Preflight**（或您喜欢的任何名称）。
-1. 在`*.aem.page`AEM Sites页面编辑器&#x200B;**中打开要审核的页面的预览URL (**)。
-1. 单击书签栏中的&#x200B;**Preflight**&#x200B;书签以开始审核当前页面。
+1. 将该书签命名为&#x200B;**预检**（或其他任意名称）。
+1. 在 **AEM Sites 页面编辑器**&#x200B;中打开需要审计页面的预览 URL（`*.aem.page`）。
+1. 在书签栏中点击&#x200B;**预检**&#x200B;书签，即可开始对当前页面进行审计。
 
 >[!ENDTABS]
 
 ## 最佳实践
 
-运行Preflight审核时，请牢记以下准则：
+在运行预检审计时，请注意以下准则：
 
-* 在发布到生产环境之前，始终对&#x200B;**暂存或预览页面**&#x200B;运行审核。
-* 优先解决&#x200B;**影响严重的问题**，例如链接损坏、缺少H1标记或不安全的链接。
-* 在运行审核之前，请确保为受保护的暂存环境启用了&#x200B;**身份验证**。
-* 查看并应用&#x200B;**meta标记建议**&#x200B;以提高SEO性能。
+* 请务必在发布到生产环境之前，先在&#x200B;**暂存环境或预览页面**&#x200B;上运行审计。
+* 优先解决&#x200B;**高影响问题**，例如链接失效、缺少 H1 标记或不安全的链接。
+* 在受保护的暂存环境中运行审计前，请确保已启用&#x200B;**身份验证**。
+* 查看并应用&#x200B;**元标记建议**，以提升 SEO 性能。
