@@ -4,14 +4,14 @@ description: 使用 Sites Optimizer 提升您网站的性能——提高速度�
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455095/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 Adobe Experience Manager (AEM) Sites Optimizer 是一项基于云的服务，可分析和改进 AEM 上构建的网站性能。Sites Optimizer 可识别页面加载、组件使用和内容投放方面的改进空间。此功能有助于提升网站性能，同时降低维护和更新成本。使用 Sites Optimizer，您可以确保流畅、可靠的在线体验，这对于保持参与度和转化率非常重要。
 
@@ -84,7 +84,7 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一项基于云的服务，可
 ## 了解更多有关 Sites Optimizer 的信息
 
 <!-- CARDS 
-* https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
@@ -103,8 +103,8 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一项基于云的服务，可
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="软件包和许可" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/home/licensing.png" alt="软件包和许可"
+                    <a href="https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" title="包和授予许可" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="./assets/home/licensing.png" alt="包和授予许可"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -112,9 +112,9 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一项基于云的服务，可
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="软件包和许可">包和许可</a>
+                        <a href="https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" title="包和授予许可">包和授予许可</a>
                     </p>
-                    <p class="is-size-6">了解AEM Sites Optimizer包和许可。</p>
+                    <p class="is-size-6">了解 AEM Sites Optimizer 包和授予许可。</p>
                 </div>
                 <a href="https://helpx.adobe.com/cn/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
