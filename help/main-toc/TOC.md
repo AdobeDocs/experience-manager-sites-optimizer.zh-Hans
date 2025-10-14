@@ -5,7 +5,7 @@ user-guide-description: 这是用户指南的描述，将显示在登陆页面�
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 99%
    + 预检机会{#preflight-opportunities}
       + [概述](/help/documentation/preflight/overview.md)
       + [设置](/help/documentation/preflight/setup.md)
-      + [无障碍功能](/help/documentation/preflight/accessibility.md)
+      + [辅助功能](/help/documentation/preflight/accessibility.md)
       + [H1 计数](/help/documentation/preflight/h1-count.md)
       + [链接](/help/documentation/preflight/links.md)
       + [元数据](/help/documentation/preflight/meta-data.md)
