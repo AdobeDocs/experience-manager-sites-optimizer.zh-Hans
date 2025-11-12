@@ -1,15 +1,15 @@
 ---
-title: 印前检查设置
-description: 了解如何为AEM Sites Optimizer设置Preflight扩展。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+title: 预检设置
+description: 了解如何为 AEM Sites Optimizer 设置预检扩展。
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
 source-wordcount: '424'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
-# 印前检查设置
+# 预检设置
 
 要启用 AEM Sites Optimizer 的预检功能，需要在通用编辑器、基于文档的预览，或 AEM Cloud Service 中设置预检功能扩展，以便在页面发布前执行预检审计。
 
@@ -124,14 +124,14 @@ ht-degree: 96%
 
    * 在 Windows 上按 **Ctrl+Shift+B**，或在 Mac 上按 **Cmd+Shift+B**。
 
-!. 在浏览器中创建一个新书签：
+1. 在浏览器中创建一个新书签：
 
-* 右键单击书签栏，选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
-* 在&#x200B;**地址（URL）**&#x200B;字段中粘贴以下代码：
+   * 右键单击书签栏，选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
+   * 在&#x200B;**地址（URL）**&#x200B;字段中粘贴以下代码：
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. 将该书签命名为&#x200B;**预检**（或其他任意名称）。
 1. 在 **AEM Sites 页面编辑器**&#x200B;中打开需要审计页面的预览 URL（`*.aem.page`）。

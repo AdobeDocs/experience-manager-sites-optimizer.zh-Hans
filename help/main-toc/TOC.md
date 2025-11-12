@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 100%
 + 文档{#documentation}
    + [概述](/help/documentation/overview.md)
    + [基础知识](/help/documentation/basics.md)
+   + 设置{#set-up}
+      + [载入用户](/help/documentation/setup/onboard-users.md)
    + 机会{#opportunities}
       + [概述](/help/documentation/opportunities/overview.md)
       + [无障碍问题](/help/documentation/opportunities/accessibility-issues.md)
