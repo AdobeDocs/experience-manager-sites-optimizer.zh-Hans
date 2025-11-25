@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 机会文档
 description: 了解所有可用的 Site Optimizer 机会，以及如何使用它们来提高您网站的性能。
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: ht
-source-wordcount: '885'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '883'
+ht-degree: 96%
 
 ---
 
@@ -366,7 +366,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="表单低导航">表单低导航</a>
                     </p>
-                    <p class="is-size-6">了解低导航机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
+                    <p class="is-size-6">了解导航机会较少以及如何使用它来提高网站上的表单参与度。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -389,7 +389,7 @@ Sites Optimizer 是由 Adobe AI 提供支持的不断扩展的机会集，旨在
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表单无障碍可访问性问题">表单无障碍可访问性问题</a>
                     </p>
-                    <p class="is-size-6">了解无障碍可访问性问题机会，以及如何利用这种机会来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解Forms辅助功能问题以及如何使用它来提高您网站上的参与度。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

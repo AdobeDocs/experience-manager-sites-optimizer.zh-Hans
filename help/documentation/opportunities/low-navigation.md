@@ -4,21 +4,22 @@ description: 了解低导航机会，以及如何利用这种机会来提高您�
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 90%
 
 ---
 
 
 # 表单低导航机会
 
-<span class="preview"> 表单优化功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
+<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
 ![低导航机会](./assets/low-navigation/hero.png){align="center"}
 
-低导航机会可以识别您网站上导航率较低的表单。这种机会类型可以帮助您了解哪些表单未被用户发现或访问，并提供有关如何提高表单可见性的建议。
+低导航机会可以识别您网站上导航率较低的表单。此机会类型标识用户无法发现或访问的表单，并提供改进其可发现性的方法。
+
 
 ## 自动识别
 

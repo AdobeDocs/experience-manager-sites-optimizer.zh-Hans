@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 机会类型
 description: 了解 Sites Optimizer 中的关键机会类型，以及它们如何帮助您提高网站的性能。
-source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
 
 每个类别都强调了一种提升网站表现的方式。某一类别可能有助于提升访客互动。另一个类别则可能有助于提升网站的可发现性。其他类别则侧重于增强安全性或维持网站稳定性。预检可帮助您在发布页面之前对其进行分析和优化。
 
-利用这些机会可以改善用户体验，吸引合适的受众，并确保您的网站安全可靠。增强参与度和流量获取可以推动网站的互动和可见性，而强大的安全态势和网站健康有助于确保对网站的信任并使其保持稳定。预检分析可确保您的内容在发布之前得到优化。浏览下面的链接，查看按类别组织的机会，并找到改进网站的方法。
+利用这些机会可以改善用户体验，吸引合适的受众，并确保您的网站安全可靠。增强参与度和流量获取可以推动网站的互动和可见性，而强大的安全态势和网站健康有助于确保对网站的信任并使其保持稳定。印前检查分析可确保您的内容在投入使用之前得到优化。 浏览下面的链接，查看按类别组织的机会，并找到改进网站的方法。
 
 ## 机会类型
 
@@ -211,4 +211,4 @@ AEM Sites Optimizer 提供了有价值的洞察和推荐，帮助您提高网站
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> 表单优化和表单无障碍可访问性功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
+<span class="preview"> Forms优化和Forms辅助功能在早期访问计划下可用。 您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>

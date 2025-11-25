@@ -1,21 +1,21 @@
 ---
 title: 预检设置
 description: 了解如何为 AEM Sites Optimizer 设置预检扩展。
-source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '430'
+ht-degree: 67%
 
 ---
 
 
 # 预检设置
 
-要启用 AEM Sites Optimizer 的预检功能，需要在通用编辑器、基于文档的预览，或 AEM Cloud Service 中设置预检功能扩展，以便在页面发布前执行预检审计。
+AEM Sites Optimizer印前检查机会识别需要设置Preflight扩展。 您可以在通用编辑器、基于文档的预览或AEM Cloud Service中进行设置，以便在发布页面之前，对页面运行印前检查审核。
 
 ## 启用用户访问权限
 
-要使用预检扩展，请确保您的用户在 [Adobe Admin Console](https://adminconsole.adobe.com) 中被分配到以下 AEM Sites Optimizer 产品轮廓中的至少一个：
+要使用Preflight扩展，请确保您的用户在[Adobe Admin Console](https://adminconsole.adobe.com)中至少被分配到以下AEM Sites Optimizer产品配置文件之一：
 
 * AEM Sites Optimizer - 自动建议用户
 * AEM Sites Optimizer - 自动优化用户
@@ -31,10 +31,10 @@ ht-degree: 100%
 1. 打开 **Extension Manager**：
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. 找到 **AEM Sites Optimizer** 预检功能扩展，并提交启用请求。
-1. **Adobe AEM 团队**&#x200B;将会审核并为您的组织启用该扩展。
+1. **Adobe AEM团队**&#x200B;将审核并启用贵组织的扩展。
 1. 扩展启用后，在 **通用编辑器** 中打开某个页面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. **预检功能扩展**&#x200B;将在&#x200B;**侧边栏**&#x200B;中显示。
+1. **预检扩展**&#x200B;出现在&#x200B;**侧边栏**&#x200B;中。
 1. 从侧边栏中选择&#x200B;**预检功能扩展**，即可开始对当前页面执行&#x200B;**预检审计**。
 
 >[!TAB 基于文档的创作]
@@ -113,14 +113,14 @@ ht-degree: 100%
    }
    ```
 
-1. 打开需要审计页面的预览 URL（`*.aem.page`）。
+1. 打开要审核的页面的预览URL (`*.aem.page`)。
 1. 在 **Sidekick** 中点击&#x200B;**预检**&#x200B;功能按钮，即可开始对当前页面进行审计。
 
 >[!TAB AEM Sites 页面编辑器]
 
 要在 AEM Sites 页面编辑器中使用预检功能，您可以在 Web 浏览器中创建一个书签小程序。执行以下步骤：
 
-1. 在 Web 浏览器中显示&#x200B;**书签栏**：
+1. 在Web浏览器中显示&#x200B;**书签栏**：
 
    * 在 Windows 上按 **Ctrl+Shift+B**，或在 Mac 上按 **Cmd+Shift+B**。
 
@@ -134,7 +134,7 @@ ht-degree: 100%
    ```
 
 1. 将该书签命名为&#x200B;**预检**（或其他任意名称）。
-1. 在 **AEM Sites 页面编辑器**&#x200B;中打开需要审计页面的预览 URL（`*.aem.page`）。
+1. 在`*.aem.page`AEM Sites页面编辑器&#x200B;**中打开要审核的页面的预览URL (**)。
 1. 在书签栏中点击&#x200B;**预检**&#x200B;书签，即可开始对当前页面进行审计。
 
 >[!ENDTABS]
@@ -145,5 +145,5 @@ ht-degree: 100%
 
 * 请务必在发布到生产环境之前，先在&#x200B;**暂存环境或预览页面**&#x200B;上运行审计。
 * 优先解决&#x200B;**高影响问题**，例如链接失效、缺少 H1 标记或不安全的链接。
-* 在受保护的暂存环境中运行审计前，请确保已启用&#x200B;**身份验证**。
+* 在运行审核之前，请确保为受保护的暂存环境启用了&#x200B;**身份验证**。
 * 查看并应用&#x200B;**元标记建议**，以提升 SEO 性能。
