@@ -1,10 +1,10 @@
 ---
 title: 预检设置
 description: 了解如何为 AEM Sites Optimizer 设置预检扩展。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 67%
+source-wordcount: '573'
+ht-degree: 63%
 
 ---
 
@@ -135,6 +135,31 @@ AEM Sites Optimizer印前检查机会识别需要设置Preflight扩展。 您可
 
 1. 将该书签命名为&#x200B;**预检**（或其他任意名称）。
 1. 在`*.aem.page`AEM Sites页面编辑器&#x200B;**中打开要审核的页面的预览URL (**)。
+1. 在书签栏中点击&#x200B;**预检**&#x200B;书签，即可开始对当前页面进行审计。
+
+>[!TAB Adobe Managed Services]
+
+>[!IMPORTANT]
+>
+>仅支持使用Adobe的标识提供程序(IMS)对AEM Author进行身份验证的Adobe Managed Services (AMS)环境。 如果您的组织使用任何其他身份提供程序进行AMS身份验证，则Preflight不起作用。
+
+要在AMS环境的AEM Sites页面编辑器中使用Preflight，请在Web浏览器中创建小书签，步骤如下：
+
+1. 在 Web 浏览器中显示&#x200B;**书签栏**：
+
+   * 在 Windows 上按 **Ctrl+Shift+B**，或在 Mac 上按 **Cmd+Shift+B**。
+
+1. 在浏览器中创建一个新书签：
+
+   * 右键单击书签栏，选择&#x200B;**新建页面**&#x200B;或&#x200B;**添加书签**。
+   * 在&#x200B;**地址（URL）**&#x200B;字段中粘贴以下代码：
+
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=ams';document.head.appendChild(script);})();
+   ```
+
+1. 将该书签命名为&#x200B;**预检**（或其他任意名称）。
+1. 在&#x200B;**AEM Sites页面编辑器**&#x200B;中打开要审核的页面。
 1. 在书签栏中点击&#x200B;**预检**&#x200B;书签，即可开始对当前页面进行审计。
 
 >[!ENDTABS]
