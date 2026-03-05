@@ -1,9 +1,9 @@
 ---
 title: 印前检查基础知识
 description: 了解Preflight的基础知识以及如何使用其界面。
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d669706909eeed61c6d0803e2b37df81ece987e1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,8 @@ Preflight可帮助您识别在发布网页之前增强网页功能的机会。 P
 ## 审核结果
 
 审核完成后， Preflight将显示找到的业务机会。 每个机会都按类型进行整理，并包含有关如何解决问题的详细信息。
+
+AEM Preflight对话框顶部有一个用户进度条，用于反映总体审核结果。 它显示未出现任何问题的已传递机会百分比，以及在所有机会中找到的问题总数。 用户进度栏可帮助作者快速衡量总体页面运行状况。
 
 ## 关于印前检查机会
 
