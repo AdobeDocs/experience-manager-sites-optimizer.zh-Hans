@@ -3,10 +3,10 @@ title: 使用 Sites Optimizer 进行表单优化
 description: 了解如何使用 Sites Optimizer 进行表单优化。
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 66%
+source-wordcount: '219'
+ht-degree: 67%
 
 ---
 
@@ -19,11 +19,13 @@ ht-degree: 66%
 
 ![表单优化机会](./assets/form-optimization/hero.png){align="center"}
 
-Forms优化机会使组织能够系统地改进用户交互并提高表单转化。 通过检测问题（如查看次数低、转化率低和导航率低），团队可以对表单设计、版面和内容进行数据驱动调整。 这些优化有助于简化用户体验，使访问者更容易填写表单，达到预期的结果。使用Forms Optimization提供的见解可支持持续识别和解决性能差距，从而实现更有效的表单和改进的业务成果。
+Forms优化机会使组织能够系统地改进用户交互并提高表单转化。 通过检测问题（如查看次数低、转化率低和导航率低），团队可以对表单设计、版面和内容进行数据驱动调整。 这些优化有助于简化用户体验，使访问者更容易填写表单，达到预期的结果。 使用Forms Optimization提供的见解可支持持续识别和解决性能差距，从而实现更有效的表单和改进的业务成果。
 
 ## 机会
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -32,7 +34,7 @@ Forms优化机会使组织能够系统地改进用户交互并提高表单转化
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">

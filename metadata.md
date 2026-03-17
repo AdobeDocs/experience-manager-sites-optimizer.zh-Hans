@@ -1,22 +1,24 @@
 ---
 solution: Experience Manager
 product: adobe experience manager
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 type: Documentation
 description: AEM Sites Optimizer文档。
-index: y
-git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.zh-Hans
+index: true
+git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.en
 feature-set: Experience Manager Assets,Experience Manager Sites,Experience Manager, Experience Manager Forms, Experience Manager Cloud Manager
 cloud: Experience Cloud
 recommendations: noDisplay
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 29%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
 
 
-# 内部使用的元数据
+# 元数据供内部使用
 
 GitHub创作系统使用以下递增的引用级别，按层级组织元数据。
 
@@ -40,7 +42,7 @@ metadata.md
 * `tutorials-title`
 * `tutorials-url`
 
-ToC
+ToCs
 
 * `sub-product`
 * `user-guide-title`

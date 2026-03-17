@@ -1,8 +1,8 @@
 ---
 title: 使用 Sites Optimizer 优化流量获取
 description: 了解如何使用 Sites Optimizer 提高流量获取。
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -13,11 +13,13 @@ ht-degree: 100%
 
 ![流量获取机会](./assets/traffic-acquisition/hero.png){align="center"}
 
-流量获取可将潜在客户引导至您的网站，从而创造销售或潜在客户转化的机会。通过利用搜索引擎优化（SEO）等策略，企业可以提高搜索可见性，并让用户更容易发现他们的内容。稳定的访客流量有助于提升品牌知名度并建立信任。同时还能带来有关用户行为的宝贵洞察。这些洞察有助于团队优化产品或服务，并提升整体用户体验。利用 AEM Sites Optimizer 的洞察，可以进行持续优化，确保长期持续增长，并提高转化率。
+流量获取可将潜在客户引导至您的网站，从而创造销售或潜在客户转化的机会。 通过利用搜索引擎优化（SEO）等策略，企业可以提高搜索可见性，并让用户更容易发现他们的内容。 稳定的访客流量有助于提升品牌知名度并建立信任。 同时还能带来有关用户行为的宝贵洞察。 这些洞察有助于团队优化产品或服务，并提升整体用户体验。 利用 AEM Sites Optimizer 的洞察，可以进行持续优化，确保长期持续增长，并提高转化率。
 
 ## 机会
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/broken-backlinks.md
   {title=Broken backlinks}
@@ -32,7 +34,7 @@ ht-degree: 100%
   {title=Sitemap issues}
   {image=../assets/common/card-relationship.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">

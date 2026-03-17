@@ -1,9 +1,9 @@
 ---
 title: 使用 AEM Sites Optimizer 进行预检优化
 description: 了解 AEM Sites Optimizer 提供的预检机会。
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 79%
 
 ---
@@ -13,11 +13,13 @@ ht-degree: 79%
 
 ![预检机会](./assets/preflight/hero.png){align="center"}
 
-AEM Sites Optimizer [预检机会](../documentation/preflight/overview.md)可帮助确保网页在上线前已针对性能、SEO 和用户体验完成优化。通过识别潜在问题（如链接失效、缺少元标记和可访问性隐患），预检检查使内容作者和营销人员能够在发布流程早期解决这些问题。这种主动预防性的方法最大限度地降低了发布次优内容的风险，提高了网站质量，并改善了总体数字效果。 使用印前检查机会支持更流畅的工作流，减少发布后的修复，并有助于提高搜索引擎排名和用户满意度。
+AEM Sites Optimizer [预检机会](../documentation/preflight/overview.md)可帮助确保网页在上线前已针对性能、SEO 和用户体验完成优化。 通过识别潜在问题（如链接失效、缺少元标记和可访问性隐患），预检检查使内容作者和营销人员能够在发布流程早期解决这些问题。 这种主动预防性的方法最大限度地降低了发布次优内容的风险，提高了网站质量，并改善了总体数字效果。 使用印前检查机会支持更流畅的工作流，减少发布后的修复，并有助于提高搜索引擎排名和用户满意度。
 
 ## 机会
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/preflight/accessibility.md
   {title=Accessibility}
