@@ -1,34 +1,40 @@
 ---
-title: 预检机会
-description: 有关Sites Optimizer中的预检机会的文档。
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+title: AEM Sites Optimizer Preflight
+description: 了解Preflight及其在发布之前评估的机会类型。
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 81%
+source-wordcount: '307'
+ht-degree: 40%
 
 ---
 
 
-# 预检机会
+# AEM Sites Optimizer Preflight
 
 ![预检机会](./assets/overview/hero.png){align="center"}
 
-Sites Optimizer印前检查机会由一组评估组成，这些评估在网页发布之前分析网站内容和结构的不同方面。 这些评估有助于识别潜在问题，并提供可操作的改进建议，以提升网站的整体质量和性能。
+AEM Sites Optimizer中的Preflight可通过分析内容和结构并标记问题与切实可行的建议，帮助您在页面正式启用之前验证和优化页面。 它专为希望确保页面高质量、高性能并准备好发布的同时减少重工的作者、营销人员和开发人员而设计。
 
-## 预检设置
+Preflight的核心是“机会”，这些机会可通过一组审核进行识别，这些审核会在发布之前评估页面的关键方面。 这些审计揭示了潜在问题，并提供了明确、可操作的建议以提高整体质量和性能。
 
-按照[预检设置](./setup.md)指南中的步骤，在您的网站中配置预检扩展。
+## Preflight入门
+
+Preflight快速入门非常简单。 只需设置Preflight，在创作环境中打开它，然后在您的页面上运行审核，Preflight就会完成其余操作。
+
+1. [设置预检](./setup.md) — 了解如何为您的AEM实例设置预检
+1. [访问Preflight](./access-preflight.md) — 了解Preflight在创作环境中的显示位置
+1. [运行审核](./audits.md) — 了解如何启动印前检查审核
+1. [审核结果和机会](./audit-results.md) — 了解如何解释审核结果
 
 ## 预检机会
 
-<!--
-CARDS
+<!-- CARDS
 
-* ./accessibility.md
-* ./h1-count.md
-* ./links.md
-* ./meta-data.md
-* ./readability.md
+* ./opportunities/accessibility.md
+* ./opportunities/h1-count.md
+* ./opportunities/links.md
+* ./opportunities/meta-data.md
+* ./opportunities/readability.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -36,8 +42,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./accessibility.md" title="预检辅助功能机会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/accessibility/hero.png" alt="预检辅助功能机会"
+                    <a href="./opportunities/accessibility.md" title="预检辅助功能机会" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunities/assets/accessibility/hero.png" alt="预检辅助功能机会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,11 +51,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./accessibility.md" target="_blank" rel="referrer" title="预检辅助功能机会">预检辅助功能机会</a>
+                        <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" title="预检辅助功能机会">预检辅助功能机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的预检辅助功能机会。</p>
                 </div>
-                <a href="./accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -59,8 +65,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./h1-count.md" title="预检 H1 计数机会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/h1-count/hero.png" alt="预检 H1 计数机会"
+                    <a href="./opportunities/h1-count.md" title="预检 H1 计数机会" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunities/assets/h1-count/hero.png" alt="预检 H1 计数机会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,11 +74,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./h1-count.md" target="_blank" rel="referrer" title="预检 H1 计数机会">预检 H1 计数机会</a>
+                        <a href="./opportunities/h1-count.md" target="_blank" rel="referrer" title="预检 H1 计数机会">预检 H1 计数机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的预检辅助功能机会。</p>
                 </div>
-                <a href="./h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./opportunities/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -82,8 +88,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./links.md" title="预检链接机会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/links/hero.png" alt="预检链接机会"
+                    <a href="./opportunities/links.md" title="预检链接机会" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunities/assets/links/hero.png" alt="预检链接机会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,11 +97,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./links.md" target="_blank" rel="referrer" title="预检链接机会">预检链接机会</a>
+                        <a href="./opportunities/links.md" target="_blank" rel="referrer" title="预检链接机会">预检链接机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的预检链接机会。</p>
                 </div>
-                <a href="./links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./opportunities/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -105,8 +111,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./meta-data.md" title="预检元数据机会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/metadata/hero.png" alt="预检元数据机会"
+                    <a href="./opportunities/meta-data.md" title="预检元数据机会" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunities/assets/metadata/hero.png" alt="预检元数据机会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,11 +120,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./meta-data.md" target="_blank" rel="referrer" title="预检元数据机会">预检元数据机会</a>
+                        <a href="./opportunities/meta-data.md" target="_blank" rel="referrer" title="预检元数据机会">预检元数据机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的预检元数据机会。</p>
                 </div>
-                <a href="./meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./opportunities/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>
@@ -128,8 +134,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./readability.md" title="预检可读性机会" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/readability/hero.png" alt="预检可读性机会"
+                    <a href="./opportunities/readability.md" title="预检可读性机会" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="opportunities/assets/readability/hero.png" alt="预检可读性机会"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,11 +143,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./readability.md" target="_blank" rel="referrer" title="预检可读性机会">预检可读性机会</a>
+                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="预检可读性机会">预检可读性机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的预检可读性机会。</p>
                 </div>
-                <a href="./readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./opportunities/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
                 </a>
             </div>

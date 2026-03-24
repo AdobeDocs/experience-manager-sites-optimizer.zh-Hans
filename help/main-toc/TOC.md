@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 98%
+source-wordcount: '123'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 98%
    + [安全态势](/help/opportunity-types/security-posture.md)
    + [表单优化](/help/opportunity-types/form-optimization.md)
    + [表单无障碍可访问性](/help/opportunity-types/form-accesibility.md)
-   + [预检](/help/opportunity-types/preflight.md)
 + 文档{#documentation}
    + [概述](/help/documentation/overview.md)
    + [基础知识](/help/documentation/basics.md)
@@ -47,13 +46,16 @@ ht-degree: 98%
       + [Sitemap 问题](/help/documentation/opportunities/sitemap-issues.md)
       + [网站权限](/help/documentation/opportunities/website-permissions.md)
       + [网站漏洞](/help/documentation/opportunities/website-vulnerabilities.md)
-   + 预检机会{#preflight-opportunities}
+   + 预检{#preflight}
       + [概述](/help/documentation/preflight/overview.md)
-      + [基础知识](/help/documentation/preflight/basics.md)
       + [设置](/help/documentation/preflight/setup.md)
-      + [辅助功能](/help/documentation/preflight/accessibility.md)
-      + [H1 计数](/help/documentation/preflight/h1-count.md)
-      + [链接](/help/documentation/preflight/links.md)
-      + [元数据](/help/documentation/preflight/meta-data.md)
-      + [可读性](/help/documentation/preflight/readability.md)
+      + [访问Preflight](/help/documentation/preflight/access-preflight.md)
+      + [审核](/help/documentation/preflight/audits.md)
+      + [审核结果](/help/documentation/preflight/audit-results.md)
+      + 机会{#preflight-opportunities}
+         + [辅助功能](/help/documentation/preflight/opportunities/accessibility.md)
+         + [H1 计数](/help/documentation/preflight/opportunities/h1-count.md)
+         + [链接](/help/documentation/preflight/opportunities/links.md)
+         + [元数据](/help/documentation/preflight/opportunities/meta-data.md)
+         + [可读性](/help/documentation/preflight/opportunities/readability.md)
    + [设置](/help/documentation/settings.md)
