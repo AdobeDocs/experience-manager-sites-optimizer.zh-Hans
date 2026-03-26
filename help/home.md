@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer
 description: 使用 Sites Optimizer 提升您网站的性能——提高速度、降低成本并增强可靠性，以获得更好的参与度。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 84%
@@ -17,7 +17,8 @@ Adobe Experience Manager (AEM) Sites Optimizer 是一项基于云的服务，可
 
 ## 开始使用 Sites Optimizer
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./opportunity-types/overview.md
     * {title=Opportunity types}
