@@ -1,7 +1,7 @@
 ---
 title: AEM Sites Optimizer Preflight
 description: 了解Preflight及其在发布之前评估的机会类型。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 40%
@@ -28,7 +28,8 @@ Preflight快速入门非常简单。 只需设置Preflight，在创作环境中�
 
 ## 预检机会
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./opportunities/accessibility.md
 * ./opportunities/h1-count.md
