@@ -3,11 +3,10 @@ title: 表单无障碍可访问性问题机会文档
 description: 了解表单无障碍可访问性问题机会以及如何利用这种机会改善网站上的表单可访问性和用户体验。
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
-hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 63%
+source-wordcount: '311'
+ht-degree: 65%
 
 ---
 
@@ -18,7 +17,7 @@ ht-degree: 63%
 
 ![表单无障碍可访问性问题机会](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-表单无障碍可访问性问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍指南（WCAG）](https://www.w3.org/TR/WCAG21/)。通过评估表单与WCAG的符合程度，您可以帮助创建包容性的表单体验。 这样，患有视觉、听觉、认知和运动障碍的用户就可以导航、互动并成功填写您的表单。 它不仅出于道德原因而至关重要，而且还促进了对法律要求的遵守。 它还提高了表单完成率，并且可以增加受众覆盖范围，从而提高用户体验和业务绩效。
+表单无障碍可访问性问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍指南（WCAG）](https://www.w3.org/TR/WCAG21/)。 通过评估表单与WCAG的符合程度，您可以帮助创建包容性的表单体验。 这样，患有视觉、听觉、认知和运动障碍的用户就可以导航、互动并成功填写您的表单。 它不仅出于道德原因而至关重要，而且还促进了对法律要求的遵守。 它还提高了表单完成率，并且可以增加受众覆盖范围，从而提高用户体验和业务绩效。
 
 ## 自动识别
 
