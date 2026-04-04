@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 94%
+ht-degree: 91%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 94%
    + [参与度](/help/opportunity-types/engagement.md)
    + [网站健康](/help/opportunity-types/site-health.md)
    + [安全态势](/help/opportunity-types/security-posture.md)
-   + [表单优化](/help/opportunity-types/form-optimization.md)
-   + [表单无障碍可访问性](/help/opportunity-types/form-accesibility.md)
+   + {hide-from-toc}[表单优化](/help/opportunity-types/form-optimization.md)
+   + {hide-from-toc}[表单无障碍可访问性](/help/opportunity-types/form-accesibility.md)
 + 文档{#documentation}
    + [概述](/help/documentation/overview.md)
    + [基础知识](/help/documentation/basics.md)
@@ -39,10 +39,10 @@ ht-degree: 94%
       + [元数据无效或缺失](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [结构化数据缺失或无效](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [缺少替代文本](/help/documentation/opportunities/missing-alt-text.md)
-      + [表单低转化](/help/documentation/opportunities/low-conversions.md)
-      + [表单低浏览量](/help/documentation/opportunities/low-views.md)
-      + [表单低导航](/help/documentation/opportunities/low-navigation.md)
-      + [表单无障碍可访问性问题](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[表单低转化](/help/documentation/opportunities/low-conversions.md)
+      + {hide-from-toc}[表单低浏览量](/help/documentation/opportunities/low-views.md)
+      + {hide-from-toc}[表单低导航](/help/documentation/opportunities/low-navigation.md)
+      + {hide-from-toc}[Forms辅助功能问题](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Sitemap 问题](/help/documentation/opportunities/sitemap-issues.md)
       + [网站权限](/help/documentation/opportunities/website-permissions.md)
       + [网站漏洞](/help/documentation/opportunities/website-vulnerabilities.md)
