@@ -24,7 +24,7 @@ AEM Preflight对话框顶部有一个用户进度条，它反映总体审核结�
 * 绿色表示&#x200B;**超过2/3完成**
 * 审核仍在运行&#x200B;**时为蓝色**
 
-查看可用机会类型的完整列表以及如何解决它们](./overview.md#preflight-opportunities)。[
+查看可用机会类型的完整列表以及如何解决它们[&#128279;](./overview.md#preflight-opportunities)。
 
 ## 导航到问题并应用建议
 
