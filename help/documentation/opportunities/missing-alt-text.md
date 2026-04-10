@@ -2,10 +2,10 @@
 title: 缺少替代文本文档
 description: 了解缺少替代文本机会，以及如何使用它来提高您网站上的参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 36%
+source-wordcount: '694'
+ht-degree: 37%
 
 ---
 
@@ -67,8 +67,20 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 更新在支持的地方进行版本控制，提供可视性和回滚容量。 这可确保准确地应用替换文本更新，与现有实施保持一致，并与治理和可访问性标准保持一致。
 
-AEM Sites Optimizer会根据您的设置自动应用替换文本更新：
+AEM Sites Optimizer会根据您的设置自动应用替换文本更新，如下所示：
 
-* **Edge Delivery Services** — 更新源文档（例如，Google Docs或SharePoint）。
-* **AEM as a Cloud Service** — 通过支持版本控制和回退的内容API直接写入更新。
-* **数字资产管理（可选）** — 在适用的情况下更新资产级别的替换文本。
+>[!BEGINTABS]
+
+>[!TAB Edge Delivery Services]
+
+更新源文档（例如，Google Docs或SharePoint）。
+
+>[!TAB AEM as a Cloud Service]
+
+通过内容API直接写入更新，并提供版本控制和回退支持。
+
+>[!TAB 数字资产管理（可选）]
+
+在适用的地方更新资产级别的替换文本。
+
+>[!ENDTABS]
