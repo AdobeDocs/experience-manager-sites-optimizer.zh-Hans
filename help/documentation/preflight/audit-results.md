@@ -1,9 +1,9 @@
 ---
 title: Preflight中的审核结果
-description: 了解如何解释印前检查审核结果和用户进度条、导航到预览中的问题并应用人工智能生成的建议。
-source-git-commit: 10534d1fabdd88b11f45895d39bc1afd0d664ff1
+description: 了解如何解释印前检查审核结果和用户进度栏，并导航到预览中的问题。
+source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -26,33 +26,13 @@ AEM Preflight对话框顶部有一个用户进度条，它反映总体审核结�
 
 查看可用机会类型的完整列表以及如何解决它们[&#128279;](./overview.md#preflight-opportunities)。
 
-## 导航到问题并应用建议
+## 导航到问题
 
-审核完成后，您可以快速转到已识别的问题，并直接在预览中应用AI生成的建议。
+审核完成后，您可以快速转到预览中识别的问题。
 
-![预检预览突出显示和AI建议面板](./assets/audit-results/highlight-issue.png){align="center"}
+![印前检查预览，突出显示问题](./assets/audit-results/highlight-issue.png){align="center"}
 
 ### 导航到问题
 
 1. 从“印前检查”面板的问题列表中选择问题。
 1. 预览会自动滚动到并突出显示页面上的相应位置，因此您可以在上下文中查看问题而无需手动搜索。
-
-### 应用AI生成的建议
-
-对于包含AI生成的推荐的问题，您可以直接从建议面板应用建议的优化。
-
-#### 应用优化
-
-1. 查看AI生成的建议。
-1. 选择&#x200B;**应用优化**。
-
-推荐的内容将直接应用于内容。
-
-#### 应用前编辑
-
-如果需要进行调整：
-
-1. 在建议面板中修改AI生成的建议。
-1. 选择&#x200B;**应用优化**。
-
-您编辑的版本将应用于预览。
