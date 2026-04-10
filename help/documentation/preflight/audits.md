@@ -1,9 +1,9 @@
 ---
 title: 在Preflight中运行审核
 description: 了解如何在您的页面上启动Preflight审核。
-source-git-commit: e7c34d27bd34b3c9db1e6a999007e9d36dc1fb21
+source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ ht-degree: 0%
 1. 打开[预检面板](./access-preflight.md)。
 1. Preflight会自动在编辑器中打开的页面上执行所有审核，并显示找到的任何机会。
 
-要解释结果、在预览中打开问题并应用人工智能生成的建议，请参阅Preflight中的[审核结果](./audit-results.md)。
+若要解释预览中的结果和未完成的问题，请参阅[Preflight中的审核结果](./audit-results.md)。
