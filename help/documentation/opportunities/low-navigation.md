@@ -3,7 +3,7 @@ title: 低导航机会文档
 description: 了解低导航机会，以及如何利用这种机会来提高您网站上的表单参与度。
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
-source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
+source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 90%
