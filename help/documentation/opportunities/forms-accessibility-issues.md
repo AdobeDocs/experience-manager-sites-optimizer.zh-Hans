@@ -3,7 +3,7 @@ title: 表单无障碍可访问性问题机会文档
 description: 了解表单无障碍可访问性问题机会以及如何利用这种机会改善网站上的表单可访问性和用户体验。
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
-source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
+source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 65%
