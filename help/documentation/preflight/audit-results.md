@@ -1,9 +1,9 @@
 ---
 title: Preflight中的审核结果
 description: 了解如何解释印前检查审核结果和用户进度栏，并导航到预览中的问题。
-source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
+source-git-commit: 30060044e558774ab1e17684945f29d3e76dc3a7
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,16 @@ AEM Preflight对话框顶部有一个用户进度条，它反映总体审核结�
 * 绿色表示&#x200B;**超过2/3完成**
 * 审核仍在运行&#x200B;**时为蓝色**
 
-查看可用机会类型的完整列表以及如何解决它们[&#128279;](./overview.md#preflight-opportunities)。
+查看可用机会类型的完整列表以及如何解决它们](./overview.md#preflight-opportunities)。[
 
-## 导航到问题
+## 突出显示机会
 
-审核完成后，您可以快速转到预览中识别的问题。
+审核完成后，您可以通过直接在页面上突出显示销售机会，快速找到并了解销售机会。
 
-![印前检查预览，突出显示问题](./assets/audit-results/highlight-issue.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
 
-### 导航到问题
+印前检查会突出显示上下文中的每个机会，将面板中的结果连接到内容中的确切位置。 这样，无需在页面中手动搜索即可更轻松地查看和解决机会。
 
-1. 从“印前检查”面板的问题列表中选择问题。
-1. 预览会自动滚动到并突出显示页面上的相应位置，因此您可以在上下文中查看问题而无需手动搜索。
+1. 在要审核的页面的上下文中打开“印前检查”面板，然后运行审核。
+1. 从“印前检查”面板的列表中选择一个特定商机。
+1. 预览会自动滚动到相关区域并突出显示相应的元素，使您能够轻松地识别和优化上下文中的机会。
