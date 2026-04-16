@@ -2,10 +2,10 @@
 title: Core Web Vitals 机会文档
 description: 了解 Core Web Vitals 机会，以及如何使用它来提高流量获取。
 badgeSiteHealth: label="网站健康" type="Caution" url="../../opportunity-types/site-health.md" tooltip="网站健康"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ AEM Sites Optimizer显示所有当前问题的列表，按移动设备和桌面�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![自动优化 Core Web Vital 机会](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483381/?captions=chi_hans&learn=on&enablevpops)
 
 审核并批准推荐后，您可以单击&#x200B;**部署优化**。 AEM Sites Optimizer会根据发现的问题生成代码修补程序，并通过版本控制流程提供这些修补程序。 优化过程包括以下步骤：
 

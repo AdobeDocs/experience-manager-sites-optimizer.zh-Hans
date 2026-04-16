@@ -2,7 +2,7 @@
 title: 中断的反向链接机会文档
 description: 了解中断的反向链接机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 33%
@@ -65,6 +65,8 @@ AEM Sites Optimizer会持续扫描外部数据源，以检测指向网站上不�
 ## 自动优化
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483263/?captions=chi_hans&learn=on&enablevpops)
 
 在审查并批准建议后，您可以单击&#x200B;**部署优化**。 然后，AEM Sites Optimizer会根据如何在您的实施中管理重定向，将修复应用到创作环境中。 然后，AEM作者可以从内容管理系统(CMS)发布更改。
 
