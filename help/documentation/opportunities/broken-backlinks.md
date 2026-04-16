@@ -20,7 +20,7 @@ ht-degree: 33%
 
 ![自动识别中断的反向链接](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-AEM Sites Optimizer会持续扫描外部数据源，以检测指向网站上不存在的404页面的反向链接。 数据从多个来源聚合，包括Google Search Console、[操作遥测](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)和第三方SEO平台。 自动识别机会可识别链接到断开URL的外部域，并根据影响（包括域权限和预期流量以及链接权益损失）对其进行优先级排序。
+AEM Sites Optimizer会持续扫描外部数据源，以检测指向网站上不存在的404页面的反向链接。 数据从多个来源聚合，包括Google Search Console、[操作遥测](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)和第三方SEO平台。 自动识别机会可识别链接到断开URL的外部域，并根据影响（包括域权限和预期流量以及链接权益损失）对其进行优先级排序。
 
 此机会列出了所有已发现的问题，包括以下详细信息：
 
