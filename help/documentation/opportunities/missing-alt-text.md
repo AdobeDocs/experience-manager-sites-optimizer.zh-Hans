@@ -55,7 +55,7 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483274/?captions=chi_hans&learn=on&enablevpops)
 
 审查并批准建议后，您可以单击&#x200B;**部署优化**。 然后，AEM Sites Optimizer会根据在您的实施中管理替换文本的方式，将修复应用到创作环境中。 然后，AEM作者可以从内容管理系统(CMS)发布更改。
 

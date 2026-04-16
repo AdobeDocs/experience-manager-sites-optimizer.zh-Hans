@@ -13,7 +13,7 @@ ht-degree: 15%
 
 使用面向现有Sites Optimizer客户（Edge Delivery Services、Cloud Services和Managed Services）的此试用版开始使用AEM Sites。 您的域数据已预先载入，因此您可以立即开始优化。 以下视频将指导您完成试用体验，并向您展示如何开始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
 
 >[!TIP]
 >

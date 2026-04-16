@@ -66,7 +66,7 @@ AEM Sites Optimizer会持续扫描外部数据源，以检测指向网站上不�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483263/?captions=chi_hans&learn=on&enablevpops)
 
 在审查并批准建议后，您可以单击&#x200B;**部署优化**。 然后，AEM Sites Optimizer会根据如何在您的实施中管理重定向，将修复应用到创作环境中。 然后，AEM作者可以从内容管理系统(CMS)发布更改。
 

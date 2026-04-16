@@ -38,7 +38,7 @@ AEM Sites Optimizer显示所有当前问题的列表，按移动设备和桌面�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483381/?captions=chi_hans&learn=on&enablevpops)
 
 审核并批准推荐后，您可以单击&#x200B;**部署优化**。 AEM Sites Optimizer会根据发现的问题生成代码修补程序，并通过版本控制流程提供这些修补程序。 优化过程包括以下步骤：
 
