@@ -2,9 +2,9 @@
 title: 缺少替代文本文档
 description: 了解缺少替代文本机会，以及如何使用它来提高您网站上的参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
+source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '689'
 ht-degree: 37%
 
 ---
@@ -55,7 +55,7 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![自动优化缺少替代文本](./assets/missing-alt-text/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
 
 审查并批准建议后，您可以单击&#x200B;**部署优化**。 然后，AEM Sites Optimizer会根据在您的实施中管理替换文本的方式，将修复应用到创作环境中。 然后，AEM作者可以从内容管理系统(CMS)发布更改。
 
