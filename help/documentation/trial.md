@@ -1,7 +1,7 @@
 ---
 title: Sites Optimizer试用版
 description: 开始使用面向现有AEM Sites客户的AEM Sites Optimizer试用版。
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -23,7 +23,7 @@ ht-degree: 15%
 
 请按照以下步骤开始使用试用版：
 
-1. 使用您的AEM Sites IMS组织ID登录到[www.sitesoptimizer.now](https://www.sitesoptimizer.now)。
+1. 使用您的AEM Sites IMS组织ID登录[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
 2. 查看关键量度，如页面查看次数、加载时间和参与率，以及按影响排定优先顺序的热门优化机会。
 3. 探索三种可用的机会类型：[断开的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)和[缺少替换文本](./opportunities/missing-alt-text.md)。
 4. 对于每个机会，最多可审查三个已确定的问题。 使用人工智能生成的建议，并在准备就绪后将优化直接部署到AEM环境中。
@@ -56,7 +56,7 @@ ht-degree: 15%
 +++
 +++如何访问试用版？
 
-转到[www.sitesoptimizer.now](https://www.sitesoptimizer.now)并使用您的AEM Sites IMS组织ID登录。
+转到[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)并使用您的AEM Sites IMS组织ID登录。
 
 +++
 +++试用的费用是多少？
