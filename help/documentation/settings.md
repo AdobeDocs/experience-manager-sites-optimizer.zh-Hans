@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 设置
 description: 了解如何配置 Sites Optimizer 设置，并与其他工具集成。
-source-git-commit: 93f802beee074f4de2f2438c85c2880def5aad69
+source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 11%
+source-wordcount: '749'
+ht-degree: 12%
 
 ---
 
@@ -41,8 +41,6 @@ AEM Sites Optimizer 中的 Google Search Console 设置连接器可以分析关�
 
 - **内容Source URL** — 支持EDS站点的SharePoint文件夹或Google驱动器文件夹的URL，例如：
   `https://drive.google.com/drive/folders/...` 或 `https://myorg.sharepoint.com/...`
-
-此URL必须与在EDS站点的`fstab.yaml`中配置的内容匹配。
 
 输入Content Source URL后，AEM Sites Optimizer将检测您的内容源类型并显示以下相关访问说明。
 
@@ -145,7 +143,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 ![连接到AEM Sites对话框显示用于共享访问权限的Google驱动器服务帐户](./assets/settings/validate-eds-google.png){align="center"}
 
 1. 在Google驱动器中，右键单击支持您的EDS网站的文件夹，然后选择&#x200B;**共享**。
-2. 在&#x200B;**添加人员和组**&#x200B;字段中，输入&#x200B;**连接到AEM Sites**&#x200B;对话框中显示的服务帐户电子邮件：
+2. 在&#x200B;**添加人员和组**&#x200B;字段中，输入&#x200B;**连接到AEM Sites**对话框中显示的服务帐户电子邮件：
    `experience-success-studio@helix-225321.iam.gserviceaccount.com`
 3. 将权限级别设置为&#x200B;**编辑者**。
 4. 取消选中&#x200B;**通知联系人**，然后单击&#x200B;**共享**。
