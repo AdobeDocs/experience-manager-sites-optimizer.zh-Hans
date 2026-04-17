@@ -2,23 +2,25 @@
 title: 缺少替代文本文档
 description: 了解缺少替代文本机会，以及如何使用它来提高您网站上的参与度。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
+source-git-commit: fd992e5f4508ccd4236757167a16c744d98cc6ae
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 37%
+source-wordcount: '669'
+ht-degree: 35%
 
 ---
 
 
 # 缺少替代文本机会
 
-![缺少替代文本机会](./assets/missing-alt-text/hero.png){align="center"}
+<!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483274/?captions=chi_hans&learn=on&enablevpops)
 
 缺少替换文本机会可识别网站上没有描述性替换文本的图像。 如果没有替换文本，依赖屏幕阅读器的用户将无法解读视觉内容，从而造成辅助功能障碍。 它还限制了搜索引擎理解和索引图像的方式，降低了内容可发现性和搜索性能。 AEM Sites Optimizer识别缺少的替换文本问题，提供特定的AI建议，并允许一键式部署修复这些问题，所有这些都在单个集中式视图中。
 
 ## 自动识别
 
-![自动识别缺少替代文本](./assets/missing-alt-text/auto-identify.png){align="center"}
+<!--![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png){align="center"}-->
 
 AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该审核将网站抓取、真实用户流量数据和AI分析整合在一起，以识别需要替换文本但未定义替换文本的图像。 它还会评估页面上的图像，以根据Web内容无障碍准则(WCAG)确定是否需要替换文本，不包括装饰性或非信息性图像。 根据图像在页面中的角色和相关性分析图像，确定对辅助功能和SEO影响最大的修复的优先级。
 
@@ -29,7 +31,7 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 ## 自动建议
 
-![自动建议缺少替代文本](./assets/missing-alt-text/auto-suggest.png){align="center"}
+<!--![Auto-suggest missing alt text](./assets/missing-alt-text/auto-suggest.png){align="center"}-->
 
 对于每个已识别的问题，AEM Sites Optimizer会为图像建议一个描述性替换文本。 它使用AI视觉模型分析图像并生成反映其在页面中的内容和角色的描述。 推荐非常简洁、相关，并且符合辅助功能最佳实践。 每个建议都可以在应用之前进行审查和编辑。
 
@@ -37,7 +39,7 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 >[!TAB 编辑缺少替代文本]
 
-![编辑缺少替代文本](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}
+<!--![Edit missing alt text](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}-->
 
 如果您不同意 AI 生成的建议，可以选择&#x200B;**编辑图标**&#x200B;来编辑所建议的替代文本。 使用该功能可以手动调整您认为最适合图像的文字。 编辑窗口包含以下内容：
 
@@ -53,9 +55,7 @@ AEM Sites Optimizer通过使用一种多步骤审核来扫描您的网站，该�
 
 ## 自动优化
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483274/?captions=chi_hans&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 审查并批准建议后，您可以单击&#x200B;**部署优化**。 然后，AEM Sites Optimizer会根据在您的实施中管理替换文本的方式，将修复应用到创作环境中。 然后，AEM作者可以从内容管理系统(CMS)发布更改。
 
