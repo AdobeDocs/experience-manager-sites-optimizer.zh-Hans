@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 设置
 description: 了解如何配置 Sites Optimizer 设置，并与其他工具集成。
-source-git-commit: 93f802beee074f4de2f2438c85c2880def5aad69
+source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 11%
+source-wordcount: '749'
+ht-degree: 12%
 
 ---
 
@@ -41,8 +41,6 @@ AEM Sites Optimizer 中的 Google Search Console 设置连接器可以分析关�
 
 - **内容Source URL** — 支持EDS站点的SharePoint文件夹或Google驱动器文件夹的URL，例如：
   `https://drive.google.com/drive/folders/...` 或 `https://myorg.sharepoint.com/...`
-
-此URL必须与在EDS站点的`fstab.yaml`中配置的内容匹配。
 
 输入Content Source URL后，AEM Sites Optimizer将检测您的内容源类型并显示以下相关访问说明。
 
