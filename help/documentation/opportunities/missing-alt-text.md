@@ -14,7 +14,7 @@ ht-degree: 35%
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483274/?captions=chi_hans&learn=on&enablevpops)
 
 缺少替换文本机会可识别网站上没有描述性替换文本的图像。 如果没有替换文本，依赖屏幕阅读器的用户将无法解读视觉内容，从而造成辅助功能障碍。 它还限制了搜索引擎理解和索引图像的方式，降低了内容可发现性和搜索性能。 AEM Sites Optimizer识别缺少的替换文本问题，提供特定的AI建议，并允许一键式部署修复这些问题，所有这些都在单个集中式视图中。
 

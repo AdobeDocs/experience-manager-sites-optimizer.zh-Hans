@@ -14,7 +14,7 @@ ht-degree: 30%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483263/?captions=chi_hans&learn=on&enablevpops)
 
 中断的后链接机会标识指向网站上不存(404)页面的外部链接。 这些链接会导致引荐流量损失和SEO价值降低，因为搜索引擎依靠反向链接来评估相关性和权威。 在没有适当重定向的情况下，更改URL、删除内容或页面不再可用时，会出现这些问题。 AEM Sites Optimizer可识别所有断开的回溯链接，提供特定的AI建议，并允许一键式部署修复它们，所有这些都在一个集中式视图中完成。
 
