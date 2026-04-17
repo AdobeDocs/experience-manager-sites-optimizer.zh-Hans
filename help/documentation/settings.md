@@ -145,7 +145,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 ![连接到AEM Sites对话框显示用于共享访问权限的Google驱动器服务帐户](./assets/settings/validate-eds-google.png){align="center"}
 
 1. 在Google驱动器中，右键单击支持您的EDS网站的文件夹，然后选择&#x200B;**共享**。
-2. 在&#x200B;**添加人员和组**&#x200B;字段中，输入&#x200B;**连接到AEM Sites**对话框中显示的服务帐户电子邮件：
+2. 在&#x200B;**添加人员和组**&#x200B;字段中，输入&#x200B;**连接到AEM Sites**&#x200B;对话框中显示的服务帐户电子邮件：
    `experience-success-studio@helix-225321.iam.gserviceaccount.com`
 3. 将权限级别设置为&#x200B;**编辑者**。
 4. 取消选中&#x200B;**通知联系人**，然后单击&#x200B;**共享**。
