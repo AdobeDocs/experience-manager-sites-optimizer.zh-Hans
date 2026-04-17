@@ -24,7 +24,7 @@ AEM Sites Optimizer可检测受这些问题影响的页面、在代码级别提�
 
 <!--![Auto-identify core web vitals](./assets/core-web-vitals/auto-identify.png){align="center"}-->
 
-AEM Sites Optimizer通过使用[操作遥测](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)检测Core Web Vitals量度(如最大内容绘制(LCP)、累积布局偏移(CLS)和交互到下一绘制(INP))中的回归来持续监视网站性能。 它使用真实的用户数据来识别性能回归并根据问题对用户体验的影响为其设置优先级。
+AEM Sites Optimizer通过使用[操作遥测](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)检测Core Web Vitals量度(如最大内容绘制(LCP)、累积布局偏移(CLS)和交互到下一绘制(INP))中的回归来持续监视网站性能。 它使用真实的用户数据来识别性能回归并根据问题对用户体验的影响为其设置优先级。
 
 AEM Sites Optimizer显示所有当前问题的列表，按移动设备和桌面设备详述。 **Page**&#x200B;列指示受影响的页面条目和问题按LCP、INP和CLS分类。
 
