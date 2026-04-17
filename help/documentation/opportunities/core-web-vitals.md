@@ -2,17 +2,19 @@
 title: Core Web Vitals 机会文档
 description: 了解 Core Web Vitals 机会，以及如何使用它来提高流量获取。
 badgeSiteHealth: label="网站健康" type="Caution" url="../../opportunity-types/site-health.md" tooltip="网站健康"
-source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
+source-git-commit: fd992e5f4508ccd4236757167a16c744d98cc6ae
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 9%
+source-wordcount: '533'
+ht-degree: 6%
 
 ---
 
 
 # Core Web Vitals 机会
 
-![Core Web Vitals 机会](./assets/core-web-vitals/hero.png){align="center"}
+<!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 Core Web Vitals销售机会可以识别您网站上表现不佳且影响用户体验和自然搜索性能的页面。 这些问题可能是由自定义字体、未优化的JavaScript依赖项和第三方脚本等因素造成的。 Core Web Vitals会测量内容加载速度、页面布局稳定性以及页面对用户交互的响应程度。
 
@@ -20,15 +22,15 @@ AEM Sites Optimizer可检测受这些问题影响的页面、在代码级别提�
 
 ## 自动识别
 
-![自动识别 Core Web Vital](./assets/core-web-vitals/auto-identify.png){align="center"}
+<!--![Auto-identify core web vitals](./assets/core-web-vitals/auto-identify.png){align="center"}-->
 
-AEM Sites Optimizer通过使用[操作遥测](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)检测Core Web Vitals量度(如最大内容绘制(LCP)、累积布局偏移(CLS)和交互到下一绘制(INP))中的回归来持续监视网站性能。 它使用真实的用户数据来识别性能回归并根据问题对用户体验的影响为其设置优先级。
+AEM Sites Optimizer通过使用[操作遥测](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service)检测Core Web Vitals量度(如最大内容绘制(LCP)、累积布局偏移(CLS)和交互到下一绘制(INP))中的回归来持续监视网站性能。 它使用真实的用户数据来识别性能回归并根据问题对用户体验的影响为其设置优先级。
 
 AEM Sites Optimizer显示所有当前问题的列表，按移动设备和桌面设备详述。 **Page**&#x200B;列指示受影响的页面条目和问题按LCP、INP和CLS分类。
 
 ## 自动建议
 
-![自动建议 Core Web Vital 机会](./assets/core-web-vitals/auto-suggest.png){align="center"}
+<!--![Auto-suggest core web vitals opportunity](./assets/core-web-vitals/auto-suggest.png){align="center"}-->
 
 对于每个已识别的问题，AEM Sites Optimizer会生成规范性代码级别的建议以提高Core Web Vitals性能。 它通过访问代码存储库来评估基础实施。 这使系统能够分析组件、脚本和样式的实施方式，并找出性能问题的根本原因。 基于此分析，系统提供有针对性的建议并生成代码修补程序，这些修补程序指定改进性能所需的更改。 每项建议都可以在应用之前进行审核。
 
@@ -36,9 +38,7 @@ AEM Sites Optimizer显示所有当前问题的列表，按移动设备和桌面�
 
 ## 自动优化
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483381/?captions=chi_hans&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 审核并批准推荐后，您可以单击&#x200B;**部署优化**。 AEM Sites Optimizer会根据发现的问题生成代码修补程序，并通过版本控制流程提供这些修补程序。 优化过程包括以下步骤：
 
