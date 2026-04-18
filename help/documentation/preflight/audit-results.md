@@ -30,7 +30,7 @@ AEM Preflight对话框顶部有一个用户进度条，它反映总体审核结�
 
 审核完成后，您可以通过直接在页面上突出显示销售机会，快速找到并了解销售机会。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483422/?captions=chi_hans&learn=on&enablevpops)
 
 印前检查会突出显示上下文中的每个机会，将面板中的结果连接到内容中的确切位置。 这样，无需在页面中手动搜索即可更轻松地查看和解决机会。
 
