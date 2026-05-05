@@ -2,9 +2,9 @@
 title: Sites Optimizer 文档
 description: Experience Manager Sites Optimizer 文档。
 source-git-commit: 7784534e1d3628ca18da45c1e95fcce613adc7c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -120,7 +120,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./trial.md" target="_blank" rel="referrer" title="试用版">试用版</a>
                     </p>
-                    <p class="is-size-6">Sites Optimizer试用版快速入门，包括现有AEM Sites客户的步骤、限制和常见问题解答。</p>
+                    <p class="is-size-6">开始使用 Sites Optimizer 试用版，包括为现有 AEM Sites 客户提供的步骤、限制和常见问题解答。</p>
                 </div>
                 <a href="./trial.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

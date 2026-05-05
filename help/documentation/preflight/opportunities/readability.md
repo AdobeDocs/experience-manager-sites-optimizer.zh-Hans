@@ -2,9 +2,9 @@
 title: 预检可读性机会
 description: 了解 Sites Optimizer 中的预检可读性机会。
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Sites Optimizer 中的预检可读性机会可帮助您识别和处理与网站�
 * 德语
 * 荷兰语
 
-它确保团队可以评估和优化各种受众中的内容可读性。
+这可确保团队能够在广泛的受众范围内评估并优化内容的可读性。

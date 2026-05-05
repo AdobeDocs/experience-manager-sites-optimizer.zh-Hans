@@ -4,16 +4,16 @@ description: 了解低浏览量机会，以及如何利用这种机会来提高�
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '332'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # 表单低浏览量机会
 
-<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
+<span class="preview"> 表单优化功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
 ![低浏览量机会](./assets/low-views/hero.png){align="center"}
 

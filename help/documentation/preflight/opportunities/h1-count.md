@@ -2,7 +2,7 @@
 title: 预检 H1 计数机会
 description: 了解 Sites Optimizer 中的预检辅助功能机会。
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 

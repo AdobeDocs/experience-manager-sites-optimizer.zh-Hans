@@ -3,7 +3,7 @@ title: Sites Optimizer 基础知识
 description: 了解 Sites Optimizer 的基础知识和导航方法。
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: ht
-source-wordcount: '511'
+source-wordcount: '532'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 
 ![Site Optimizer 域管理器](./assets/basics/domain-manager.png){align="center"}
 
-域管理器上下文菜单允许您按域选择想要评估和优化的 AEM Sites。Sites Optimizer 提供了在 [Cloud Manager](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site) 中注册的所有生产 AEM Sites 的列表。
+域管理器上下文菜单允许您按域选择想要评估和优化的 AEM Sites。 Sites Optimizer 提供了在 [Cloud Manager](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/edge-delivery-sites/add-edge-delivery-site) 中注册的所有生产 AEM Sites 的列表。
 
 ## 导航
 
@@ -35,7 +35,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 
 ![Site Optimizer 网站摘要](./assets/basics/site-summary.png){align="center"}
 
-“网站摘要”部分提供了您网站性能的快照、Sites Optimizer 在一段时间内如何改进网站以及改进机会。关键量度包括：
+“网站摘要”部分提供了您网站性能的快照、Sites Optimizer 在一段时间内如何改进网站以及改进机会。 关键量度包括：
 
 * **已优化机会**——为提高经营业绩而改进的已识别的机会数量。
 * **待处理机会**——尚未优化的潜在改进数量，代表业务收益领域。
@@ -48,7 +48,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 
 ![Site Optimizer 高影响力机会](./assets/basics/high-impact-opportunities.png){align="center"}
 
-“高影响力机会”部分根据对您网站性能的潜在影响，突出显示了最重要的待改进机会。这些机会按类型分类，让您可以轻松地确定优化工作的优先顺序。
+“高影响力机会”部分根据对您网站性能的潜在影响，突出显示了最重要的待改进机会。 这些机会按类型分类，让您可以轻松地确定优化工作的优先顺序。
 
 可通过关键词、标记、URL 或[机会类型](../opportunity-types/overview.md)筛选优化项，从而聚焦于最关键的改进领域。
 
@@ -57,7 +57,7 @@ Sites Optimizer 仪表板提供了网站性能和改进机会的高级概述。
 
 ![Site Optimizer 高影响力机会](./assets/basics/high-impact-opportunity-details.png){align="center"}
 
-每个机会都提供了问题的简要描述、其对您网站的潜在影响以及关于完整详细信息的链接。您还可以查看它的状态，表明它是否已优化或仍处于待处理状态。
+每个机会都提供了问题的简要描述、其对您网站的潜在影响以及关于完整详细信息的链接。 您还可以查看它的状态，表明它是否已优化或仍处于待处理状态。
 
 * **机会标题**——问题的简要描述及其对您网站性能的潜在影响。
 * **上次更新**——Sites Optimizer 于此日期使用最新数据更新了该优化机会。

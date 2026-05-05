@@ -1,81 +1,81 @@
 ---
-title: Sites Optimizer试用版
-description: 开始使用面向现有AEM Sites客户的AEM Sites Optimizer试用版。
+title: Sites Optimizer 试用版
+description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
 source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# Sites Optimizer试用版
+# Sites Optimizer 试用版
 
-使用面向现有Sites Optimizer客户（Edge Delivery Services、Cloud Services和Managed Services）的此试用版开始使用AEM Sites。 您的域数据已预先载入，因此您可以立即开始优化。 以下视频将指导您完成试用体验，并向您展示如何开始使用。
+开始使用面向现有 AEM Sites 客户（Edge Delivery Services、Cloud Services 和 Managed Services）的 Sites Optimizer 试用版。您的域数据已预先加入，因此您可以立即开始优化。以下视频将指导您完成试用版体验，为您介绍如何开始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
-> 如有任何问题或请求，请联系[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
+> 如有任何问题或请求，请联系 [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
 
-## 立即开始试用！
+## 立即开始使用试用版！
 
-请按照以下步骤开始使用试用版：
+请按照以下步骤开始使用您的试用版：
 
-1. 使用您的AEM Sites IMS组织ID登录[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
-2. 查看关键量度，如页面查看次数、加载时间和参与率，以及按影响排定优先顺序的热门优化机会。
-3. 探索三种可用的机会类型：[断开的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)和[缺少替换文本](./opportunities/missing-alt-text.md)。
-4. 对于每个机会，最多可审查三个已确定的问题。 使用人工智能生成的建议，并在准备就绪后将优化直接部署到AEM环境中。
-5. 随时升级到完整许可证以解锁更多机会。
+1. 使用您的 AEM Sites IMS 组织 ID 登录 [www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
+2. 查看关键量度，如页面浏览量、加载时间和参与度，以及按影响确定优先级的最佳优化机会。
+3. 探索三种可用的机会类型：[中断的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 和[缺少替换文本](./opportunities/missing-alt-text.md)。
+4. 对于每个机会，最多审阅三个发现的问题。使用 AI 生成的建议，在准备就绪后将优化直接部署到您的 AEM 环境中。
+5. 随时升级到完整许可证，以解锁更多机会。
 
 ## 试用版中有哪些功能
 
-该试用版包括以下内容：
+试用版包括以下功能：
 
-* 三种机会类型： [断开的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md)和[缺少替换文本](./opportunities/missing-alt-text.md)。
-* 每个机会每月最多三期。
-* 每个问题的完整工作流程：自动识别、自动建议和自动优化。
-   * **自动识别** — 使用多个数据源检测网站上的问题。
-   * **自动建议** — 为每个问题提供规范性的、AI生成的建议。
-   * **自动优化** — 在获得批准后，将修补程序直接部署到您的创作环境中。 更新遵循现有工作流，允许您的团队通过AEM查看和发布。
+* 三种机会类型：[中断的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 和 [缺少替换文本](./opportunities/missing-alt-text.md)。
+* 每个月每个机会最多三个问题。
+* 每个问题提供完整工作流：自动识别、自动建议、自动优化。
+   * **自动识别**——使用多个数据源检测您网站上的问题。
+   * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
+   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
 
 ## 常见问题解答
 
-请阅读以下内容，了解有关AEM Sites Optimizer试用版的常见问题解答。
+阅读以下关于 AEM Sites Optimizer 试用版的常见问题解答。
 
-+++什么是AEM Sites Optimizer？
++++什么是 AEM Sites Optimizer？
 
-[AEM Sites Optimizer](/help/home.md)是一个人工智能优先的应用程序，用于识别您网站上的问题，提供规范性建议，并帮助您修复这些问题以提高流量获取、参与和转化。
+[AEM Sites Optimizer](/help/home.md) 是一个 AI 优先的应用程序，用于识别您网站上的问题，提供规范性建议，帮助您修复这些问题，以提高流量获取、参与度和转化率。
 
 +++
-+++谁可以参与此试用？
++++谁可以使用这个试用版？
 
-现有AEM Sites客户（Edge Delivery Services、Cloud Services和Managed Services）。
+现有的 AEM Sites 客户（Edge Delivery Services、Cloud Services 和 Managed Services）。
 
 +++
 +++如何访问试用版？
 
-转到[www.sitesoptimizer.live](http://www.sitesoptimizer.live/)并使用您的AEM Sites IMS组织ID登录。
+前往 [www.sitesoptimizer.live](http://www.sitesoptimizer.live/)，然后使用您的 AEM Sites IMS 组织 ID 登录。
 
 +++
-+++试用的费用是多少？
++++试用版收取费用吗？
 
-不会。 现有AEM Sites客户可免费获得此试用版。
-
-+++
-+++有截止日期吗？
-
-不会。 审判不是基于时间的。 它受到可用机会类型和问题数量的使用情况的限制。
-+++
-+++修复所有问题后会发生什么情况？
-
-Sites Optimizer会持续识别影响您性能的问题。 免费试用版仅每月新增问题。 升级以实现连续审核和优化。
+不会。 现有 AEM Sites 客户可免费使用试用版。
 
 +++
-+++如何获得更多机会？
++++有有效期限吗？
 
-使用通过产品体验提供的升级或联系销售CTA，或发送电子邮件至[siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
+不会。 试用版不基于时间。它的使用限制是所提供的机会类型和问题的数量。
++++
++++解决所有问题后会怎么样？
+
+Sites Optimizer 会持续识别那些影响您网站性能的问题。免费试用版每月只是添加问题。升级可获得持续审核和优化的功能。
+
++++
++++如何能获得更多机会？
+
+使用升级，或联系通过产品体验提供的销售 CTA，或者发送电子邮件至 [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
 
 +++
 
@@ -155,7 +155,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="中断的反向链接">中断的反向链接</a>
                     </p>
-                    <p class="is-size-6">了解中断的反向链接机会，以及如何使用它来提高流量获取。</p>
+                    <p class="is-size-6">了解损坏反向链接机会，以及如何使用它来提高流量获取。</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

@@ -2,9 +2,9 @@
 title: Sites Optimizer 机会文档
 description: 了解所有可用的 Site Optimizer 机会，以及如何使用它们来提高您网站的性能。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '891'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -159,7 +159,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="中断的反向链接">中断的反向链接</a>
                     </p>
-                    <p class="is-size-6">了解中断的反向链接机会，以及如何使用它来提高流量获取。</p>
+                    <p class="is-size-6">了解损坏反向链接机会，以及如何使用它来提高流量获取。</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -249,9 +249,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="跨站点脚本">跨站点脚本</a>
+                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="跨网站脚本">跨站点脚本</a>
                     </p>
-                    <p class="is-size-6">了解跨站点脚本机会，并识别和修复网站安全漏洞。</p>
+                    <p class="is-size-6">了解跨网站脚本机会，并识别和修复网站安全漏洞。</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -366,7 +366,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="表单低导航">表单低导航</a>
                     </p>
-                    <p class="is-size-6">了解导航机会较少以及如何使用它来提高网站上的表单参与度。</p>
+                    <p class="is-size-6">了解低导航机会，以及如何利用这种机会来提高您网站上的表单参与度。</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -389,7 +389,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="表单无障碍可访问性问题">表单无障碍可访问性问题</a>
                     </p>
-                    <p class="is-size-6">了解Forms辅助功能问题以及如何使用它来提高您网站上的参与度。</p>
+                    <p class="is-size-6">了解表单无障碍可访问性问题机会，以及如何利用这种机会来提高您网站上的参与度。</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
