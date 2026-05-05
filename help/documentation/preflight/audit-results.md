@@ -30,7 +30,7 @@ AEM Preflight 对话框顶部有一个用户进度条，它反映了总体审核
 
 审核完成后，您可以直接在页面上突出显示机会，以便快速找到并了解这些机会。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483422/?captions=chi_hans&learn=on&enablevpops)
 
 Preflight 会在上下文中突出显示每个机会，将面板中的结果连接到内容中的准确位置。这样，您无需在页面中手动搜索就能更轻松地审阅和解决机会。
 

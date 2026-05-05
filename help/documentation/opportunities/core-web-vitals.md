@@ -14,7 +14,7 @@ ht-degree: 100%
 
 <!--![core web vitals opportunity](./assets/core-web-vitals/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483381/?captions=chi_hans&learn=on&enablevpops)
 
 Core Web Vitals 机会可以识别出您的网站上那些表现不佳且影响用户体验和自然搜索性能的页面。这些问题可能是由自定义字体、未优化的 JavaScript 依赖项和第三方脚本等因素导致的。Core Web Vitals 会衡量内容加载速度、页面布局的稳定性以及页面对用户交互的响应能力。
 
