@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 优化网站健康
 description: 了解如何使用 Sites Optimizer 改善您网站的健康状况。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 

@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 优化流量获取
 description: 了解如何使用 Sites Optimizer 提高流量获取。
 source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -52,7 +52,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="中断的反向链接">中断的反向链接</a>
                     </p>
-                    <p class="is-size-6">了解中断的反向链接机会，以及如何使用它来提高流量获取。</p>
+                    <p class="is-size-6">了解损坏反向链接机会，以及如何使用它来提高流量获取。</p>
                 </div>
                 <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>

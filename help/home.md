@@ -2,9 +2,9 @@
 title: AEM Sites Optimizer
 description: 使用 Sites Optimizer 提升您网站的性能——提高速度、降低成本并增强可靠性，以获得更好的参与度。
 source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '182'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -60,8 +60,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./documentation/preflight/overview.md" title="印前检查文档" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="documentation/preflight/assets/overview/hero.png" alt="印前检查文档"
+                    <a href="./documentation/preflight/overview.md" title="Preflight 文档" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="documentation/preflight/assets/overview/hero.png" alt="Preflight 文档"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,9 +69,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="印前检查文档">预检文档</a>
+                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight 文档">Preflight 文档</a>
                     </p>
-                    <p class="is-size-6">了解Sites Optimizer中的Preflight以及如何在发布网页之前优化网页。</p>
+                    <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 以及在您的网页发布之前如何优化网页。</p>
                 </div>
                 <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
@@ -92,7 +92,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="Sites Optimizer 文档">Sites Optimizer文档</a>
+                        <a href="./documentation/overview.md" target="_blank" rel="referrer" title="Sites Optimizer 文档">Sites Optimizer 文档</a>
                     </p>
                     <p class="is-size-6">浏览 Sites Optimizer 文档，了解其所有功能。</p>
                 </div>

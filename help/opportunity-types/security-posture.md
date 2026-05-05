@@ -2,7 +2,7 @@
 title: 使用 Sites Optimizer 优化安全态势
 description: 了解如何使用 Sites Optimizer 提高您网站的安全性。
 source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
 ht-degree: 100%
 

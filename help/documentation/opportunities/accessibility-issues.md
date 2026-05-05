@@ -4,7 +4,7 @@ description: 了解无障碍问题机会，以及如何使用它来提高您网�
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: ht
-source-wordcount: '263'
+source-wordcount: '278'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![无障碍问题机会](./assets/accessibility-issues/hero.png){align="center"}
 
-无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。通过评估您的网站在多大程度上符合《网页内容无障碍指南（WCAG）》，您将有助于打造具有包容性的在线体验。如此一来，视力、听力、认知和行动能力受限的用户也能够浏览、互动并受益于您的内容。这一功能不仅在道义上至关重要，还有助于满足法律合规要求、提升搜索引擎优化效果，并拓展受众覆盖范围，从而优化用户体验并提升业务表现。
+无障碍问题机会可识别您的网站在多大程度上满足了残障人士的需求，以及是否遵循了 [Web 内容无障碍准则（WCAG）](https://www.w3.org/TR/WCAG21/)。 通过评估您的网站在多大程度上符合《网页内容无障碍指南（WCAG）》，您将有助于打造具有包容性的在线体验。 如此一来，视力、听力、认知和行动能力受限的用户也能够浏览、互动并受益于您的内容。 这一功能不仅在道义上至关重要，还有助于满足法律合规要求、提升搜索引擎优化效果，并拓展受众覆盖范围，从而优化用户体验并提升业务表现。
 
 ## 自动识别
 

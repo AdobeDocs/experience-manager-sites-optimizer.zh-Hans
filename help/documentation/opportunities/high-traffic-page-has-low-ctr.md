@@ -4,7 +4,7 @@ description: 了解高流量页面存在低点击率的优化机会以及如何�
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
 source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: ht
-source-wordcount: '266'
+source-wordcount: '274'
 ht-degree: 100%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![高流量页面存在低点击率的优化机会](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
-高流量页面存在低点击率的优化机会可识别您网站上流量较大但点击率（CTR）较低的页面。通过分析这些页面，您可以发现可能阻碍用户参与度的潜在问题，并采取措施提升其性能。这个机会对于优化您网站的内容和版面至关重要，最终带来更高的转化率和更好的用户体验。
+高流量页面存在低点击率的优化机会可识别您网站上流量较大但点击率（CTR）较低的页面。 通过分析这些页面，您可以发现可能阻碍用户参与度的潜在问题，并采取措施提升其性能。 这个机会对于优化您网站的内容和版面至关重要，最终带来更高的转化率和更好的用户体验。
 
 ## 自动识别
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 ![自动建议高流量页面存在低点击率的问题](./assets/high-traffic-page-has-low-ctr/auto-suggest.png){align="center"}
 
-自动建议提供 AI 生成的关于优化网络体验的建议。建议包括&#x200B;**突出显示**&#x200B;视图，便于直观查看所提建议的更改内容。
+自动建议提供 AI 生成的关于优化网络体验的建议。 建议包括&#x200B;**突出显示**&#x200B;视图，便于直观查看所提建议的更改内容。
 
 可选中建议项查看全视图、预估点击率影响，并可在应用至页面前进行编辑。
 

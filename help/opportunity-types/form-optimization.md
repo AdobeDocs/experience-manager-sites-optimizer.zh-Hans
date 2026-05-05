@@ -3,22 +3,22 @@ title: 使用 Sites Optimizer 进行表单优化
 description: 了解如何使用 Sites Optimizer 进行表单优化。
 hide: true
 source-git-commit: 06ab4dd17748f7ac97a3292deacce01c1c0331cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '219'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 
 # 表单优化机会
 
-<span class="preview"> Forms优化功能在早期访问计划下可用。 您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
+<span class="preview"> 表单优化功能在早期访问计划中提供。您可以使用官方电子邮件 ID 写信给 aem-forms-ea@adobe.com，加入早期访问计划并申请使用该功能。</span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![表单优化机会](./assets/form-optimization/hero.png){align="center"}
 
-Forms优化机会使组织能够系统地改进用户交互并提高表单转化。 通过检测问题（如查看次数低、转化率低和导航率低），团队可以对表单设计、版面和内容进行数据驱动调整。 这些优化有助于简化用户体验，使访问者更容易填写表单，达到预期的结果。 使用Forms Optimization提供的见解可支持持续识别和解决性能差距，从而实现更有效的表单和改进的业务成果。
+表单优化机会使组织能够系统性地增强用户交互并提高表单转化。通过检测低浏览量、低转化和低导航率等问题，团队可以数据驱动的方式对表单设计、投放和内容进行调整。这些优化有助于简化用户体验，使访问者更容易填写表单，达到预期的结果。 使用表单优化的洞察有助于持续识别和解决性能差距，从而创建更有效的表单，提升业务成果。
 
 ## 机会
 
