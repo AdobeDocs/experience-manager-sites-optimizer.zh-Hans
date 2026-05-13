@@ -2,8 +2,10 @@
 title: 使用 Sites Optimizer 优化网站健康
 description: 了解如何使用 Sites Optimizer 改善您网站的健康状况。
 TQID: https://experienceleague.adobe.com/-zDE6-ycqW-IkPEQA9J024GAHb8SOdfdwR4DCEd0Oyc
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 130

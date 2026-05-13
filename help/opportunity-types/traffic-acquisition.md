@@ -2,8 +2,12 @@
 title: 使用 Sites Optimizer 优化流量获取
 description: 了解如何使用 Sites Optimizer 提高流量获取。
 TQID: https://experienceleague.adobe.com/0x1uX31tIxsuEZ5M7gHmz3-8xVfxLareAC8QPRXfNKo
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 233

@@ -2,8 +2,11 @@
 title: 使用 Sites Optimizer 优化安全态势
 description: 了解如何使用 Sites Optimizer 提高您网站的安全性。
 TQID: https://experienceleague.adobe.com/f-WI-WIM2a7-NRuyfLU4Gut5tUqwJS08Ipvqe2Y9F7w
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 220

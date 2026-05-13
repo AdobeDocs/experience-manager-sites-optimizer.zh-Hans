@@ -3,8 +3,11 @@ title: 表单无障碍可访问性问题机会文档
 description: 了解表单无障碍可访问性问题机会以及如何利用这种机会改善网站上的表单可访问性和用户体验。
 badgeFormOptimization: label="表单优化" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="表单优化"
 TQID: https://experienceleague.adobe.com/LsxxwR0UUBZEB1AJDXwE8zHbPRJcrOqwn25xdsesPhg
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: ht
