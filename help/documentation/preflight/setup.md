@@ -1,17 +1,19 @@
 ---
 title: 预检设置
 description: 了解如何为 AEM Sites Optimizer 设置预检扩展。
-source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
-workflow-type: ht
-source-wordcount: '596'
+TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 596
 ht-degree: 100%
 
 ---
 
-
 # 预检设置
 
-AEM Sites Optimizer Preflight 机会识别功能需要设置 Preflight 扩展。您可以在通用编辑器、基于文档的预览或 AEM Cloud Service 中设置此功能，以便在页面发布之前，为其运行 Preflight 审核。
+AEM Sites Optimizer Preflight 机会识别功能需要设置 Preflight 扩展。 您可以在通用编辑器、基于文档的预览或 AEM Cloud Service 中设置此功能，以便在页面发布之前，为其运行 Preflight 审核。
 
 ## 启用用户访问权限
 
@@ -141,7 +143,7 @@ AEM Sites Optimizer Preflight 机会识别功能需要设置 Preflight 扩展。
 
 >[!IMPORTANT]
 >
->仅支持使用 Adobe 的身份标识提供程序 (IMS) 对 AEM 作者进行身份验证的 Adobe Managed Services (AMS) 环境。如果您的组织使用任何其他身份标识提供程序进行 AMS 身份验证，Preflight 就无法工作。
+>仅支持使用 Adobe 的身份标识提供程序 (IMS) 对 AEM 作者进行身份验证的 Adobe Managed Services (AMS) 环境。 如果您的组织使用任何其他身份标识提供程序进行 AMS 身份验证，Preflight 就无法工作。
 
 要在 AMS 环境的 AEM Sites 页面编辑器中使用 Preflight，请按以下步骤在 Web 浏览器中创建一个小书签：
 
