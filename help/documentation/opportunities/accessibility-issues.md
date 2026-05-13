@@ -2,13 +2,15 @@
 title: 无障碍问题机会文档
 description: 了解无障碍问题机会，以及如何使用它来提高您网站的安全性。
 badgeEngagement: label="参与度" type="Caution" url="../../opportunity-types/engagement.md" tooltip="参与度"
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: ht
-source-wordcount: '278'
+TQID: https://experienceleague.adobe.com/I6kuOBsBfWCWGCnVUKGnY5lvyoeXNy3Wgw7DajZEce4
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 278
 ht-degree: 100%
 
 ---
-
 
 # 无障碍问题机会
 

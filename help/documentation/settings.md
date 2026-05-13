@@ -1,13 +1,15 @@
 ---
 title: Sites Optimizer 设置
 description: 了解如何配置 Sites Optimizer 设置，并与其他工具集成。
-source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
-workflow-type: ht
-source-wordcount: '749'
+TQID: https://experienceleague.adobe.com/eznjSHZgAmCh-ek-XE-lLtuoGJxC0yY4UVrmPjc0KYo
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+workflow-type: tm+mt
+source-wordcount: 749
 ht-degree: 100%
 
 ---
-
 
 # Sites Optimizer 设置
 
@@ -25,7 +27,7 @@ AEM Sites Optimizer 中的 Google Search Console 设置连接器可以分析关�
 
 ## 连接到 AEM Sites
 
-以下指南介绍了如何将您现有的 Edge Delivery Services (EDS) 网站连接到 AEM Sites Optimizer。在开始之前，请确保您的 EDS 网站已设置并运行正常。此连接专门用于 AEM Sites Optimizer 访问您的内容。
+以下指南介绍了如何将您现有的 Edge Delivery Services (EDS) 网站连接到 AEM Sites Optimizer。 在开始之前，请确保您的 EDS 网站已设置并运行正常。此连接专门用于 AEM Sites Optimizer 访问您的内容。
 
 连接需要两个步骤：
 
@@ -52,7 +54,7 @@ AEM Sites Optimizer 中的 Google Search Console 设置连接器可以分析关�
 
 ![连接到 AEM Sites 对话框，显示无需为 Adobe SharePoint 域进行任何操作](./assets/settings/connect-content-and-drive.png){align="center"}
 
-如果您的内容源 URL 使用 Adobe SharePoint 域，就无需进一步操作。访问权限已配置完毕。点击&#x200B;**保存**，完成连接。
+如果您的内容源 URL 使用 Adobe SharePoint 域，就无需进一步操作。 访问权限已配置完毕。 点击&#x200B;**保存**，完成连接。
 
 #### SharePoint — 自定义域
 
@@ -84,7 +86,7 @@ AEM Sites Optimizer 中的 Google Search Console 设置连接器可以分析关�
 
 >[!NOTE]
 >
->要授予管理员同意，需要租户管理员权限。如果您没有此权限，请让您的 IT 或 Azure 管理员完成这个步骤，然后继续。
+>要授予管理员同意，需要租户管理员权限。 如果您没有此权限，请让您的 IT 或 Azure 管理员完成这个步骤，然后继续。
 
 ##### 步骤 2c：创建客户端密码
 

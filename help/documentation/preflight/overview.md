@@ -1,25 +1,27 @@
 ---
 title: AEM Sites Optimizer Preflight
 description: 了解 Preflight 及其在发布之前评估的机会类型。
-source-git-commit: 626de60c72579fd6ed96f259fbf524ed0a7103ba
-workflow-type: ht
-source-wordcount: '307'
+TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 307
 ht-degree: 100%
 
 ---
-
 
 # AEM Sites Optimizer Preflight
 
 ![预检机会](./assets/overview/hero.png){align="center"}
 
-AEM Sites Optimizer 中的 Preflight 可分析内容和结构，标记出问题，提供可操作的建议，帮助您在页面正式发布之前验证和优化页面。它经过专门设计，面向希望能确保页面高质量、高性能、发布准备就绪、同时减少返工的作者、营销人员和开发人员。
+AEM Sites Optimizer 中的 Preflight 可分析内容和结构，标记出问题，提供可操作的建议，帮助您在页面正式发布之前验证和优化页面。 它经过专门设计，面向希望能确保页面高质量、高性能、发布准备就绪、同时减少返工的作者、营销人员和开发人员。
 
-Preflight 的核心是机会，它会在页面发布之前评估几个关键方面，通过一组这样的审核识别机会。这些审核能够发现潜在问题，提供明确、可操作的建议，以提高整体质量和性能。
+Preflight 的核心是机会，它会在页面发布之前评估几个关键方面，通过一组这样的审核识别机会。 这些审核能够发现潜在问题，提供明确、可操作的建议，以提高整体质量和性能。
 
 ## 开始使用 Preflight
 
-开始使用 Preflight 非常简单。只需设置 Preflight，在您的创作环境中打开它，然后在您的页面上运行审核，Preflight 会自动完成其余工作。
+开始使用 Preflight 非常简单。 只需设置 Preflight，在您的创作环境中打开它，然后在您的页面上运行审核，Preflight 会自动完成其余工作。
 
 1. [设置 Preflight](./setup.md)——了解如何为您的 AEM 实例设置 Preflight
 1. [访问 Preflight](./access-preflight.md)——了解 Preflight 在创作环境中显示在哪里

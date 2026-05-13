@@ -2,13 +2,15 @@
 title: 结构化数据缺失或无效文档
 description: 了解结构化数据缺失或无效机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '371'
+TQID: https://experienceleague.adobe.com/RFJPZlnB2QLXjO7aKfIBFrT1CrtdBD0vAe2MUMjRspU
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 371
 ht-degree: 100%
 
 ---
-
 
 # 结构化数据缺失或无效机会
 

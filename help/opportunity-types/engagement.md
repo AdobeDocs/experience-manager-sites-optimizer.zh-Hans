@@ -1,13 +1,15 @@
 ---
 title: 使用 Sites Optimizer 优化参与度
 description: 了解如何使用 Sites Optimizer 提高参与度。
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
-workflow-type: ht
-source-wordcount: '286'
+TQID: https://experienceleague.adobe.com/pMjcvadt20vx4MlC7JdlYz-GCaJgKmaNIYF2WxBUuB0
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 286
 ht-degree: 100%
 
 ---
-
 
 # 参与度机会
 
