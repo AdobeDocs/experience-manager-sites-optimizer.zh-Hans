@@ -18,7 +18,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483263/?captions=chi_hans&learn=on&enablevpops)
 
 中断的反向链接机会可识别出指向网站上不存在 (404) 页面的外部链接。 这些链接会导致损失引荐流量，降低 SEO 价值，因为搜索引擎依靠反向链接来评估相关性和权威性。 当 URL 改变、内容被移除或页面不再可用却没有进行正确的重定向时，就会出现这些问题。 AEM Sites Optimizer 可识别所有中断的反向链接，提供特定的 AI 建议，启用一键式部署修复它们，所有这些功能都能在一个集中视图中完成。
 
