@@ -2,12 +2,11 @@
 title: 预检设置
 description: 了解如何为 AEM Sites Optimizer 设置预检扩展。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 587
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,8 +31,8 @@ AEM Sites Optimizer Preflight 机会识别功能需要设置 Preflight 扩展。
 
 1. 打开 **Extension Manager**：
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. 找到&#x200B;**AEM Sites Optimizer Preflight**&#x200B;扩展。
-1. 组织的系统管理员需要启用此扩展。
+1. 找到 **AEM Sites Optimizer Preflight** 扩展。
+1. 该组织的系统管理员需要启用此扩展。
 1. 扩展启用后，在 **通用编辑器** 中打开某个页面，例如：
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. **Preflight 扩展**&#x200B;会显示在&#x200B;**侧边栏**&#x200B;中。
