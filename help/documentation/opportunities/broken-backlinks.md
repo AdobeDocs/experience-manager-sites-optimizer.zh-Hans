@@ -3,12 +3,10 @@ title: 中断的反向链接机会文档
 description: 了解中断的反向链接机会，以及如何使用它来提高流量获取。
 badgeTrafficAcquisition: label="流量获取" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="流量获取"
 TQID: https://experienceleague.adobe.com/HTgcPKBO-r-NRgdUdqS6ZOklYRaLM8pQbr3KbaYD4nQ
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: 655
 ht-degree: 100%
 
@@ -18,7 +16,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483263/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
 
 中断的反向链接机会可识别出指向网站上不存在 (404) 页面的外部链接。 这些链接会导致损失引荐流量，降低 SEO 价值，因为搜索引擎依靠反向链接来评估相关性和权威性。 当 URL 改变、内容被移除或页面不再可用却没有进行正确的重定向时，就会出现这些问题。 AEM Sites Optimizer 可识别所有中断的反向链接，提供特定的 AI 建议，启用一键式部署修复它们，所有这些功能都能在一个集中视图中完成。
 

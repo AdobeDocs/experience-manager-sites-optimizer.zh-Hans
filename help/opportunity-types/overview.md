@@ -2,16 +2,11 @@
 title: Sites Optimizer 机会类型
 description: 了解 Sites Optimizer 中的关键机会类型，以及它们如何帮助您提高网站的性能。
 TQID: https://experienceleague.adobe.com/mtma4uEArQQJu4C3kpdWZy0GR9ySS1TIgx0L9GUrlY4
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 348
+workflow-type: tm+mt
+source-wordcount: 334
 ht-degree: 100%
 
 ---
@@ -205,7 +200,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight">预检</a>
+                        <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" title="预检">预检</a>
                     </p>
                     <p class="is-size-6">了解预检分析以及如何在 Sites Optimizer 中设置预检机会。</p>
                 </div>

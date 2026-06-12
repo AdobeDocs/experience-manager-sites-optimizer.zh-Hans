@@ -2,14 +2,11 @@
 title: AEM Sites Optimizer Preflight
 description: 了解 Preflight 及其在发布之前评估的机会类型。
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 307
+workflow-type: tm+mt
+source-wordcount: 297
 ht-degree: 100%
 
 ---
@@ -57,7 +54,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" title="Preflight 无障碍性机会">预检辅助功能机会</a>
+                        <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" title="预检辅助功能机会">预检辅助功能机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 无障碍性机会。</p>
                 </div>
@@ -80,7 +77,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/h1-count.md" target="_blank" rel="referrer" title="Preflight H1 计数机会">预检 H1 计数机会</a>
+                        <a href="./opportunities/h1-count.md" target="_blank" rel="referrer" title="预检 H1 计数机会">预检 H1 计数机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 无障碍性机会。</p>
                 </div>
@@ -103,7 +100,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/links.md" target="_blank" rel="referrer" title="Preflight 链接机会">预检链接机会</a>
+                        <a href="./opportunities/links.md" target="_blank" rel="referrer" title="预检链接机会">预检链接机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 链接机会。</p>
                 </div>
@@ -126,7 +123,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/meta-data.md" target="_blank" rel="referrer" title="Preflight 元数据机会">预检元数据机会</a>
+                        <a href="./opportunities/meta-data.md" target="_blank" rel="referrer" title="预检元数据机会">预检元数据机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 元数据机会。</p>
                 </div>
@@ -149,7 +146,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="Preflight 可读性机会">预检可读性机会</a>
+                        <a href="./opportunities/readability.md" target="_blank" rel="referrer" title="预检可读性机会">预检可读性机会</a>
                     </p>
                     <p class="is-size-6">了解 Sites Optimizer 中的 Preflight 可读性机会。</p>
                 </div>

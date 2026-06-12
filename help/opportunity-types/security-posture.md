@@ -2,14 +2,11 @@
 title: 使用 Sites Optimizer 优化安全态势
 description: 了解如何使用 Sites Optimizer 提高您网站的安全性。
 TQID: https://experienceleague.adobe.com/f-WI-WIM2a7-NRuyfLU4Gut5tUqwJS08Ipvqe2Y9F7w
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 220
+workflow-type: tm+mt
+source-wordcount: 212
 ht-degree: 100%
 
 ---
@@ -79,7 +76,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="跨网站脚本">跨站点脚本</a>
+                        <a href="../documentation/opportunities/cross-site-scripting.md" target="_blank" rel="referrer" title="跨站点脚本">跨站点脚本</a>
                     </p>
                     <p class="is-size-6">了解跨网站脚本机会，并识别和修复网站安全漏洞。</p>
                 </div>
