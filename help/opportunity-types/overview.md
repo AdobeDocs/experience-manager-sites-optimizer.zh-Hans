@@ -10,8 +10,8 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 348
+workflow-type: tm+mt
+source-wordcount: 334
 ht-degree: 100%
 
 ---
@@ -205,7 +205,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight">预检</a>
+                        <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" title="预检">预检</a>
                     </p>
                     <p class="is-size-6">了解预检分析以及如何在 Sites Optimizer 中设置预检机会。</p>
                 </div>

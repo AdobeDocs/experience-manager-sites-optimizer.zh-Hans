@@ -7,8 +7,8 @@ product_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 130
+workflow-type: tm+mt
+source-wordcount: 128
 ht-degree: 100%
 
 ---

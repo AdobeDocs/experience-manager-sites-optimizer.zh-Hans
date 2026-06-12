@@ -2,8 +2,8 @@
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
 source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: ht
-source-wordcount: '541'
+workflow-type: tm+mt
+source-wordcount: '535'
 ht-degree: 100%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 100%
 
 # Sites Optimizer 试用版
 
-开始使用面向现有 AEM Sites 客户（Edge Delivery Services、Cloud Services 和 Managed Services）的 Sites Optimizer 试用版。您的域数据已预先加入，因此您可以立即开始优化。以下视频将指导您完成试用版体验，为您介绍如何开始使用。
+开始使用面向现有 AEM Sites 客户（Edge Delivery Services、Cloud Services 和 Managed Services）的 Sites Optimizer 试用版。 您的域数据已预先加入，因此您可以立即开始优化。 以下视频将指导您完成试用版体验，为您介绍如何开始使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 1. 使用您的 AEM Sites IMS 组织 ID 登录 [www.sitesoptimizer.live](http://www.sitesoptimizer.live/)。
 2. 查看关键量度，如页面浏览量、加载时间和参与度，以及按影响确定优先级的最佳优化机会。
 3. 探索三种可用的机会类型：[中断的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 和[缺少替换文本](./opportunities/missing-alt-text.md)。
-4. 对于每个机会，最多审阅三个发现的问题。使用 AI 生成的建议，在准备就绪后将优化直接部署到您的 AEM 环境中。
+4. 对于每个机会，最多审阅三个发现的问题。 使用 AI 生成的建议，在准备就绪后将优化直接部署到您的 AEM 环境中。
 5. 随时升级到完整许可证，以解锁更多机会。
 
 ## 试用版中有哪些功能
@@ -38,7 +38,7 @@ ht-degree: 100%
 * 每个问题提供完整工作流：自动识别、自动建议、自动优化。
    * **自动识别**——使用多个数据源检测您网站上的问题。
    * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
-   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
+   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。 更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
 
 ## 常见问题解答
 
@@ -66,11 +66,11 @@ ht-degree: 100%
 +++
 +++有有效期限吗？
 
-不会。 试用版不基于时间。它的使用限制是所提供的机会类型和问题的数量。
+不会。 试用版不基于时间。 它的使用限制是所提供的机会类型和问题的数量。
 +++
 +++解决所有问题后会怎么样？
 
-Sites Optimizer 会持续识别那些影响您网站性能的问题。免费试用版每月只是添加问题。升级可获得持续审核和优化的功能。
+Sites Optimizer 会持续识别那些影响您网站性能的问题。 免费试用版每月只是添加问题。 升级可获得持续审核和优化的功能。
 
 +++
 +++如何能获得更多机会？
@@ -155,7 +155,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="中断的反向链接">中断的反向链接</a>
                     </p>
-                    <p class="is-size-6">了解损坏反向链接机会，以及如何使用它来提高流量获取。</p>
+                    <p class="is-size-6">了解中断的反向链接机会，以及如何使用它来提高流量获取。</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span>
