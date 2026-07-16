@@ -2,7 +2,8 @@
 title: 预检设置
 description: 了解如何为AEM Sites Optimizer设置Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
 workflow-type: tm+mt
 source-wordcount: 577
