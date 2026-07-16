@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 96%
 
 ---
 
@@ -53,11 +53,17 @@ ht-degree: 100%
       + [访问 Preflight](/help/documentation/preflight/access-preflight.md)
       + [审核](/help/documentation/preflight/audits.md)
       + [审核结果](/help/documentation/preflight/audit-results.md)
-      + 机会{#preflight-opportunities}
+      + 审核类别{#preflight-opportunities}
          + [辅助功能](/help/documentation/preflight/opportunities/accessibility.md)
-         + [H1 计数](/help/documentation/preflight/opportunities/h1-count.md)
-         + [链接](/help/documentation/preflight/opportunities/links.md)
-         + [元数据](/help/documentation/preflight/opportunities/meta-data.md)
-         + [可读性](/help/documentation/preflight/opportunities/readability.md)
+         + SEO{#preflight-seo}
+            + [概述](/help/documentation/preflight/opportunities/seo.md)
+            + [元标记](/help/documentation/preflight/opportunities/seo/metatags.md)
+            + [标题](/help/documentation/preflight/opportunities/seo/headings.md)
+            + [H1 计数](/help/documentation/preflight/opportunities/seo/h1-count.md)
+            + [链接](/help/documentation/preflight/opportunities/seo/links.md)
+            + [可读性](/help/documentation/preflight/opportunities/seo/readability.md)
+            + [规范](/help/documentation/preflight/opportunities/seo/canonical.md)
+            + [正文大小](/help/documentation/preflight/opportunities/seo/body-size.md)
+            + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
    + [设置](/help/documentation/settings.md)
    + [发行说明](/help/documentation/release-notes.md)
