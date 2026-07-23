@@ -6,7 +6,7 @@ product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
+source-git-commit: 89291cb72c3cb56fcf43564cb04461750d748219
 workflow-type: tm+mt
 source-wordcount: 749
 ht-degree: 100%
@@ -148,7 +148,7 @@ POST https://graph.microsoft.com/v1.0/sites/{siteId}/permissions
 
 1. 在 Google Drive 中，右键单击支持您的 EDS 网站的文件夹，然后选择&#x200B;**共享**。
 2. 在&#x200B;**添加人员和组**&#x200B;字段中，输入&#x200B;**连接到 AEM Sites** 对话框中显示的服务帐户电子邮件：
-   `experience-success-studio@helix-225321.iam.gserviceaccount.com`
+   `aem-sites-optimizer@adbe-gcp0843.iam.gserviceaccount.com`
 3. 将权限级别设置为&#x200B;**编辑者**。
 4. 取消勾选&#x200B;**通知人员**，然后点击&#x200B;**共享**。
 
