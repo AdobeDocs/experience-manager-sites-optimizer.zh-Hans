@@ -1,19 +1,23 @@
 ---
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
-source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
+source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '558'
+ht-degree: 92%
 
 ---
 
 
 # Sites Optimizer 试用版
 
-开始使用面向现有 AEM Sites 客户（Edge Delivery Services、Cloud Services 和 Managed Services）的 Sites Optimizer 试用版。 您的域数据已预先加入，因此您可以立即开始优化。 以下视频将指导您完成试用版体验，为您介绍如何开始使用。
+使用针对现有&#x200B;**Sites Optimizer客户（Edge Delivery Services、Cloud Services和Managed Services）的此试用版开始使用AEM Sites**。 您的域数据已预先加入，因此您可以立即开始优化。 以下视频将指导您完成试用版体验，为您介绍如何开始使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
+>[!NOTE]
+>
+>AEM Sites Optimizer试用版当前不支持headless网站。 要使用试用版，请载入使用AEM Sites前端投放的网站。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -36,9 +40,9 @@ ht-degree: 100%
 * 三种机会类型：[中断的反向链接](./opportunities/broken-backlinks.md)、[Core Web Vitals](./opportunities/core-web-vitals.md) 和 [缺少替换文本](./opportunities/missing-alt-text.md)。
 * 每个月每个机会最多三个问题。
 * 每个问题提供完整工作流：自动识别、自动建议、自动优化。
-   * **自动识别**——使用多个数据源检测您网站上的问题。
-   * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
-   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。 更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
+  * **自动识别**——使用多个数据源检测您网站上的问题。
+  * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
+  * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。 更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
 
 ## 常见问题解答
 
