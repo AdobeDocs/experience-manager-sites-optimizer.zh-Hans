@@ -1,10 +1,10 @@
 ---
 title: 在 Preflight 中运行审核
 description: 了解如何在您的页面上启动 Preflight 审核。
-source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 21%
+source-wordcount: '366'
+ht-degree: 17%
 
 ---
 
@@ -23,6 +23,12 @@ Preflight 会审核您的页面，在发布之前识别出增强内容的机会�
 
 要了解预览结果并识别优化机会，请参阅[Preflight中的审核结果](./audit-results.md)。
 
+## 使用集成的预检按钮
+
+如果您的创作环境运行[AEM 2026.7.0 （发行版27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器工具栏中内置了Preflight。 选择&#x200B;**印前检查**&#x200B;图标（播放按钮）以打开当前页面的面板，然后选择&#x200B;**分析页面**&#x200B;以运行审核。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
+
 ## 继续上一个会话
 
 Preflight会记住您最近运行的情况，因此，如果您离开并返回，则无需重新运行审核。
@@ -32,5 +38,5 @@ Preflight会记住您最近运行的情况，因此，如果您离开并返回�
 
 印前检查会单独跟踪每个页面的最新运行，因此&#x200B;**继续上一个会话**&#x200B;始终为您所在的页面重新加载上次运行。
 
-审核完成并显示结果后，从&#x200B;**更多操作** (**...**)中选择&#x200B;**重新分析** 工具栏中的菜单放弃结果，然后重新运行每次审核。 查看Preflight[&#128279;](./audit-results.md#toolbar)中的审核结果。
+审核完成并显示结果后，从&#x200B;**更多操作** (**...**)中选择&#x200B;**重新分析** 工具栏中的菜单放弃结果，然后重新运行每次审核。 查看Preflight](./audit-results.md#toolbar)中的[审核结果。
 

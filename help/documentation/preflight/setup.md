@@ -2,12 +2,11 @@
 title: 预检设置
 description: 了解如何为AEM Sites Optimizer设置Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 577
-ht-degree: 72%
+source-wordcount: 785
+ht-degree: 52%
 
 ---
 
@@ -120,7 +119,23 @@ ht-degree: 72%
 
 >[!TAB AEM Sites 页面编辑器]
 
-要在 AEM Sites 页面编辑器中使用预检功能，您可以在 Web 浏览器中创建一个书签小程序。 执行以下步骤：
+如果您的创作环境运行[AEM 2026.7.0 （版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器中会内置Preflight，无需使用小书签。 执行以下步骤：
+
+1. 在 **AEM Sites 页面编辑器**&#x200B;中打开您想审核的页面。
+1. 在编辑器工具栏中，选择&#x200B;**预检**&#x200B;图标（下面高亮显示的播放按钮）以打开当前页面的“预检”面板。
+
+   ![AEM Sites页面编辑器工具栏中的“印前检查”图标](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>在工具栏中看不到&#x200B;**预检**&#x200B;图标？ 检查以下各项：
+>
+>* **支持的版本** — “集成”按钮需要AEM 2026.7.0 （版本27083）或更高版本。 在早期版本中，请使用下面的小书签方法。
+>* **转出** — 正在分阶段为组织启用集成按钮，因此可能尚未到达您的组织，即使在受支持的版本上也是如此。 在此之前，请使用下面的小书签方法，或联系Adobe或您的管理员。
+>* **页面访问** — 只有当您具有页面的编辑访问权限时，才会显示按钮。
+>* **用户访问权限** — 确认已为您的用户分配&#x200B;**AEM Sites Optimizer — 自动建议用户**&#x200B;或&#x200B;**AEM Sites Optimizer — 自动优化用户**&#x200B;配置文件。 请参阅[启用用户访问权限](#enable-user-access)。
+
+要在AEM Sites早期版本的AEM页面编辑器中使用Preflight，您可以在Web浏览器中创建小书签。 执行以下步骤：
 
 1. 在 Web 浏览器中显示您的&#x200B;**书签栏**：
 
