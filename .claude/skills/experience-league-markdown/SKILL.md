@@ -37,7 +37,7 @@ Source真相： https://experienceleague.adobe.com/en/docs/authoring-guide/using
 | 项目符号列表 | `* item` （从`*`/`-`/`+`中选择一个，保持一致性） | 列表前/后空白行；混合标记=验证错误 |
 | 编号列表 | `1. item` （每行重复`1.`） | GitHub渲染实数 |
 | 代码（内联） | `` `code` `` | 对于文件名、命令、值、未验证的示例URL |
-| 代码（受防护） | ` ```language ` ... ` ``` ` | 始终指定语言；前/后空行；`{line-numbers="true" start-line="n" highlight="n-m"}`可选 |
+| 代码（受防护） | ` `&#x200B;``language ` ... ` ``&#x200B;` ` | 始终指定语言；前/后空行；`{line-numbers="true" start-line="n" highlight="n-m"}`可选 |
 | 徽章（内联） | `[!BADGE Beta]{type=Informative url="..." tooltip="..."}` | `type`：信息/正面/负面/中性/警告 |
 | 可折叠 | `+++Summary` ... `+++` | 无嵌套的可折叠项；内部列表/代码周围有空白行 |
 | 空白行攻击 | `<br>&nbsp;`在其自己的行中 | 呈现器折叠/忽略纯额外空白行 |

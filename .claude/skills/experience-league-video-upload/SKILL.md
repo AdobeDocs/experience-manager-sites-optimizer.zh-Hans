@@ -41,6 +41,7 @@ ht-degree: 1%
      }
    }
    ```
+
 2. 将`.mcp.json`添加到`.gitignore`（个人工具，未共享）。
 3. 在`.claude/settings.local.json`中，添加`"enableAllProjectMcpServers": true`和`"enabledMcpjsonServers": ["chrome-devtools"]`。
 4. 告诉用户重新启动Claude代码（或运行`/mcp`） — MCP服务器仅在启动时加载，无法在会话期间执行此操作。

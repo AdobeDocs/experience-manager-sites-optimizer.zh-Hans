@@ -2,8 +2,11 @@
 title: AEM Sites Optimizer Preflight
 description: 了解Preflight及其运行的审核，以便在发布之前评估您的页面。
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
 source-wordcount: 300

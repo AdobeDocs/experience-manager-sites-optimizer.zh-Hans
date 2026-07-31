@@ -156,17 +156,19 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 
 受防护：
 
-````markdown
+&grave;&grave;&grave;&grave;markdown
+
 ```javascript
 var x = 1;
 ```
-````
+
+&grave;&grave;&grave;&grave;
 
 - 始终为语法突出显示+复制按钮指定语言。
 - 隔离块的上方和下方需要空白行。
-- 行号： `` ```html {line-numbers="true"} ``
-- 开始在其他位置编号： `` ```html {line-numbers="true" start-line="7"} ``
-- 突出显示行： `` ```html {line-numbers="true" start-line="7" highlight="11-13, 16"} ``
+- 行号： `` ``&#x200B;`html {line-numbers="true"} `&#x200B;&grave;
+- 开始在其他位置编号： `` ``&#x200B;`html {line-numbers="true" start-line="7"} `&#x200B;&grave;
+- 突出显示行： `` ``&#x200B;`html {line-numbers="true" start-line="7" highlight="11-13, 16"} `&#x200B;&grave;
 - 代码块内容从未本地化（除`!UICONTROL`/`!DNL`标记外，这些标记在发布时会被去除）。
 - 在代码块中不能使用Markdown/HTML格式（如`<i>`） — 请使用尖括号或纯文本作为占位符。
 
