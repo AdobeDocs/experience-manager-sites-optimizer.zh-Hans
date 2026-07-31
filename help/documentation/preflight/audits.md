@@ -25,7 +25,7 @@ Preflight 会审核您的页面，在发布之前识别出增强内容的机会�
 
 ## 使用集成的预检按钮
 
-如果您的创作环境运行[AEM 2026.7.0 （发行版27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器工具栏中内置了Preflight。 选择&#x200B;**印前检查**&#x200B;图标（播放按钮）以打开当前页面的面板，然后选择&#x200B;**分析页面**&#x200B;以运行审核。
+如果您的创作环境运行[AEM 2026.7.0 （发行版27083）](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器工具栏中内置了Preflight。 选择&#x200B;**印前检查**&#x200B;图标（播放按钮）以打开当前页面的面板，然后选择&#x200B;**分析页面**&#x200B;以运行审核。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
