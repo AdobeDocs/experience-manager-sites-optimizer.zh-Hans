@@ -7,16 +7,20 @@ product_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 351
-ht-degree: 49%
+source-wordcount: 300
+ht-degree: 28%
 
 ---
 
 # AEM Sites Optimizer Preflight
 
 ![预检就绪仪表板](./assets/overview/hero.png){align="center"}
+
+>[!NOTE]
+>
+>从[AEM 2026.7.0 （发行版27083）](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)开始，Preflight内置到AEM Sites页面编辑器工具栏中。 有关详细信息，请参阅[预检设置](./setup.md)。
 
 AEM Sites Optimizer中的Preflight可帮助您在页面上线之前验证和优化页面，方法是分析内容和结构并展示包含可操作推荐的商机。 它经过专门设计，面向希望能确保页面高质量、高性能、发布准备就绪、同时减少返工的作者、营销人员和开发人员。
 

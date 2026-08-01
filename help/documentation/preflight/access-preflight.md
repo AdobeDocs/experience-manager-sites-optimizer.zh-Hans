@@ -1,10 +1,10 @@
 ---
 title: 访问 Preflight
 description: 了解 Preflight 在创作环境中显示在哪里。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 20%
+source-wordcount: '156'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ Preflight在AEM Sites创作环境中可用，包括通用编辑器、基于文�
 
 * **通用编辑器**——Preflight 扩展显示在&#x200B;**侧边栏**&#x200B;中。 选择它以打开“印前检查”面板。
 * **基于文档的创作** — 从Sidekick中打开“预检”面板，或者打开预览页面内容上的小书签。
-* **AEM Sites页面编辑器** — 使用浏览器中的Preflight小书签打开Preflight面板。
+* **AEM Sites页面编辑器** — 在AEM 2026.7.0 （发行版27083）或更高版本上，选择编辑器工具栏中的&#x200B;**印前检查**&#x200B;图标以打开“印前检查”面板。 在早期版本中，请改用浏览器中的预检小书签。
 
 面板打开后，选择&#x200B;**分析页面**&#x200B;以开始审核当前页面。
 
