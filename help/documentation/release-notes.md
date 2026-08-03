@@ -1,14 +1,12 @@
 ---
 title: 发行说明
 description: 了解Adobe Experience Manager Sites Optimizer中的最新新增功能、改进和错误修复。
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d5cc34fd40395fc13ce3554a0b80c0216d859157
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 8e4fe6595fc7e872a00387d92892710c61e8632b
 workflow-type: tm+mt
-source-wordcount: 1471
-ht-degree: 2%
+source-wordcount: 1775
+ht-degree: 1%
 
 ---
 
@@ -16,6 +14,26 @@ ht-degree: 2%
 # 发行说明
 
 本页记录了Adobe Experience Manager Sites Optimizer中的最新更新、新增功能和改进。
+
+## 2026年7月1日–19日
+
+### 新增功能
+
+- **权限管理** — 具有“管理用户”功能的用户现在可以通过新的“权限”选项卡控制站点访问 — 按姓名或电子邮件搜索人员以及授予或撤销特定功能。 不允许用户执行的操作显示为已禁用，并带有工具提示来说明如何请求访问权限。
+- **部署状态徽章** — 标记为手动部署的修复现在在“已部署”视图中显示一个独特的“标记为已部署”徽章，以便轻松区分手动更新和自动部署。
+
+### 增强功能
+
+- **适用于GitHub的自动修复(Cloud Manager)** — 针对Core Web Vitals、安全和表单辅助功能等业务机会的代码修补自动修复现在可以在托管在GitHub上的Cloud Manager自带Git存储库中提出拉取请求，从而匹配对GitLab、Bitbucket和Azure DevOps的现有支持。 新的“设置”切换开关允许您控制网站的一次性设置确认。
+- **通过分支自动修复(Cloud Manager Standard)** — 现在，为您的网站启用Cloud Manager标准存储库后，即可使用通过分支自动修复的功能。
+- **已部署视图：执行者** — 现在，已部署视图通过新的“执行者”和“上次更新状态”列，显示将每个修复标记为已部署的人员及其上次更新状态的时间。
+- **Google Ads断开连接反馈** — 现在，在“设置”中断开Google Ads帐户将显示“正在断开连接……”状态，如果断开连接失败，则会显示一条可忽略的错误消息，以便您可以重试。
+
+### 错误修复
+
+- 当修补程序跨多个页面时，修复ARIA标签机会现在在详细信息对话框中显示正确的页面URL。
+- 现在，“跳过”对话框的信息消息已正确显示，包含正确对齐的韩文、简体中文和繁体中文文本。
+- 替换文本和无效或缺少元数据的相关页面对话框现在可以可靠地加载，并且无效或缺少元数据部署的视图和元标记修复现在可以正确使用最新的建议格式。
 
 ## 2026年5月11日至22日
 
