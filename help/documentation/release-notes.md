@@ -1,13 +1,11 @@
 ---
 title: 发行说明
 description: 了解Adobe Experience Manager Sites Optimizer中的最新新增功能、改进和错误修复。
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: c3279d62d56503108a6c28389cfbf14b95cd5a1a
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 9af59e18de7ce016778f25d4add450b50e0b1fde
 workflow-type: tm+mt
-source-wordcount: 1803
+source-wordcount: 1805
 ht-degree: 1%
 
 ---
@@ -23,7 +21,7 @@ ht-degree: 1%
 
 ### 新增功能
 
-- **权限管理** — 具有“管理用户”功能的用户现在可以通过新的“权限”选项卡控制站点访问 — 按姓名或电子邮件搜索人员以及授予或撤销特定功能。 不允许用户执行的操作显示为已禁用，并带有工具提示来说明如何请求访问权限。
+- **权限管理（提前访问）** — 具有“管理用户”功能的用户现在可以通过新的“权限”选项卡控制站点访问 — 按姓名或电子邮件搜索人员以及授予或撤消特定功能。 不允许用户执行的操作显示为已禁用，并带有工具提示来说明如何请求访问权限。
 - **部署状态徽章** — 标记为手动部署的修复现在在“已部署”视图中显示一个独特的“标记为已部署”徽章，以便轻松区分手动更新和自动部署。
 
 ### 增强功能
