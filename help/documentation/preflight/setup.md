@@ -120,7 +120,7 @@ ht-degree: 47%
 
 >[!TAB AEM Sites 页面编辑器]
 
-如果您的创作环境运行[AEM 2026.7.0 （版本27083）](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器中会内置Preflight，无需使用小书签。 执行以下步骤：
+如果您的创作环境运行[AEM 2026.7.0 （版本27083）](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083)或更高版本，则AEM Sites页面编辑器中会内置Preflight，无需使用小书签。 执行以下步骤：
 
 1. 在 **AEM Sites 页面编辑器**&#x200B;中打开您想审核的页面。
 1. 在编辑器工具栏中，选择&#x200B;**预检**&#x200B;图标（下面高亮显示的播放按钮）以打开当前页面的“预检”面板。
