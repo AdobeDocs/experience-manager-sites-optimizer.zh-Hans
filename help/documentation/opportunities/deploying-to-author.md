@@ -1,8 +1,10 @@
 ---
 title: 部署到创作文档
 description: 了解AEM Sites Optimizer如何将所选优化部署到创作环境，以及如何随后跟踪它们。
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 1d55c607aab6c820d014b9a57bfae20b8170c672
 workflow-type: tm+mt
 source-wordcount: 245
