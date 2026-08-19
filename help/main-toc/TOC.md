@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: 这是用户指南的描述，将显示在登陆页面上。
-source-git-commit: a86d83ee226055e6401b13fd421b40d449b96fa8
+source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 95%
 
 ---
@@ -53,19 +53,20 @@ ht-degree: 95%
     + [概述](/help/documentation/preflight/overview.md)
     + [设置](/help/documentation/preflight/setup.md)
     + [访问 Preflight](/help/documentation/preflight/access-preflight.md)
-    + [审核](/help/documentation/preflight/audits.md)
-    + [审核结果](/help/documentation/preflight/audit-results.md)
-    + 审核类别{#preflight-opportunities}
-      + [辅助功能](/help/documentation/preflight/opportunities/accessibility.md)
-      + SEO{#preflight-seo}
-        + [概述](/help/documentation/preflight/opportunities/seo.md)
-        + [元标记](/help/documentation/preflight/opportunities/seo/metatags.md)
-        + [标题](/help/documentation/preflight/opportunities/seo/headings.md)
-        + [H1 计数](/help/documentation/preflight/opportunities/seo/h1-count.md)
-        + [链接](/help/documentation/preflight/opportunities/seo/links.md)
-        + [可读性](/help/documentation/preflight/opportunities/seo/readability.md)
-        + [规范](/help/documentation/preflight/opportunities/seo/canonical.md)
-        + [正文大小](/help/documentation/preflight/opportunities/seo/body-size.md)
-        + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
+    + 审核{#preflight-audits}
+      + [概述](/help/documentation/preflight/audits.md)
+      + [审核结果](/help/documentation/preflight/audit-results.md)
+      + 审核类别{#preflight-opportunities}
+        + [辅助功能](/help/documentation/preflight/opportunities/accessibility.md)
+        + SEO{#preflight-seo}
+          + [概述](/help/documentation/preflight/opportunities/seo.md)
+          + [元标记](/help/documentation/preflight/opportunities/seo/metatags.md)
+          + [标题](/help/documentation/preflight/opportunities/seo/headings.md)
+          + [H1 计数](/help/documentation/preflight/opportunities/seo/h1-count.md)
+          + [链接](/help/documentation/preflight/opportunities/seo/links.md)
+          + [可读性](/help/documentation/preflight/opportunities/seo/readability.md)
+          + [规范](/help/documentation/preflight/opportunities/seo/canonical.md)
+          + [正文大小](/help/documentation/preflight/opportunities/seo/body-size.md)
+          + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
   + [设置](/help/documentation/settings.md)
   + [发行说明](/help/documentation/release-notes.md)
