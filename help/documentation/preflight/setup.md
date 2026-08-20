@@ -4,10 +4,10 @@ description: 了解如何为AEM Sites Optimizer设置Preflight。
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
 workflow-type: tm+mt
-source-wordcount: 785
-ht-degree: 52%
+source-wordcount: 896
+ht-degree: 47%
 
 ---
 
@@ -138,7 +138,7 @@ ht-degree: 52%
 
 要在AEM Sites早期版本的AEM页面编辑器中使用Preflight，您可以在Web浏览器中创建小书签。 执行以下步骤：
 
-1. 在 Web 浏览器中显示您的&#x200B;**书签栏**：
+1. 在 Web 浏览器中显示&#x200B;**书签栏**：
 
    * 在 Windows 上按 **Ctrl+Shift+B**，或在 Mac 上按 **Cmd+Shift+B**。
 
@@ -161,7 +161,18 @@ ht-degree: 52%
 >
 >仅支持使用 Adobe 的身份标识提供程序 (IMS) 对 AEM 作者进行身份验证的 Adobe Managed Services (AMS) 环境。 如果您的组织使用任何其他身份标识提供程序进行 AMS 身份验证，Preflight 就无法工作。
 
-要在AMS环境的AEM Sites页面编辑器中使用Preflight，请在Web浏览器中创建小书签，请执行以下步骤：
+将Preflight内置到AEM Sites页面编辑器工具栏中时，不需要使用小书签。 联系Adobe为您的组织安装该软件。 安装后，请按照以下步骤操作：
+
+1. 在 **AEM Sites 页面编辑器**&#x200B;中打开您想审核的页面。
+1. 在编辑器工具栏中，选择&#x200B;**预检**&#x200B;图标（下面高亮显示的播放按钮）以打开当前页面的“预检”面板。
+
+   ![AEM Sites页面编辑器工具栏中的“印前检查”图标](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>在工具栏中看不到&#x200B;**预检**&#x200B;图标？ 您的组织可能尚未安装集成按钮。 请联系Adobe以安装它，或者使用下面的小书签方法。
+
+要在AMS环境的AEM Sites页面编辑器中不使用工具栏图标使用Preflight，请在Web浏览器中创建小书签，请执行以下步骤：
 
 1. 在 Web 浏览器中显示&#x200B;**书签栏**：
 
