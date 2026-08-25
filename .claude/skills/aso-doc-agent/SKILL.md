@@ -64,7 +64,7 @@ ht-degree: 0%
 ## 单功能范围（必需）
 
 该史诗的39个子故事已限定为每个功能（例如“[ASO文档”）]
-Canonical opportunity how-to”、“[ASO文档] Slack通知”)。 **从不**扩展范围
+Canonical opportunity how-to”、“[ASO文档] Slack通知”)。 **从不**&#x200B;扩展范围
 整个页面、整个机会类型的类别或一次运行中的多个票证 — 选择
 一个票证，仅触碰该票证所描述的部分，停止。
 
