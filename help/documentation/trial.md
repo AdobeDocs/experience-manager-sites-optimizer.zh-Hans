@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
-source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 92%
+source-wordcount: '728'
+ht-degree: 89%
 
 ---
 
@@ -13,11 +13,16 @@ ht-degree: 92%
 
 使用针对现有&#x200B;**Sites Optimizer客户（Edge Delivery Services、Cloud Services和Managed Services）的此试用版开始使用AEM Sites**。 您的域数据已预先加入，因此您可以立即开始优化。 以下视频将指导您完成试用版体验，为您介绍如何开始使用。
 
->[!NOTE]
+>[!IMPORTANT]
 >
->AEM Sites Optimizer试用版当前不支持headless网站。 要使用试用版，请载入使用AEM Sites前端投放的网站。
+>在开始之前，请确保您的站点符合以下要求：
+>
+>* 它基于AEM Sites（Edge Delivery Services、Cloud Service或Managed Services）构建。
+>* 它是一个生产站点，而不是开发、QA、暂存、创作或预览环境。
+>* 它可公开访问，且不在登录之后。
+>* 它使用AEM Sites前端投放。 当前不支持Headless交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
