@@ -1,10 +1,10 @@
 ---
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
-source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
+source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 89%
+source-wordcount: '1102'
+ht-degree: 59%
 
 ---
 
@@ -49,6 +49,40 @@ ht-degree: 89%
   * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。 更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
 
+## 为Edge Delivery试用站点启用自动修复
+
+了解试用客户如何在Google Drive或SharePoint中创作的Edge Delivery Services (EDS)网站上，为自动修复建议启用&#x200B;**部署到作者**&#x200B;操作。
+
+>[!NOTE]
+>
+>此要求仅适用于其网站是在Google Drive或SharePoint中创作的试用组织。 付费客户以及在“人行横道”或“暗巷”中创作的网站不受影响。
+
+试用客户必须属于&#x200B;**ASO-EDS-Autofix-Users** IMS组。 如果该组不存在，则贵组织的管理员可以创建该组并添加您。
+
+1. 登录到[Adobe Admin Console](https://adminconsole.adobe.com/)。
+1. 选择&#x200B;**用户** > **用户组**。
+1. 选择&#x200B;**添加用户组**。
+1. 对于&#x200B;**用户组名称**，请完全输入：
+
+   ```
+   ASO-EDS-Autofix-Users
+   ```
+
+   >[!IMPORTANT]
+   >
+   > 组名称必须完全匹配，包括大小写。 它区分大小写匹配，因此不同的拼写或大小写（例如，`ASO-EDS-Autofix-users`）无效。 创建组后，请勿重命名该组。
+
+1. 选择&#x200B;**保存**。
+
+   ![在Adobe Admin Console中新建用户组对话框，用户组名称字段设置为ASO-EDS-Autofix-Users](./assets/trial/create-user-group.png){align="center"}
+
+1. 打开新组并选择&#x200B;**添加用户**。
+1. 输入每个应该能够部署自动修复的人员的电子邮件地址或用户名，然后选择&#x200B;**保存**。
+
+   ![在Adobe Admin Console中将用户添加到此用户组对话框](./assets/trial/add-users-to-group.png){align="center"}
+
+如果您是组的成员，则会启用&#x200B;**部署到作者**&#x200B;按钮。 如果您还不是成员，则会禁用&#x200B;**部署到作者**，并会显示工具提示，要求您联系管理员以将您添加到该组。 管理员将您添加到组后，请先注销，然后再登录到Sites Optimizer，这样您的会话就会选取新的组成员资格。
+
 ## 常见问题解答
 
 阅读以下关于 AEM Sites Optimizer 试用版的常见问题解答。
@@ -85,6 +119,16 @@ Sites Optimizer 会持续识别那些影响您网站性能的问题。 免费试
 +++如何能获得更多机会？
 
 使用升级，或联系通过产品体验提供的销售 CTA，或者发送电子邮件至 [siteoptimizer-now@adobe.com](mailto:siteoptimizer-now@adobe.com)。
+
++++
++++我在ASO-EDS-Autofix-Users组中，但仍禁用部署到作者。 我该检查什么？
+
+注销并重新登录 — 登录时会读取组成员资格。 此外，请确认组名称的拼写和大小写恰好为`ASO-EDS-Autofix-Users`，并且是在网站所属的同一组织中创建的。
+
++++
++++ASO-EDS-Autofix-Users组要求是否适用于所有Edge Delivery Services站点？
+
+不会。 它仅适用于在&#x200B;**Google Drive**&#x200B;或&#x200B;**SharePoint**&#x200B;中创作的试用站点。 在&#x200B;**Crossswalk**&#x200B;或&#x200B;**暗巷**&#x200B;中创建的站点以及所有&#x200B;**付费**&#x200B;站点不受影响。
 
 +++
 
