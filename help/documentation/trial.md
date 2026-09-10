@@ -22,7 +22,7 @@ ht-degree: 59%
 >* 它可公开访问，且不在登录之后。
 >* 它使用AEM Sites前端投放。 当前不支持Headless交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
 
 >[!TIP]
 >
