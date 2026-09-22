@@ -1,13 +1,11 @@
 ---
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
-source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
+source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 59%
-
+source-wordcount: '1481'
+ht-degree: 45%
 ---
-
 
 # Sites Optimizer 试用版
 
@@ -22,7 +20,7 @@ ht-degree: 59%
 >* 它可公开访问，且不在登录之后。
 >* 它使用AEM Sites前端投放。 当前不支持Headless交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +46,25 @@ ht-degree: 59%
   * **自动识别**——使用多个数据源检测您网站上的问题。
   * **自动建议**——为每个问题提供规范性的 AI 生成的建议。
   * **自动优化**——获得批准后，将修复直接部署到您的创作环境中。 更新会遵循您现有的工作流，允许您的团队通过 AEM 审阅和发布。
+
+## 允许Sites Optimizer访问您的网站
+
+Sites Optimizer会扫描您的网站以确定优化机会。 如果您的站点位于防火墙、内容分发网络(CDN)或其他阻止无法识别的客户端的安全配置后面，则扫描仪无法访问您的页面。 发生这种情况时，载入会显示Sites Optimizer无法访问您的网站的&#x200B;**所需操作**&#x200B;消息，并且扫描将暂停直到您允许访问。
+
+![载入对话框，说明Sites Optimizer无法访问网站，列出要允许列表的User-Agent和扫描程序IP地址，每个地址都带有“复制”按钮，并带有“刷新”按钮以重新检查访问权限](./assets/trial/ip-allowlist-action-required.png){align="center"}
+
+要使扫描仪通过，请在防火墙、托管提供程序或安全配置中允许列表以下两项。 对于AEM Cloud Service站点，请将扫描仪的允许规则添加到Cloud Manager中的[CDN流量过滤器规则](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，该规则可在User-Agent和IP地址上匹配。 如果您使用[Cloud Manager IP允许列表](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制访问，请将扫描程序的IP地址也添加到所应用的允许列表。
+
+* **User-Agent** — 扫描程序使用包含令牌`Spacecat/1.0`的User-Agent标识自身。 允许列表此令牌，最好是“包含”匹配项，因此即使完整的User-Agent字符串发生更改，该令牌也能继续工作。
+* **扫描程序IP地址** —允许列表扫描程序的出站IP地址。
+
+载入屏幕显示要允许列表的精确用户代理和IP地址，每个地址都有一个&#x200B;**复制**&#x200B;按钮，因此您可以将当前值直接复制到配置中。
+
+在允许列表扫描仪后，在登录屏幕上选择&#x200B;**刷新**。 授予访问权限后，扫描会自动恢复并显示您的优化机会。
+
+>[!NOTE]
+>
+>这些IP地址仅用于分析您的站点。 列入允许列表它们不会授予任何其他访问权限。
 
 ## 为Edge Delivery试用站点启用自动修复
 
@@ -129,6 +146,11 @@ Sites Optimizer 会持续识别那些影响您网站性能的问题。 免费试
 +++ASO-EDS-Autofix-Users组要求是否适用于所有Edge Delivery Services站点？
 
 不会。 它仅适用于在&#x200B;**Google Drive**&#x200B;或&#x200B;**SharePoint**&#x200B;中创作的试用站点。 在&#x200B;**Crossswalk**&#x200B;或&#x200B;**暗巷**&#x200B;中创建的站点以及所有&#x200B;**付费**&#x200B;站点不受影响。
+
++++
++++Sites Optimizer说无法访问我的网站。 我该怎么办？
+
+您的站点可能位于阻止扫描程序的防火墙、CDN或安全配置之后。 在您的安全配置或Cloud Manager CDN允许列表中（对于AEM Cloud Service站点）允许列表扫描程序的User-Agent（`Spacecat/1.0`令牌）和IP地址。 然后选择&#x200B;**刷新**。 请参阅[允许Sites Optimizer访问您的网站](#allow-sites-optimizer-to-access-your-site)。
 
 +++
 
