@@ -1,9 +1,9 @@
 ---
 title: 印前检查SEO审核
 description: 了解Preflight在AEM Sites Optimizer中的您的页面上运行的SEO审核。
-source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
+source-git-commit: 8a465f3ef54dbd295255f326eda2e8f37a114ace
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # SEO审核
@@ -20,6 +20,7 @@ SEO类别包括以下审核：
 * [标题](./seo/headings.md) — 审阅页面的标题结构和顺序。
 * [H1计数](./seo/h1-count.md) — 审阅页面上的H1标题数。
 * [内部链接](./seo/internal-links.md) — 审阅页面上指向您自己网站的链接。
+* [外部链接](./seo/external-links.md) — 审阅页面上指向其他网站的链接。
 * [可读性](./seo/readability.md) — 审阅页面内容的阅读容易程度。
 * [Canonical](./seo/canonical.md) — 审阅页面的规范链接。
 * [正文大小](./seo/body-size.md) — 审阅页面上的正文内容量。
