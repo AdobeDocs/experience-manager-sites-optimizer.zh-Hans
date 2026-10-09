@@ -1,7 +1,10 @@
 ---
 title: 印前检查SEO审核
 description: 了解Preflight在AEM Sites Optimizer中的您的页面上运行的SEO审核。
-source-git-commit: af80dbb47a25b10cdbe55965fb7c4ce496448871
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
 title: 印前检查可读性审核
 description: 了解AEM Sites Optimizer Preflight中的可读性审核。
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 6%
-
 ---
-
 # 可读性审核
 
 **可读性**&#x200B;审核将审核页面内容的阅读难易程度。 清晰、结构良好的内容让读者保持参与，并帮助更广泛的受众了解您的信息。 审核会评估内容并提供切实可行的改进建议。

@@ -1,13 +1,14 @@
 ---
 title: 在 Preflight 中运行审核
 description: 了解如何在您的页面上启动 Preflight 审核。
-source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 14%
-
+ht-degree: 19%
 ---
-
 
 # Preflight 中的审核
 
@@ -40,5 +41,5 @@ Preflight会记住您最近运行的情况，因此，如果您离开并返回�
 
 当您重新加载以前的运行时，标题会显示该运行执行的时长，例如&#x200B;*2分钟前*&#x200B;或&#x200B;*昨天*，以便您一眼就能看出结果的当前程度。 标签会随着时间的推移而更新，并在就绪控制面板和审核详细信息页面之间移动时保持可见。
 
-审核完成并显示结果后，从&#x200B;**更多操作** (**...**)中选择&#x200B;**重新分析** 工具栏中的菜单放弃结果，然后重新运行每次审核。 查看Preflight[&#128279;](./audit-results.md#toolbar)中的审核结果。
+审核完成并显示结果后，从&#x200B;**更多操作** (**...**)中选择&#x200B;**重新分析** 工具栏中的菜单放弃结果，然后重新运行每次审核。 查看Preflight](./audit-results.md#toolbar)中的[审核结果。
 

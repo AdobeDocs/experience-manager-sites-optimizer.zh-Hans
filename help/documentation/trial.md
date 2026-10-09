@@ -1,7 +1,10 @@
 ---
 title: Sites Optimizer 试用版
 description: 开始使用面向现有 AEM Sites 客户的 AEM Sites Optimizer 试用版。
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%
@@ -20,7 +23,7 @@ ht-degree: 45%
 >* 它可公开访问，且不在登录之后。
 >* 它使用AEM Sites前端投放。 当前不支持Headless交付。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483297/?captions=chi_hans&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -53,7 +56,7 @@ Sites Optimizer会扫描您的网站以确定优化机会。 如果您的站点�
 
 ![载入对话框，说明Sites Optimizer无法访问网站，列出要允许列表的User-Agent和扫描程序IP地址，每个地址都带有“复制”按钮，并带有“刷新”按钮以重新检查访问权限](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-要使扫描仪通过，请在防火墙、托管提供程序或安全配置中允许列表以下两项。 对于AEM Cloud Service站点，请将扫描仪的允许规则添加到Cloud Manager中的[CDN流量过滤器规则](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，该规则可在User-Agent和IP地址上匹配。 如果您使用[Cloud Manager IP允许列表](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制访问，请将扫描程序的IP地址也添加到所应用的允许列表。
+要使扫描仪通过，请在防火墙、托管提供程序或安全配置中允许列表以下两项。 对于AEM Cloud Service站点，请将扫描仪的允许规则添加到Cloud Manager中的[CDN流量过滤器规则](https://experienceleague.adobe.com/zh-hans/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf)，该规则可在User-Agent和IP地址上匹配。 如果您使用[Cloud Manager IP允许列表](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction)限制访问，请将扫描程序的IP地址也添加到所应用的允许列表。
 
 * **User-Agent** — 扫描程序使用包含令牌`Spacecat/1.0`的User-Agent标识自身。 允许列表此令牌，最好是“包含”匹配项，因此即使完整的User-Agent字符串发生更改，该令牌也能继续工作。
 * **扫描程序IP地址** —允许列表扫描程序的出站IP地址。
