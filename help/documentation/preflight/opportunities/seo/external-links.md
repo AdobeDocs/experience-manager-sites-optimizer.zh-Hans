@@ -1,7 +1,10 @@
 ---
 title: 印前检查外部链接审核
 description: 了解AEM Sites Optimizer Preflight中的外部链接审核。
-source-git-commit: 8a465f3ef54dbd295255f326eda2e8f37a114ace
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 0%

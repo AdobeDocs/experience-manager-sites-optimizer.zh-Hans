@@ -1,7 +1,10 @@
 ---
 title: Preflight 中的审核结果
 description: 了解如何解释印前检查审核结果、就绪仪表和审核类别，并导航到预览中的机会。
-source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1168'
 ht-degree: 2%
