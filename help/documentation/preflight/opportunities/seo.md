@@ -4,9 +4,9 @@ description: 了解Preflight在AEM Sites Optimizer中的您的页面上运行的
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO审核
@@ -19,7 +19,7 @@ Preflight中的&#x200B;**SEO**&#x200B;类别将审核分组，以评估针对搜
 
 SEO类别包括以下审核：
 
-* [元标记](./seo/metatags.md) — 审阅页面标题和元描述标记。
+* [元标记](./seo/metatags.md) — 审阅页面标题、元描述和H1标题。
 * [标题](./seo/headings.md) — 审阅页面的标题结构和顺序。
 * [内部链接](./seo/internal-links.md) — 审阅页面上指向您自己网站的链接。
 * [外部链接](./seo/external-links.md) — 审阅页面上指向其他网站的链接。
