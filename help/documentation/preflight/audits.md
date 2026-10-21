@@ -4,10 +4,10 @@ description: 了解如何在您的页面上启动 Preflight 审核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 19%
+source-wordcount: '469'
+ht-degree: 17%
 ---
 
 # Preflight 中的审核
@@ -20,7 +20,8 @@ Preflight 会审核您的页面，在发布之前识别出增强内容的机会�
 
 1. 在您的[创作环境](./access-preflight.md)（通用编辑器、基于文档的创作或 AEM Sites 页面编辑器）中打开要审核的页面。
 1. 打开 [Preflight 面板](./access-preflight.md)。 预检打开到&#x200B;**运行性能准备审核**&#x200B;登陆屏幕。
-1. 选择&#x200B;**分析页面**。 Preflight在当前页面上运行其所有审核并打开就绪仪表板，其中显示就绪分数和找到的机会（按类别分组）。
+1. 如果需要，请打开&#x200B;**设置**（齿轮图标）以在内部链接审核中包含网站导航链接。 默认情况下，此设置处于关闭状态，在通用编辑器中不可用。 根据您的环境，**设置**&#x200B;显示在标题或&#x200B;**更多操作** (**...**)中。 请参阅[包含网站导航链接](./opportunities/seo/internal-links.md#include-site-navigation-links)。
+1. 选择&#x200B;**分析页面**。 印前检查在当前页面上运行其所有审核并打开就绪仪表板，其中显示已通过的审核百分比以及找到的机会（按类别分组）。
 
 要了解预览结果并识别优化机会，请参阅[Preflight中的审核结果](./audit-results.md)。
 
@@ -41,5 +42,4 @@ Preflight会记住您最近运行的情况，因此，如果您离开并返回�
 
 当您重新加载以前的运行时，标题会显示该运行执行的时长，例如&#x200B;*2分钟前*&#x200B;或&#x200B;*昨天*，以便您一眼就能看出结果的当前程度。 标签会随着时间的推移而更新，并在就绪控制面板和审核详细信息页面之间移动时保持可见。
 
-审核完成并显示结果后，从&#x200B;**更多操作** (**...**)中选择&#x200B;**重新分析** 工具栏中的菜单放弃结果，然后重新运行每次审核。 查看Preflight[&#128279;](./audit-results.md#toolbar)中的审核结果。
-
+审核完成并显示结果后，在工具栏中选择&#x200B;**重新分析**&#x200B;以放弃结果并重新运行每次审核。 查看Preflight](./audit-results.md#toolbar)中的[审核结果。
