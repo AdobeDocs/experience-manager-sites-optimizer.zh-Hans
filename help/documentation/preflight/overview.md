@@ -4,16 +4,17 @@ description: 了解Preflight及其运行的审核，以便在发布之前评估�
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+    internal-label: Accessibility
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 28%
-
+source-wordcount: '389'
+ht-degree: 48%
 ---
-
 # AEM Sites Optimizer Preflight
 
 ![预检就绪仪表板](./assets/overview/hero.png){align="center"}
@@ -24,7 +25,7 @@ ht-degree: 28%
 
 AEM Sites Optimizer中的Preflight可帮助您在页面上线之前验证和优化页面，方法是分析内容和结构并展示包含可操作推荐的商机。 它经过专门设计，面向希望能确保页面高质量、高性能、发布准备就绪、同时减少返工的作者、营销人员和开发人员。
 
-您可以从创作环境中启动Preflight，然后选择&#x200B;**分析页面**&#x200B;以运行其审核。 审核会评估页面的一个方面，如其元数据或标题结构，并将相关审核预检分组为多个类别，如&#x200B;**SEO**&#x200B;和&#x200B;**辅助功能**。 然后，Preflight会报告页面的准备情况得分以及它找到的机会 — 您可以改进的具体内容，每个内容都有一个切实可行的建议。
+您可以从创作环境中启动Preflight，然后选择&#x200B;**分析页面**&#x200B;以运行其审核。 审核会评估页面的一个方面，如其元数据或标题结构，并将相关审核预检分组为多个类别，如&#x200B;**SEO**&#x200B;和&#x200B;**辅助功能**。 然后，Preflight会报告审核通过页面的百分比，以及它找到的机会 — 您可以改进的具体内容，每个内容都有一个切实可行的建议。
 
 ## 开始使用 Preflight
 
