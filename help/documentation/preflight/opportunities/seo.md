@@ -4,18 +4,18 @@ description: 了解Preflight在AEM Sites Optimizer中的您的页面上运行的
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 ---
 # SEO审核
 
-印前检查准备仪表板中的![SEO审核](./assets/seo/hero.png){align="center"}
+印前检查结果仪表板中的![SEO审核](./assets/seo/hero.png){align="center"}
 
 Preflight中的&#x200B;**SEO**&#x200B;类别将审核分组，以评估针对搜索引擎优化页面的效果。 运行Preflight审核时，这些审核会评估页面的元数据、标题结构、链接和内容，以及在发布之前可以查看和解决的表面机会。
 
-在就绪信息板中，展开&#x200B;**SEO**&#x200B;类别以查看每项审核、审核是否通过以及审核发现的机会数。 选择审核以打开其详细信息页面并处理机会。 要了解如何解释结果和解决机会，请参阅[印前检查中的审核结果](../audit-results.md)。
+在结果仪表板中，展开&#x200B;**SEO**&#x200B;类别以查看每次审核、审核是否通过以及审核找到的机会数。 选择审核以打开其详细信息页面并处理机会。 要了解如何解释结果和解决机会，请参阅[印前检查中的审核结果](../audit-results.md)。
 
 SEO类别包括以下审核：
 

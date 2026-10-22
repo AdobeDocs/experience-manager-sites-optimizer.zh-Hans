@@ -10,14 +10,14 @@ topic_v2:
     internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility
-source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 48%
 ---
 # AEM Sites Optimizer Preflight
 
-![预检就绪仪表板](./assets/overview/hero.png){align="center"}
+![预检结果仪表板](./assets/overview/hero.png){align="center"}
 
 >[!NOTE]
 >

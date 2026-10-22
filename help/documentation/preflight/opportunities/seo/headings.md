@@ -4,9 +4,9 @@ description: 了解AEM Sites Optimizer Preflight中的标题审核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '649'
 ht-degree: 0%
 ---
 # 标题审核
@@ -23,8 +23,6 @@ ht-degree: 0%
 
 * **空标题：**&#x200B;没有文本的H2、H3、H4、H5或H6。 仅包含空格或仅包含图像的标题计为空白。
 * **跳过的标题级别：**&#x200B;比前面的标题深一个以上的标题，例如，H2后跟H4，或H1后跟H3。 将在更深入的标题中报告此机会。
-
-据报告，两者都受到中度影响。
 
 H1标题由[元标记](./metatags.md)审核审核，该审核会检查页面上是否有缺失、空或过长的H1以及多个H1。
 
@@ -65,6 +63,6 @@ H1标题由[元标记](./metatags.md)审核审核，该审核会检查页面上�
 * **AEM Sites页面编辑器和Adobe Managed Services (AMS)：**&#x200B;预检滚动到标题并概述它。 突出显示需要&#x200B;**编辑模式**。
 * **通用编辑器：**&#x200B;预检选择标题本身或包含它的最近可编辑块。 对于编辑器不管理的内容中的标题，例如导航或页脚，Preflight会将其引入视图，但无法选择标题本身。
 
-有关详细信息，请参阅页面[&#128279;](../../audit-results.md#highlight-on-page)上的突出显示。
+有关详细信息，请参阅页面](../../audit-results.md#highlight-on-page)上的[突出显示。
 
 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。
