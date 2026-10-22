@@ -64,6 +64,6 @@ ht-degree: 1%
 每个机会都描述了问题和建议的更改，并显示页面标题或元描述的当前值。
 
 * **页面标题和元描述：**&#x200B;在您的网站设置它们的位置更新它们，例如，在AEM Sites的页面属性中或在Edge Delivery Services的页面元数据中。 这些标记位于页面标题中，因此页面&#x200B;**上的**&#x200B;突出显示对其不可用。
-* **H1标题：**&#x200B;使用页面&#x200B;**上的**&#x200B;高亮显示来查找内容中的标题。 在Edge Delivery Services、AEM Sites页面编辑器和Adobe Managed Services (AMS)中，Preflight滚动到标题并概述它；页面编辑器和AMS需要&#x200B;**编辑模式**。 在通用编辑器中，预检会选择标题或包含该标题的最近可编辑块。 导航或页脚中的标题会显示在视图中，但无法选择。 有关详细信息，请参阅页面](../../audit-results.md#highlight-on-page)上的[突出显示。
+* **H1标题：**&#x200B;使用页面&#x200B;**上的**&#x200B;高亮显示来查找内容中的标题。 在Edge Delivery Services、AEM Sites页面编辑器和Adobe Managed Services (AMS)中，Preflight滚动到标题并概述它；页面编辑器和AMS需要&#x200B;**编辑模式**。 在通用编辑器中，预检会选择标题或包含该标题的最近可编辑块。 导航或页脚中的标题会显示在视图中，但无法选择。 有关详细信息，请参阅页面[&#128279;](../../audit-results.md#highlight-on-page)上的突出显示。
 
 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。
