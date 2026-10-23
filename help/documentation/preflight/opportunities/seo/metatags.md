@@ -4,9 +4,9 @@ description: 了解AEM Sites Optimizer Preflight中的元数据审核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '801'
 ht-degree: 1%
 ---
 # 元标记审核
@@ -34,12 +34,6 @@ ht-degree: 1%
 | H1标题 | 最多70个字符 | 71到75个字符 | 超过75个字符 |
 
 这些范围是推荐的指南，而不是搜索引擎要求。 Preflight使用它们来决定何时报告机会。
-
-每个机会都报告在三个影响级别之一：
-
-* **高：**&#x200B;标记缺失或为空。
-* **审核：**&#x200B;页面标题或元描述太短，元描述或H1太长，或页面具有多个H1。
-* **低：**&#x200B;值超过理想长度但不太长，包括任何长度超过60个字符的页面标题。
 
 ## 如何读取值
 
