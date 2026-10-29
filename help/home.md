@@ -4,6 +4,7 @@ description: 使用 Sites Optimizer 提升您网站的性能——提高速度�
 TQID: https://experienceleague.adobe.com/tep2UnSJ4BsorZ9caKACfbOFyI1qvM2ZCxhjHd3vcSc
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 176

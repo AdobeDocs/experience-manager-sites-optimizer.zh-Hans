@@ -4,9 +4,12 @@ description: 了解 Sites Optimizer 的基础知识和导航方法。
 TQID: https://experienceleague.adobe.com/YnwwraMgmwnA7IuSnFdggMovi-PNgfxYN-rEYGh8V7I
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 532
