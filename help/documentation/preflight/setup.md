@@ -5,23 +5,18 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 47%
-
+source-wordcount: '877'
+ht-degree: 49%
 ---
-
 # 预检设置
 
 运行Preflight需要在创作环境中进行设置。 您可以为通用编辑器、基于文档的创作、AEM Sites页面编辑器或Adobe Managed Services设置Preflight，以便在发布页面之前对页面运行Preflight审核。
 
 ## 启用用户访问权限
 
-要使用Preflight，请确保您的用户至少已分配到[Adobe Admin Console](https://adminconsole.adobe.com)中的以下AEM Sites Optimizer产品配置文件之一：
-
-* AEM Sites Optimizer - 自动建议用户
-* AEM Sites Optimizer - 自动优化用户
+要使用Preflight，必须在[Adobe Experience Manager Sites Optimizer](https://adminconsole.adobe.com)中为用户分配&#x200B;**Adobe Admin Console**&#x200B;产品。
 
 ## 启用Preflight
 
@@ -160,7 +155,7 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
->仅支持使用 Adobe 的身份标识提供程序 (IMS) 对 AEM 作者进行身份验证的 Adobe Managed Services (AMS) 环境。 如果您的组织使用任何其他身份标识提供程序进行 AMS 身份验证，Preflight 就无法工作。
+>仅支持在 AEM Author 上使用 Adobe 的身份提供程序 (IMS) 进行身份验证的 Adobe Managed Services (AMS) 环境。 如果您的组织使用任何其他身份标识提供程序进行 AMS 身份验证，Preflight 就无法工作。
 
 将Preflight内置到AEM Sites页面编辑器工具栏中时，不需要使用小书签。 联系Adobe为您的组织安装该软件。 安装后，请按照以下步骤操作：
 
