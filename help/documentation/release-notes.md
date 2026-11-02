@@ -7,10 +7,10 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 733056458d3e34a9ef2e285adfc810a98159002b
+source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 2%
+source-wordcount: '3815'
+ht-degree: 1%
 ---
 
 # 发行说明
@@ -29,6 +29,10 @@ ht-degree: 2%
 ### 增强功能
 
 - **替代文本的Jira票证（提前访问）** — 为一个或多个替代文本问题创建Jira票证，每个票证中包含页面URL、图像URL和建议的替代文本。
+- **无法完成的预检审核** — 现在无法完成审核会显示其原因，而不是显示为通过。 在&#x200B;**%传递的**&#x200B;数字中，它计为未传递，CSV和PDF导出始终列出它。
+- **印前检查替代文本进度** — 当图像的AI检查仍在运行时，其替代文本机会会显示一个&#x200B;**正在生成建议**&#x200B;指示器。 在结果更改时，Opportunity Detail视图还保留在Opportunity上。
+- **预检外部链接原因** — 现在，外部链接审核将说明更多失败类型，包括服务器错误、重定向循环、需要登录的链接以及由于法律原因而不可用的链接。 超时或阻止自动检查的链接现在会要求您手动确认。
+- **印前检查页面捕获** — Preflight现在等待最多30秒加载慢速页面，然后才在通用编辑器之外分析页面。
 
 ## 2026年10月19至25日 {#october-19-25-2026}
 
