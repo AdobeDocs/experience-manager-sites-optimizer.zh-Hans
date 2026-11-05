@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7a1c63e47cd778635fd18113bc2b08c83447fe35
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '3973'
+source-wordcount: '3999'
 ht-degree: 1%
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 1%
 - **无法完成的预检审核** — 现在无法完成审核会显示其原因，而不是显示为通过。 在&#x200B;**%传递的**&#x200B;数字中，它计为未传递，CSV和PDF导出始终列出它。
 - **印前检查替代文本进度** — 当图像的AI检查仍在运行时，其替代文本机会会显示一个&#x200B;**正在生成建议**&#x200B;指示器。 在结果更改时，Opportunity Detail视图还保留在Opportunity上。
 - **预检外部链接原因** — 现在，外部链接审核将说明更多失败类型，包括服务器错误、重定向循环、需要登录的链接以及由于法律原因而不可用的链接。 超时或阻止自动检查的链接现在会要求您手动确认。
+- **预检Lorem Ipsum详细信息** — Lorem Ipsum发现现在可以识别占位符文本出现的位置、说明如何修复该文本以及显示其HTML标记中的文本。
 - **印前检查页面捕获** — Preflight现在等待最多30秒加载慢速页面，然后才在通用编辑器之外分析页面。
 
 ### 错误修复
