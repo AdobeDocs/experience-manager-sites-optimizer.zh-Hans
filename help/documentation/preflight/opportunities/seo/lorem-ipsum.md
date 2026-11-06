@@ -4,9 +4,9 @@ description: 了解AEM Sites Optimizer Preflight中的Lorem ipsum审核。
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 587aec4eb905a2b1ced746590ca25b8ed97b16c1
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 1%
 ---
 # Lorem ipsum审核
@@ -37,8 +37,12 @@ ht-degree: 1%
 ## 已知限制
 
 * **只检测到“lorem ipsum”：**&#x200B;其他占位符文本，如“TBD”或其他不带“lorem ipsum”的拉丁填充词。
-* **页面**&#x200B;上的突出显示不适用于页面标题或元数据，因为它们未显示在页面上。 使用机会中显示的文本查找他们。
+* **页面**&#x200B;上的突出显示不适用于页面标题或元数据，因为它们未显示在页面上。 使用&#x200B;**详细信息**&#x200B;和&#x200B;**元素**&#x200B;框查找文本。
 
 ## 如何解决
 
-当审核发现业务机会时，每个业务机会都会标识占位符文本出现的位置。 在可用位置，使用页面&#x200B;**上的**&#x200B;突出显示跳转到内容中的文本。 将占位符替换为实际内容，或将其移除。 对于替换文本和辅助功能标签，请编写图像或控件的描述。 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。
+查看&#x200B;**详细信息**&#x200B;以了解文本的位置，如页面标题、替换文本或标题。 **建议**&#x200B;说明如何修复它，并且&#x200B;**元素**&#x200B;框显示其标记中的文本。
+
+在页面&#x200B;**上使用**&#x200B;高亮显示（如果可用）。 隐藏元素可能以其他屏幕大小出现在菜单或对话框中。
+
+替换或删除占位符文本。 对于替换文本和辅助功能标签，请描述图像或控件。 有关更多指导，请参阅Preflight[&#128279;](../../audit-results.md)中的审核结果。
