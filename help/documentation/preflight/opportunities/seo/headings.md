@@ -1,15 +1,16 @@
 ---
 title: 印前检查标题审核
 description: 了解AEM Sites Optimizer Preflight中的标题审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '654'
 ht-degree: 0%
 ---
-# 标题审核
+# 印前检查 — 标题审核
 
 **标题**&#x200B;审核将审核您页面上的子标题（H2到H6）。 它标记没有文本的标题和跳过某个级别的标题，例如H2后直接跟H4。
 
@@ -63,6 +64,6 @@ H1标题由[元标记](./metatags.md)审核审核，该审核会检查页面上�
 * **AEM Sites页面编辑器和Adobe Managed Services (AMS)：**&#x200B;预检滚动到标题并概述它。 突出显示需要&#x200B;**编辑模式**。
 * **通用编辑器：**&#x200B;预检选择标题本身或包含它的最近可编辑块。 对于编辑器不管理的内容中的标题，例如导航或页脚，Preflight会将其引入视图，但无法选择标题本身。
 
-有关详细信息，请参阅页面[&#128279;](../../audit-results.md#highlight-on-page)上的突出显示。
+有关详细信息，请参阅页面](../../audit-results.md#highlight-on-page)上的[突出显示。
 
 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。

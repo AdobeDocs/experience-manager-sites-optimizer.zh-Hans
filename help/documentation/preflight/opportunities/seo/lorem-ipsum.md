@@ -1,15 +1,16 @@
 ---
 title: Preflight Lorem Ipsum审核
 description: 了解AEM Sites Optimizer Preflight中的Lorem ipsum审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 1%
 ---
-# Lorem ipsum审核
+# Preflight - Lorem ipsum审核
 
 **Lorem ipsum**&#x200B;审核可检测页面内容中留下的占位符文本。
 
@@ -45,4 +46,4 @@ ht-degree: 1%
 
 在页面&#x200B;**上使用**&#x200B;高亮显示（如果可用）。 隐藏元素可能以其他屏幕大小出现在菜单或对话框中。
 
-替换或删除占位符文本。 对于替换文本和辅助功能标签，请描述图像或控件。 有关更多指导，请参阅Preflight[&#128279;](../../audit-results.md)中的审核结果。
+替换或删除占位符文本。 对于替换文本和辅助功能标签，请描述图像或控件。 有关更多指导，请参阅Preflight](../../audit-results.md)中的[审核结果。

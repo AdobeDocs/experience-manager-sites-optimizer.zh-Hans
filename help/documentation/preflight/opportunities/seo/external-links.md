@@ -1,15 +1,16 @@
 ---
 title: 印前检查外部链接审核
 description: 了解AEM Sites Optimizer Preflight中的外部链接审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1117'
 ht-degree: 0%
 ---
-# 外部链接审核
+# Preflight — 外部链接审核
 
 **外部链接**&#x200B;审核会审核页面上指向其他网站的链接。 审核会检查您正在编辑的页面中的每个外部链接，并标记已损坏、不安全或无法自动验证的链接。
 

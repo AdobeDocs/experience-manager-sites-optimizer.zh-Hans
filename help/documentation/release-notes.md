@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '4035'
+source-wordcount: '4063'
 ht-degree: 1%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 1%
 ### 增强功能
 
 - **印前检查元素面板** — **元素**&#x200B;部分现在显示图像缩略图或可读文本，而不是CSS选择器（如果可以），并允许您复制元素的文本或CSS选择器。
+- **预检Canonical HTTPS检查** — Canonical审核现在将标记使用`http://`而不是`https://`的规范URL，而不是标记协议与页面不同的规范URL。
 
 ## 2026年10月26日至11月1日 {#october-26-november-1-2026}
 

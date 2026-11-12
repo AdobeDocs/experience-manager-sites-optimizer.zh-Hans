@@ -1,15 +1,16 @@
 ---
 title: 印前检查车身尺寸审核
 description: 了解AEM Sites Optimizer的Preflight中的主体大小审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '697'
 ht-degree: 0%
 ---
-# 正文大小审核
+# 印前检查 — 正文大小审核
 
 **正文大小**&#x200B;审核将审核您页面上的正文内容量。 内容非常少的页面可能对读者不那么有用，并且可能在搜索结果中排名不佳。 审计标记页面中显示的文本太少。
 

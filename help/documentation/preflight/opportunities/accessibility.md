@@ -1,15 +1,16 @@
 ---
 title: 印前检查辅助功能审核
 description: 了解Preflight在AEM Sites Optimizer中的页面上运行的辅助功能审核。
+badgePreflightAccessibility: label="预检 — 辅助功能" type="Caution" url="./accessibility.md" tooltip="预检 — 辅助功能"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '198'
 ht-degree: 0%
 ---
-# 辅助功能审核
+# Preflight — 辅助功能审核
 
 ![印前检查结果仪表板中的辅助功能审核](./assets/accessibility/hero.png){align="center"}
 
