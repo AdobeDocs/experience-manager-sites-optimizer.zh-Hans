@@ -1,15 +1,16 @@
 ---
 title: 印前检查规范审核
 description: 了解AEM Sites Optimizer的Preflight中的Canonical审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 5c97431c2029e117339877219c2d6e4e30902a70
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
 ---
-# 规范审计
+# Preflight — 规范审核
 
 **Canonical**&#x200B;审核将审核您页面上的canonical链接。 规范链接是页面`<head>`中的`<link rel="canonical">`标记，它命名页面内容的首选URL。 审核会标记缺失、设置错误或指向页面本身以外的其他位置的规范链接。
 
@@ -25,7 +26,7 @@ ht-degree: 0%
 
 * **该页面是否有一个规范链接：**&#x200B;缺少该规范链接，或者该页面是否有多个。 多个指向不同URL的规范链接将单独报告，因为搜索引擎可能会忽略所有这些URL。
 * **标记是否正确设置：**&#x200B;标记是否在`<head>`之外，是否没有`href`特性或空特性，或是否带有可能导致搜索引擎忽略它的特性，如`hreflang`、`media`或`type`。
-* **URL是否正确：**&#x200B;规范URL是相对的，而不是绝对的；在路径或查询字符串中包含大写字母；使用与页面不同的协议（`http://`或`https://`）；或者指向与正在编辑的页面不同的页面。
+* **URL是否正确：**&#x200B;规范URL是相对的，而不是绝对的；在路径或查询字符串中包含大写字母；使用`http://`而不是`https://`；或者指向与正在编辑的页面不同的页面。
 
 ## 如何比较规范URL
 
@@ -38,4 +39,4 @@ Preflight在预览页面上运行，其主机通常与生产网站不同。 为�
 
 ## 如何解决
 
-当审核发现机会时，每个机会都会描述问题和建议的更改。 在大多数情况下，页面应该在`<head>`中正好有一个规范链接，该链接具有一个绝对URL，该绝对URL的小写路径指向页面本身。 如果页面有意将其他页面指向其规范版本（例如重复或打印机友好副本），您可以将其保持原样。 审计仍会报告此情况。 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。
+当审核发现机会时，每个机会都会描述问题和建议的更改。 在大多数情况下，页面应该在`<head>`中正好具有一个规范链接，该链接具有一个绝对`https://` URL，该绝对URL具有指向页面本身的小写路径。 如果页面有意将其他页面指向其规范版本（例如重复或打印机友好副本），您可以将其保持原样。 审计仍会报告此情况。 要了解如何查看和解决机会，请参阅[Preflight中的审核结果](../../audit-results.md)。

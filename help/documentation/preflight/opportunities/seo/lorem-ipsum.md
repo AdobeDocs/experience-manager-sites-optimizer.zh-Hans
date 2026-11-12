@@ -1,15 +1,16 @@
 ---
 title: Preflight Lorem Ipsum审核
 description: 了解AEM Sites Optimizer Preflight中的Lorem ipsum审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 1%
 ---
-# Lorem ipsum审核
+# Preflight - Lorem ipsum审核
 
 **Lorem ipsum**&#x200B;审核可检测页面内容中留下的占位符文本。
 

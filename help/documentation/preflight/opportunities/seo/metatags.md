@@ -1,15 +1,16 @@
 ---
 title: 印前检查元标记审核
 description: 了解AEM Sites Optimizer Preflight中的元数据审核。
+badgePreflightSEO: label="预检 — SEO" type="Caution" url="../seo.md" tooltip="预检 — SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '806'
 ht-degree: 1%
 ---
-# 元标记审核
+# 印前检查 — 元数据审核
 
 **元标记**&#x200B;审核将审核页面标题、元描述和主(H1)标题。 它会标记任何缺失、空或超出建议长度的页面，并标记具有多个H1标题的页面。
 
