@@ -269,7 +269,7 @@ Jira票证列出了受影响的页面，然后是问题：
 
 **Page URL:** https://www.adobe.com/products/photoshop/generative-fill.html
 
-**Image URL:** https://www.adobe.com/cc-shared/fragments/products/photoshop/generative-fill/personalization/media_1986ceaab1420f3df0c4ff92b962e01bd402c0d53.jpg?width=750&format=jpg&optimize=medium
+**Image URL:** https://www.adobe.com/cn/cc-shared/fragments/products/photoshop/generative-fill/personalization/media_1986ceaab1420f3df0c4ff92b962e01bd402c0d53.jpg?width=750&format=jpg&optimize=medium
 
 **Suggested alt text:** Photoshop Generate Similar displays three variations of a red-and-green tomato on a plate.
 ```
@@ -303,7 +303,7 @@ Sites Optimizer创建一个票证。 其中列出了反向链接页面，并为�
 
 **Broken target URL:** https://www.adobe.com/support/flash/how/subjects/jpdemo/
 
-**Suggested redirect:** https://www.adobe.com/support/flash/
+**Suggested redirect:** https://www.adobe.com/cn/support/flash/
 
 ---
 
@@ -311,7 +311,7 @@ Sites Optimizer创建一个票证。 其中列出了反向链接页面，并为�
 
 **Broken target URL:** https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&P5_Language=English
 
-**Suggested redirect:** https://www.adobe.com/shockwave/download/
+**Suggested redirect:** https://www.adobe.com/cn/shockwave/download/
 ```
 
 ![Jira票证由两个断开的回链接创建，显示反向链接页面和每个回链接的节](./assets/jira-integration/broken-backlinks-jira-ticket.png){align="center"}
